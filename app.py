@@ -3,6 +3,7 @@ import os
 import re
 import sqlite3
 import threading
+import time
 
 import pandas as pd
 import gradio as gr
@@ -15,11 +16,10 @@ from google.genai import types
 # =====================================================
 client = genai.Client(
     api_key=os.environ["GEMINI_API_KEY"],
-    http_options=types.HttpOptions(timeout=30000),  # 30 sec timeout
+    http_options=types.HttpOptions(timeout=60000),  # 60 sec timeout
 )
 
 PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
-FALLBACK_MODEL = "gemini-2.5-flash"
 
 TEAL = "#0f9d8a"
 AMBER = "#f5a623"
@@ -28,10 +28,10 @@ SLATE = "#94a3b8"
 
 def ask_gemini(prompt):
     last_error = None
-    for model in dict.fromkeys([PRIMARY_MODEL, FALLBACK_MODEL]):
+    for attempt in range(3):  # 3 tries, same model
         try:
             resp = client.models.generate_content(
-                model=model,
+                model=PRIMARY_MODEL,
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     temperature=0,
@@ -43,6 +43,7 @@ def ask_gemini(prompt):
             return resp.text.strip()
         except Exception as e:
             last_error = e
+            time.sleep(1.5 * (attempt + 1))  # short wait, then retry
     raise last_error
 
 

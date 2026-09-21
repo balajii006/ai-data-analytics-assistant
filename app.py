@@ -68,7 +68,7 @@ Rules:
 
     # Generate SQL
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.6-flash",
         contents=prompt
     )
 
@@ -156,7 +156,7 @@ Do not invent information.
 """
 
     insight_response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.6-flash",
         contents=insight_prompt
     )
 

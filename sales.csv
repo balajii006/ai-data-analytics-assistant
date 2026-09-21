@@ -1,0 +1,1501 @@
+Order_ID,Date,Product,Region,Quantity,Sales,Profit,Category,City,Customer_Type,Discount_Percent,Sales_Channel,Payment_Method
+2175,2025-01-01,Sparklers (10 pcs),Chennai,26,1264,433,Sparklers,Avadi,Wholesale,19,Shop,Cash
+2443,2025-01-01,Flower Pots (5 pcs),South TN,1,176,58,Ground,Tirunelveli,Retail,2,Shop,UPI
+2113,2025-01-02,Bijili Crackers (100),West TN,5,588,202,Sound,Tiruppur,Retail,2,Phone/WhatsApp,Cash
+2511,2025-01-02,Flower Pots (5 pcs),North TN,1,173,52,Ground,Trichy,Retail,4,Online,UPI
+2751,2025-01-02,Lakshmi Vedi (10 pcs),South TN,25,1732,362,Sound,Ramanathapuram,Wholesale,23,Shop,Cash
+3090,2025-01-02,Family Gift Box,Other States,23,31050,7878,Gift Box,Kochi,Gifting,10,Shop,UPI
+3293,2025-01-02,Flower Pots (5 pcs),Chennai,3,535,188,Ground,Chennai,Retail,1,Online,Cash
+3405,2025-01-03,Rockets (10 pcs),West TN,11,2154,739,Aerial,Salem,Gifting,11,Phone/WhatsApp,UPI
+2240,2025-01-04,Atom Bomb (10 pcs),West TN,25,3200,687,Sound,Salem,Wholesale,20,Shop,Cash
+3458,2025-01-04,Deluxe Gift Box,West TN,7,20335,4801,Gift Box,Tiruppur,Wholesale,17,Phone/WhatsApp,Credit
+2655,2025-01-05,Ground Chakkar (10 pcs),Chennai,4,538,198,Ground,Avadi,Retail,4,Phone/WhatsApp,UPI
+3120,2025-01-05,Family Gift Box,South TN,6,9000,3056,Gift Box,Ramanathapuram,Retail,0,Shop,UPI
+3140,2025-01-05,Sky Shot 7 Shot,West TN,5,2205,573,Aerial,Salem,Retail,2,Shop,UPI
+3353,2025-01-05,Rockets (10 pcs),North TN,15,2805,936,Aerial,Vellore,Gifting,15,Shop,UPI
+2108,2025-01-06,Kids Special Pack,Chennai,31,13330,4870,Gift Box,Kancheepuram,Gifting,14,Shop,UPI
+2772,2025-01-06,Deluxe Gift Box,Other States,33,106260,29074,Gift Box,Kochi,Gifting,8,Shop,Cash
+3484,2025-01-06,Flower Pots (5 pcs),South TN,6,1048,341,Ground,Madurai,Retail,3,Phone/WhatsApp,UPI
+2260,2025-01-07,Sparklers (10 pcs),Chennai,2,118,43,Sparklers,Chennai,Retail,2,Shop,Cash
+2967,2025-01-07,Lakshmi Vedi (10 pcs),South TN,2,175,50,Sound,Virudhunagar,Retail,3,Shop,Cash
+2382,2025-01-08,Ground Chakkar (10 pcs),West TN,3,412,130,Ground,Tiruppur,Retail,2,Online,UPI
+2539,2025-01-08,Sparklers (10 pcs),South TN,52,2402,714,Sparklers,Thoothukudi,Wholesale,23,Shop,Cash
+3204,2025-01-08,Multi Shot 30 Shot,Other States,8,7296,1717,Aerial,Bengaluru,Wholesale,24,Online,Cash
+3272,2025-01-09,Lakshmi Vedi (10 pcs),North TN,6,540,184,Sound,Trichy,Retail,0,Shop,UPI
+2370,2025-01-10,Sparklers (10 pcs),South TN,61,2855,760,Sparklers,Thoothukudi,Wholesale,22,Phone/WhatsApp,Cash
+2609,2025-01-10,Atom Bomb (10 pcs),South TN,5,776,263,Sound,Thoothukudi,Retail,3,Shop,UPI
+2823,2025-01-10,Ground Chakkar (10 pcs),South TN,3,403,128,Ground,Thoothukudi,Retail,4,Shop,UPI
+2082,2025-01-11,Rockets (10 pcs),West TN,23,4402,1527,Aerial,Tiruppur,Gifting,13,Shop,Cash
+2387,2025-01-11,Kids Special Pack,South TN,2,980,348,Gift Box,Thoothukudi,Retail,2,Shop,UPI
+3220,2025-01-11,Family Gift Box,Chennai,39,53235,12484,Gift Box,Avadi,Gifting,9,Phone/WhatsApp,Credit
+3446,2025-01-11,Fancy Fountain,North TN,2,686,219,Fancy,Thanjavur,Retail,2,Shop,Cash
+3095,2025-01-12,Sparklers (10 pcs),Chennai,5,288,90,Sparklers,Avadi,Retail,4,Shop,UPI
+3172,2025-01-13,Ground Chakkar (10 pcs),South TN,3,403,135,Ground,Ramanathapuram,Retail,4,Phone/WhatsApp,Cash
+2075,2025-01-14,Sparklers (10 pcs),South TN,166,6872,2248,Sparklers,Virudhunagar,Dealer,31,Phone/WhatsApp,Credit
+2140,2025-01-14,Multi Shot 30 Shot,Chennai,35,28980,6155,Aerial,Tambaram,Dealer,31,Shop,UPI
+2369,2025-01-14,Rockets (10 pcs),West TN,4,862,329,Aerial,Coimbatore,Retail,2,Online,UPI
+2510,2025-01-14,Flower Pots (5 pcs),West TN,93,12388,3213,Ground,Salem,Dealer,26,Shop,Card
+2679,2025-01-14,Deluxe Gift Box,Other States,1,3465,970,Gift Box,Kochi,Retail,1,Phone/WhatsApp,UPI
+2904,2025-01-14,Bijili Crackers (100),Chennai,5,588,169,Sound,Chennai,Retail,2,Shop,UPI
+3322,2025-01-14,Multi Shot 30 Shot,Other States,19,17100,3770,Aerial,Bengaluru,Wholesale,25,Online,Cash
+3375,2025-01-14,Multi Shot 30 Shot,Other States,1,1188,359,Aerial,Kochi,Retail,1,Shop,Cash
+2906,2025-01-15,Fancy Fountain,West TN,44,11704,3308,Fancy,Tiruppur,Wholesale,24,Phone/WhatsApp,Card
+3208,2025-01-15,Lakshmi Vedi (10 pcs),North TN,2,171,44,Sound,Trichy,Retail,5,Shop,Cash
+2409,2025-01-16,Sparklers (10 pcs),Chennai,2,118,43,Sparklers,Avadi,Retail,2,Phone/WhatsApp,UPI
+3135,2025-01-16,Ground Chakkar (10 pcs),Other States,75,8505,2332,Ground,Vijayawada,Wholesale,19,Phone/WhatsApp,UPI
+2630,2025-01-17,Lakshmi Vedi (10 pcs),South TN,58,3967,867,Sound,Ramanathapuram,Wholesale,24,Online,Card
+2822,2025-01-17,Flower Pots (5 pcs),North TN,5,891,289,Ground,Trichy,Retail,1,Shop,UPI
+2886,2025-01-17,Lakshmi Vedi (10 pcs),North TN,1,86,29,Sound,Cuddalore,Retail,4,Shop,UPI
+2949,2025-01-17,Sky Shot 7 Shot,West TN,47,17554,4988,Aerial,Tiruppur,Wholesale,17,Shop,UPI
+2060,2025-01-18,Family Gift Box,West TN,1,1485,399,Gift Box,Erode,Retail,1,Shop,Card
+2186,2025-01-18,Sky Shot 7 Shot,South TN,5,2160,653,Aerial,Madurai,Retail,4,Shop,UPI
+2433,2025-01-18,Sky Shot 7 Shot,South TN,4,1746,590,Aerial,Virudhunagar,Retail,3,Shop,Cash
+2614,2025-01-18,Lakshmi Vedi (10 pcs),South TN,3,259,78,Sound,Thoothukudi,Retail,4,Online,UPI
+2682,2025-01-18,Flower Pots (5 pcs),North TN,5,891,305,Ground,Vellore,Retail,1,Shop,UPI
+2716,2025-01-18,Kids Special Pack,Chennai,64,25920,8447,Gift Box,Chennai,Wholesale,19,Shop,UPI
+2381,2025-01-19,Atom Bomb (10 pcs),West TN,5,784,241,Sound,Coimbatore,Retail,2,Online,UPI
+3401,2025-01-19,Atom Bomb (10 pcs),South TN,4,621,160,Sound,Thoothukudi,Retail,3,Shop,UPI
+2041,2025-01-20,Ground Chakkar (10 pcs),West TN,11,1386,402,Ground,Erode,Gifting,10,Online,Cash
+2652,2025-01-20,Lakshmi Vedi (10 pcs),Chennai,71,5112,1187,Sound,Avadi,Wholesale,20,Online,UPI
+2932,2025-01-20,Bijili Crackers (100),South TN,43,4386,989,Sound,Tirunelveli,Wholesale,15,Phone/WhatsApp,Card
+2558,2025-01-21,Bijili Crackers (100),West TN,2,230,58,Sound,Coimbatore,Retail,4,Online,Cash
+2583,2025-01-21,Sparklers (10 pcs),South TN,6,349,128,Sparklers,Thoothukudi,Retail,3,Shop,Cash
+2885,2025-01-21,Bijili Crackers (100),South TN,44,4224,1207,Sound,Ramanathapuram,Wholesale,20,Shop,Card
+3388,2025-01-21,Atom Bomb (10 pcs),Chennai,180,20448,5451,Sound,Tambaram,Dealer,28,Phone/WhatsApp,Cash
+3430,2025-01-21,Bijili Crackers (100),South TN,182,16817,4311,Sound,Madurai,Dealer,23,Phone/WhatsApp,UPI
+2002,2025-01-22,Deluxe Gift Box,North TN,1,3395,882,Gift Box,Trichy,Retail,3,Phone/WhatsApp,UPI
+2152,2025-01-22,Bijili Crackers (100),South TN,3,356,101,Sound,Thoothukudi,Retail,1,Shop,UPI
+3106,2025-01-22,Sky Shot 7 Shot,Other States,40,14220,3530,Aerial,Vijayawada,Wholesale,21,Online,Cash
+3112,2025-01-22,Flower Pots (5 pcs),Chennai,30,4320,1289,Ground,Tambaram,Wholesale,20,Shop,UPI
+2065,2025-01-23,Bijili Crackers (100),North TN,30,3312,807,Sound,Trichy,Gifting,8,Shop,Cash
+2342,2025-01-23,Lakshmi Vedi (10 pcs),South TN,38,2839,669,Sound,Thoothukudi,Wholesale,17,Phone/WhatsApp,UPI
+2405,2025-01-23,Sparklers (10 pcs),South TN,3,178,69,Sparklers,Madurai,Retail,1,Shop,Cash
+2031,2025-01-24,Family Gift Box,Chennai,6,8730,2470,Gift Box,Kancheepuram,Retail,3,Shop,Cash
+2241,2025-01-24,Atom Bomb (10 pcs),South TN,5,792,227,Sound,Ramanathapuram,Retail,1,Phone/WhatsApp,Card
+2804,2025-01-24,Bijili Crackers (100),West TN,1,115,34,Sound,Erode,Retail,4,Phone/WhatsApp,Cash
+2128,2025-01-25,Lakshmi Vedi (10 pcs),South TN,2,176,45,Sound,Madurai,Retail,2,Shop,Cash
+2621,2025-01-25,Bijili Crackers (100),South TN,59,5310,1374,Sound,Tirunelveli,Wholesale,25,Phone/WhatsApp,UPI
+2838,2025-01-25,Kids Special Pack,Other States,2,980,405,Gift Box,Hyderabad,Retail,2,Phone/WhatsApp,UPI
+3008,2025-01-25,Rockets (10 pcs),South TN,63,11365,3927,Aerial,Virudhunagar,Wholesale,18,Phone/WhatsApp,UPI
+3094,2025-01-25,Lakshmi Vedi (10 pcs),Other States,82,5683,1497,Sound,Hyderabad,Dealer,23,Phone/WhatsApp,UPI
+3148,2025-01-25,Ground Chakkar (10 pcs),South TN,1,140,50,Ground,Ramanathapuram,Retail,0,Shop,UPI
+3161,2025-01-25,Fancy Fountain,South TN,6,2037,679,Fancy,Tirunelveli,Retail,3,Shop,UPI
+2206,2025-01-26,Multi Shot 30 Shot,South TN,17,16320,4238,Aerial,Virudhunagar,Wholesale,20,Shop,Card
+2329,2025-01-26,Lakshmi Vedi (10 pcs),Chennai,20,1566,505,Sound,Avadi,Gifting,13,Phone/WhatsApp,Cash
+3352,2025-01-26,Bijili Crackers (100),Chennai,3,356,104,Sound,Tambaram,Retail,1,Shop,UPI
+3397,2025-01-26,Bijili Crackers (100),Other States,136,12566,3235,Sound,Vijayawada,Dealer,23,Phone/WhatsApp,Card
+2278,2025-01-27,Flower Pots (5 pcs),Chennai,5,864,285,Ground,Tambaram,Retail,4,Shop,UPI
+2417,2025-01-27,Family Gift Box,Other States,16,21360,6528,Gift Box,Bengaluru,Gifting,11,Shop,UPI
+2596,2025-01-27,Lakshmi Vedi (10 pcs),Chennai,28,2066,614,Sound,Kancheepuram,Wholesale,18,Shop,UPI
+2707,2025-01-27,Rockets (10 pcs),North TN,155,24211,6976,Aerial,Thanjavur,Dealer,28,Phone/WhatsApp,UPI
+2854,2025-01-27,Flower Pots (5 pcs),Chennai,1,176,60,Ground,Chennai,Retail,2,Shop,Card
+3365,2025-01-27,Rockets (10 pcs),Chennai,3,647,234,Aerial,Tambaram,Retail,2,Phone/WhatsApp,UPI
+2869,2025-01-28,Bijili Crackers (100),North TN,163,14083,3770,Sound,Cuddalore,Dealer,28,Shop,UPI
+2163,2025-01-29,Lakshmi Vedi (10 pcs),Other States,39,3124,918,Sound,Kochi,Gifting,11,Phone/WhatsApp,UPI
+3315,2025-01-29,Bijili Crackers (100),South TN,4,470,135,Sound,Ramanathapuram,Retail,2,Shop,Card
+3026,2025-01-30,Ground Chakkar (10 pcs),South TN,64,6810,2105,Ground,Ramanathapuram,Dealer,24,Phone/WhatsApp,Credit
+3037,2025-01-30,Flower Pots (5 pcs),South TN,34,4590,1405,Ground,Tirunelveli,Wholesale,25,Phone/WhatsApp,Cash
+3096,2025-01-30,Sky Shot 7 Shot,South TN,1,432,141,Aerial,Tirunelveli,Retail,4,Shop,Cash
+3152,2025-01-30,Rockets (10 pcs),Chennai,1,209,74,Aerial,Avadi,Retail,5,Phone/WhatsApp,Credit
+3234,2025-01-30,Sparklers (10 pcs),Other States,4,240,79,Sparklers,Bengaluru,Retail,0,Online,UPI
+3264,2025-01-30,Lakshmi Vedi (10 pcs),Chennai,5,432,147,Sound,Avadi,Retail,4,Phone/WhatsApp,UPI
+3196,2025-01-31,Lakshmi Vedi (10 pcs),South TN,3,262,87,Sound,Madurai,Retail,3,Phone/WhatsApp,UPI
+3402,2025-01-31,Sky Shot 7 Shot,North TN,28,10962,2809,Aerial,Thanjavur,Gifting,13,Shop,Cash
+2971,2025-02-01,Ground Chakkar (10 pcs),West TN,5,700,216,Ground,Salem,Retail,0,Shop,Credit
+3197,2025-02-03,Sparklers (10 pcs),Chennai,20,912,241,Sparklers,Tambaram,Wholesale,24,Shop,UPI
+2724,2025-02-06,Fancy Fountain,South TN,1,332,117,Fancy,Tirunelveli,Retail,5,Shop,Cash
+2513,2025-02-07,Deluxe Gift Box,Other States,1,3465,821,Gift Box,Kochi,Retail,1,Phone/WhatsApp,UPI
+2739,2025-02-07,Family Gift Box,Chennai,3,4455,1114,Gift Box,Kancheepuram,Retail,1,Phone/WhatsApp,UPI
+2546,2025-02-08,Kids Special Pack,Chennai,77,29260,9873,Gift Box,Kancheepuram,Wholesale,24,Shop,Credit
+2118,2025-02-09,Lakshmi Vedi (10 pcs),Chennai,3,270,90,Sound,Avadi,Retail,0,Shop,UPI
+3018,2025-02-10,Multi Shot 30 Shot,Other States,9,8532,2255,Aerial,Vijayawada,Wholesale,21,Shop,Cash
+2839,2025-02-11,Rockets (10 pcs),West TN,3,660,244,Aerial,Tiruppur,Retail,0,Shop,Cash
+3240,2025-02-13,Sparklers (10 pcs),North TN,196,8702,2187,Sparklers,Vellore,Dealer,26,Phone/WhatsApp,Credit
+2536,2025-02-14,Sky Shot 7 Shot,North TN,1,441,153,Aerial,Thanjavur,Retail,2,Online,UPI
+2725,2025-02-16,Sky Shot 7 Shot,South TN,48,17928,5605,Aerial,Tirunelveli,Wholesale,17,Online,Cash
+3082,2025-02-16,Atom Bomb (10 pcs),Other States,50,6320,1678,Sound,Kochi,Wholesale,21,Shop,Cash
+2527,2025-02-19,Bijili Crackers (100),Chennai,79,7300,1761,Sound,Avadi,Wholesale,23,Shop,Cash
+3159,2025-02-19,Rockets (10 pcs),North TN,4,871,316,Aerial,Cuddalore,Retail,1,Shop,UPI
+2677,2025-02-20,Flower Pots (5 pcs),Chennai,26,3838,1050,Ground,Tambaram,Wholesale,18,Phone/WhatsApp,UPI
+2599,2025-02-22,Flower Pots (5 pcs),Other States,2,353,109,Ground,Hyderabad,Retail,2,Shop,UPI
+2762,2025-02-22,Lakshmi Vedi (10 pcs),Chennai,88,5544,1384,Sound,Avadi,Dealer,30,Online,Cash
+3249,2025-02-22,Sky Shot 7 Shot,North TN,1,432,123,Aerial,Trichy,Retail,4,Phone/WhatsApp,UPI
+2143,2025-02-24,Ground Chakkar (10 pcs),Other States,32,3718,1221,Ground,Hyderabad,Wholesale,17,Shop,Cash
+2522,2025-02-24,Fancy Fountain,South TN,170,44625,13103,Fancy,Tirunelveli,Dealer,25,Shop,UPI
+2733,2025-02-25,Multi Shot 30 Shot,Chennai,4,4704,1157,Aerial,Kancheepuram,Retail,2,Shop,UPI
+3256,2025-02-25,Sparklers (10 pcs),West TN,79,3697,1030,Sparklers,Erode,Wholesale,22,Phone/WhatsApp,UPI
+2427,2025-02-26,Atom Bomb (10 pcs),West TN,26,3120,745,Sound,Tiruppur,Wholesale,25,Phone/WhatsApp,UPI
+3002,2025-02-26,Flower Pots (5 pcs),North TN,1,178,52,Ground,Trichy,Retail,1,Shop,Cash
+3410,2025-03-01,Family Gift Box,South TN,5,5700,1573,Gift Box,Virudhunagar,Wholesale,24,Phone/WhatsApp,UPI
+3354,2025-03-04,Sparklers (10 pcs),North TN,62,2976,827,Sparklers,Cuddalore,Wholesale,20,Shop,Cash
+2312,2025-03-05,Lakshmi Vedi (10 pcs),Other States,1,86,26,Sound,Hyderabad,Retail,5,Phone/WhatsApp,UPI
+2364,2025-03-05,Atom Bomb (10 pcs),South TN,3,466,116,Sound,Tirunelveli,Retail,3,Shop,Cash
+2452,2025-03-07,Sparklers (10 pcs),Other States,2,115,40,Sparklers,Vijayawada,Retail,4,Shop,UPI
+2457,2025-03-07,Ground Chakkar (10 pcs),West TN,1,134,45,Ground,Erode,Retail,4,Phone/WhatsApp,UPI
+2935,2025-03-07,Sky Shot 7 Shot,South TN,4,1728,443,Aerial,Virudhunagar,Retail,4,Phone/WhatsApp,UPI
+3392,2025-03-07,Fancy Fountain,North TN,61,17720,5501,Fancy,Cuddalore,Wholesale,17,Shop,UPI
+2314,2025-03-10,Atom Bomb (10 pcs),South TN,66,8342,2447,Sound,Virudhunagar,Wholesale,21,Shop,UPI
+2491,2025-03-10,Lakshmi Vedi (10 pcs),West TN,2,176,55,Sound,Tiruppur,Retail,2,Shop,UPI
+2669,2025-03-10,Lakshmi Vedi (10 pcs),Chennai,1,89,29,Sound,Chennai,Retail,1,Shop,Cash
+2927,2025-03-10,Ground Chakkar (10 pcs),North TN,1,137,43,Ground,Trichy,Retail,2,Shop,UPI
+2110,2025-03-11,Sparklers (10 pcs),North TN,26,1201,380,Sparklers,Thanjavur,Wholesale,23,Shop,UPI
+2334,2025-03-11,Ground Chakkar (10 pcs),Chennai,4,560,209,Ground,Tambaram,Retail,0,Phone/WhatsApp,Cash
+3321,2025-03-12,Flower Pots (5 pcs),Other States,176,22493,6466,Ground,Bengaluru,Dealer,28,Phone/WhatsApp,Cash
+2166,2025-03-15,Family Gift Box,Chennai,1,1455,359,Gift Box,Tambaram,Retail,3,Shop,UPI
+2239,2025-03-16,Sky Shot 7 Shot,Chennai,3,1296,370,Aerial,Kancheepuram,Retail,4,Phone/WhatsApp,UPI
+2743,2025-03-17,Flower Pots (5 pcs),North TN,5,873,264,Ground,Thanjavur,Retail,3,Shop,Cash
+2197,2025-03-19,Flower Pots (5 pcs),West TN,1,180,67,Ground,Tiruppur,Retail,0,Phone/WhatsApp,Cash
+2851,2025-03-20,Sparklers (10 pcs),South TN,6,349,127,Sparklers,Tirunelveli,Retail,3,Phone/WhatsApp,Cash
+2985,2025-03-21,Flower Pots (5 pcs),West TN,56,8467,2646,Ground,Erode,Wholesale,16,Phone/WhatsApp,UPI
+3404,2025-03-22,Sparklers (10 pcs),West TN,72,3413,1048,Sparklers,Tiruppur,Wholesale,21,Phone/WhatsApp,Cash
+2351,2025-03-23,Kids Special Pack,South TN,6,2940,938,Gift Box,Tirunelveli,Retail,2,Online,UPI
+3168,2025-03-23,Lakshmi Vedi (10 pcs),South TN,43,3173,817,Sound,Ramanathapuram,Wholesale,18,Shop,Cash
+3339,2025-03-23,Lakshmi Vedi (10 pcs),South TN,28,2142,632,Sound,Madurai,Wholesale,15,Shop,UPI
+2594,2025-03-24,Sparklers (10 pcs),South TN,45,2241,635,Sparklers,Madurai,Wholesale,17,Online,Credit
+2589,2025-03-25,Multi Shot 30 Shot,Chennai,5,5880,1798,Aerial,Kancheepuram,Retail,2,Shop,UPI
+2758,2025-03-25,Rockets (10 pcs),Other States,5,1089,417,Aerial,Kochi,Retail,1,Shop,UPI
+2684,2025-03-27,Family Gift Box,South TN,16,18960,4967,Gift Box,Thoothukudi,Wholesale,21,Phone/WhatsApp,Cash
+3034,2025-03-28,Flower Pots (5 pcs),South TN,3,535,155,Ground,Madurai,Retail,1,Shop,Credit
+3116,2025-03-28,Sky Shot 7 Shot,Chennai,56,21420,5767,Aerial,Kancheepuram,Wholesale,15,Phone/WhatsApp,UPI
+2788,2025-03-29,Kids Special Pack,West TN,4,1940,688,Gift Box,Erode,Retail,3,Shop,UPI
+3306,2025-03-29,Sparklers (10 pcs),South TN,26,1342,380,Sparklers,Tirunelveli,Gifting,14,Online,Cash
+3343,2025-03-29,Rockets (10 pcs),Chennai,3,634,207,Aerial,Tambaram,Retail,4,Shop,Cash
+2489,2025-03-30,Rockets (10 pcs),Chennai,131,21903,6596,Aerial,Avadi,Dealer,24,Phone/WhatsApp,Cash
+2436,2025-03-31,Bijili Crackers (100),Chennai,3,356,103,Sound,Tambaram,Retail,1,Phone/WhatsApp,UPI
+2806,2025-03-31,Lakshmi Vedi (10 pcs),North TN,5,446,137,Sound,Cuddalore,Retail,1,Phone/WhatsApp,Credit
+2919,2025-03-31,Family Gift Box,Other States,3,4275,1252,Gift Box,Bengaluru,Retail,5,Phone/WhatsApp,Card
+2033,2025-04-01,Sparklers (10 pcs),South TN,6,353,131,Sparklers,Virudhunagar,Retail,2,Shop,Credit
+2943,2025-04-01,Rockets (10 pcs),Other States,25,5005,1828,Aerial,Vijayawada,Gifting,9,Phone/WhatsApp,Card
+3078,2025-04-02,Sparklers (10 pcs),South TN,32,1690,486,Sparklers,Madurai,Gifting,12,Phone/WhatsApp,Cash
+2318,2025-04-03,Ground Chakkar (10 pcs),Other States,2,280,103,Ground,Bengaluru,Retail,0,Shop,UPI
+2592,2025-04-03,Flower Pots (5 pcs),Other States,3,524,172,Ground,Bengaluru,Retail,3,Phone/WhatsApp,Card
+3042,2025-04-03,Kids Special Pack,South TN,24,10680,3433,Gift Box,Thoothukudi,Gifting,11,Online,UPI
+2404,2025-04-04,Sparklers (10 pcs),Chennai,10,522,159,Sparklers,Tambaram,Gifting,13,Phone/WhatsApp,UPI
+2627,2025-04-07,Rockets (10 pcs),Other States,184,30765,9147,Aerial,Kochi,Dealer,24,Phone/WhatsApp,Cash
+2565,2025-04-08,Flower Pots (5 pcs),Chennai,141,18274,4153,Ground,Chennai,Dealer,28,Shop,UPI
+2573,2025-04-08,Lakshmi Vedi (10 pcs),Other States,4,360,95,Sound,Kochi,Retail,0,Shop,UPI
+2977,2025-04-08,Flower Pots (5 pcs),Other States,29,4124,1174,Ground,Kochi,Wholesale,21,Online,UPI
+3151,2025-04-08,Lakshmi Vedi (10 pcs),South TN,47,3257,726,Sound,Thoothukudi,Wholesale,23,Shop,Cash
+2750,2025-04-09,Bijili Crackers (100),South TN,2,233,78,Sound,Thoothukudi,Retail,3,Phone/WhatsApp,Credit
+2448,2025-04-10,Bijili Crackers (100),South TN,51,4957,1515,Sound,Virudhunagar,Wholesale,19,Shop,Cash
+2544,2025-04-10,Sparklers (10 pcs),South TN,5,285,112,Sparklers,Tirunelveli,Retail,5,Online,UPI
+3215,2025-04-10,Lakshmi Vedi (10 pcs),West TN,6,524,167,Sound,Coimbatore,Retail,3,Phone/WhatsApp,UPI
+2032,2025-04-11,Ground Chakkar (10 pcs),North TN,1,137,50,Ground,Trichy,Retail,2,Phone/WhatsApp,Cash
+2272,2025-04-11,Lakshmi Vedi (10 pcs),West TN,26,1919,420,Sound,Coimbatore,Wholesale,18,Phone/WhatsApp,UPI
+2495,2025-04-11,Fancy Fountain,Other States,1,346,122,Fancy,Kochi,Retail,1,Online,UPI
+2529,2025-04-11,Ground Chakkar (10 pcs),North TN,3,416,124,Ground,Cuddalore,Retail,1,Phone/WhatsApp,UPI
+2922,2025-04-11,Family Gift Box,Chennai,31,33015,6496,Gift Box,Kancheepuram,Dealer,28,Shop,Cash
+2254,2025-04-12,Sparklers (10 pcs),West TN,66,3208,890,Sparklers,Salem,Wholesale,19,Phone/WhatsApp,Cash
+2313,2025-04-12,Family Gift Box,Other States,13,15015,4000,Gift Box,Bengaluru,Wholesale,23,Shop,Cash
+2055,2025-04-14,Ground Chakkar (10 pcs),South TN,5,693,233,Ground,Thoothukudi,Retail,1,Online,UPI
+2507,2025-04-14,Family Gift Box,North TN,6,8820,2203,Gift Box,Thanjavur,Retail,2,Shop,UPI
+2937,2025-04-14,Flower Pots (5 pcs),North TN,1,175,64,Ground,Trichy,Retail,3,Shop,UPI
+3263,2025-04-15,Fancy Fountain,South TN,85,23205,6226,Fancy,Ramanathapuram,Dealer,22,Online,Cash
+2026,2025-04-16,Ground Chakkar (10 pcs),Other States,3,416,124,Ground,Kochi,Retail,1,Shop,Cash
+2320,2025-04-16,Bijili Crackers (100),West TN,2,238,60,Sound,Coimbatore,Retail,1,Shop,UPI
+2921,2025-04-16,Bijili Crackers (100),West TN,3,356,111,Sound,Tiruppur,Retail,1,Phone/WhatsApp,Card
+2284,2025-04-17,Flower Pots (5 pcs),North TN,1,175,64,Ground,Trichy,Retail,3,Phone/WhatsApp,UPI
+2451,2025-04-17,Multi Shot 30 Shot,Other States,3,3528,840,Aerial,Hyderabad,Retail,2,Online,UPI
+2779,2025-04-17,Sparklers (10 pcs),South TN,23,1076,349,Sparklers,Madurai,Wholesale,22,Online,Cash
+3441,2025-04-17,Lakshmi Vedi (10 pcs),Other States,1,89,24,Sound,Hyderabad,Retail,1,Phone/WhatsApp,Cash
+3259,2025-04-19,Rockets (10 pcs),West TN,5,1056,373,Aerial,Erode,Retail,4,Shop,UPI
+2038,2025-04-20,Sparklers (10 pcs),Chennai,4,233,80,Sparklers,Tambaram,Retail,3,Phone/WhatsApp,UPI
+2219,2025-04-20,Ground Chakkar (10 pcs),South TN,4,549,196,Ground,Ramanathapuram,Retail,2,Shop,Cash
+2795,2025-04-20,Lakshmi Vedi (10 pcs),South TN,163,10562,2154,Sound,Tirunelveli,Dealer,28,Phone/WhatsApp,Cash
+2461,2025-04-21,Lakshmi Vedi (10 pcs),Other States,49,3440,846,Sound,Hyderabad,Wholesale,22,Online,UPI
+3311,2025-04-21,Flower Pots (5 pcs),Chennai,5,864,318,Ground,Avadi,Retail,4,Shop,Cash
+2054,2025-04-22,Kids Special Pack,North TN,30,13350,4091,Gift Box,Trichy,Gifting,11,Phone/WhatsApp,UPI
+3013,2025-04-22,Fancy Fountain,Chennai,1,336,124,Fancy,Kancheepuram,Retail,4,Shop,UPI
+3345,2025-04-22,Lakshmi Vedi (10 pcs),Other States,99,6772,1434,Sound,Vijayawada,Dealer,24,Phone/WhatsApp,Cash
+2455,2025-04-23,Ground Chakkar (10 pcs),South TN,18,2293,793,Ground,Madurai,Gifting,9,Phone/WhatsApp,Cash
+2568,2025-04-24,Rockets (10 pcs),North TN,5,1078,353,Aerial,Vellore,Retail,2,Shop,Card
+2761,2025-04-24,Rockets (10 pcs),South TN,4,862,299,Aerial,Madurai,Retail,2,Online,Cash
+3113,2025-04-24,Atom Bomb (10 pcs),North TN,6,960,261,Sound,Vellore,Retail,0,Online,UPI
+2674,2025-04-25,Ground Chakkar (10 pcs),South TN,48,5510,1843,Ground,Ramanathapuram,Wholesale,18,Online,UPI
+2747,2025-04-25,Lakshmi Vedi (10 pcs),Chennai,4,353,101,Sound,Chennai,Retail,2,Online,Cash
+2811,2025-04-26,Fancy Fountain,West TN,2,700,245,Fancy,Tiruppur,Retail,0,Shop,Card
+3071,2025-04-26,Multi Shot 30 Shot,Other States,4,4704,1030,Aerial,Vijayawada,Retail,2,Online,UPI
+2373,2025-04-28,Flower Pots (5 pcs),North TN,4,691,209,Ground,Vellore,Retail,4,Shop,UPI
+2783,2025-04-28,Multi Shot 30 Shot,South TN,12,11664,2181,Aerial,Madurai,Wholesale,19,Online,UPI
+2844,2025-04-29,Family Gift Box,Chennai,6,7110,1846,Gift Box,Chennai,Wholesale,21,Shop,Cash
+3269,2025-04-29,Rockets (10 pcs),West TN,6,1267,419,Aerial,Coimbatore,Retail,4,Shop,Card
+3045,2025-04-30,Fancy Fountain,Other States,5,1662,483,Fancy,Bengaluru,Retail,5,Shop,Card
+3407,2025-04-30,Rockets (10 pcs),West TN,70,12782,4664,Aerial,Erode,Wholesale,17,Shop,UPI
+2683,2025-05-01,Kids Special Pack,Chennai,54,21330,7879,Gift Box,Tambaram,Wholesale,21,Phone/WhatsApp,UPI
+3191,2025-05-01,Bijili Crackers (100),Chennai,54,5184,1284,Sound,Avadi,Wholesale,20,Shop,Card
+3229,2025-05-01,Flower Pots (5 pcs),South TN,1,178,54,Ground,Thoothukudi,Retail,1,Shop,Cash
+2161,2025-05-02,Bijili Crackers (100),North TN,4,480,142,Sound,Thanjavur,Retail,0,Phone/WhatsApp,Cash
+2712,2025-05-02,Family Gift Box,West TN,17,22440,4999,Gift Box,Salem,Gifting,12,Phone/WhatsApp,Cash
+3146,2025-05-02,Ground Chakkar (10 pcs),South TN,1,134,43,Ground,Madurai,Retail,4,Shop,UPI
+2181,2025-05-03,Bijili Crackers (100),West TN,181,14987,3906,Sound,Erode,Dealer,31,Shop,Cash
+2244,2025-05-03,Flower Pots (5 pcs),West TN,5,882,311,Ground,Salem,Retail,2,Shop,UPI
+2632,2025-05-03,Atom Bomb (10 pcs),South TN,5,768,213,Sound,Ramanathapuram,Retail,4,Online,UPI
+2008,2025-05-07,Multi Shot 30 Shot,Chennai,17,16116,3796,Aerial,Tambaram,Wholesale,21,Shop,UPI
+2209,2025-05-07,Sparklers (10 pcs),North TN,5,297,92,Sparklers,Vellore,Retail,1,Shop,Cash
+2890,2025-05-07,Rockets (10 pcs),Other States,6,1307,502,Aerial,Kochi,Retail,1,Shop,UPI
+2500,2025-05-08,Sparklers (10 pcs),North TN,81,3499,997,Sparklers,Thanjavur,Dealer,28,Phone/WhatsApp,Cash
+2717,2025-05-08,Family Gift Box,Other States,30,40500,12369,Gift Box,Kochi,Gifting,10,Shop,UPI
+3110,2025-05-08,Atom Bomb (10 pcs),West TN,4,634,194,Sound,Erode,Retail,1,Shop,UPI
+2148,2025-05-09,Lakshmi Vedi (10 pcs),Chennai,73,5453,1716,Sound,Tambaram,Wholesale,17,Shop,UPI
+3126,2025-05-09,Lakshmi Vedi (10 pcs),North TN,4,353,116,Sound,Cuddalore,Retail,2,Phone/WhatsApp,UPI
+3132,2025-05-09,Sky Shot 7 Shot,Chennai,96,31104,5981,Aerial,Tambaram,Dealer,28,Phone/WhatsApp,Cash
+2867,2025-05-10,Lakshmi Vedi (10 pcs),West TN,64,4378,1291,Sound,Coimbatore,Wholesale,24,Shop,Cash
+2194,2025-05-11,Flower Pots (5 pcs),Chennai,26,3650,1205,Ground,Chennai,Wholesale,22,Shop,UPI
+2648,2025-05-12,Bijili Crackers (100),Other States,58,5568,1539,Sound,Bengaluru,Wholesale,20,Shop,Cash
+2486,2025-05-13,Lakshmi Vedi (10 pcs),West TN,72,5249,1339,Sound,Erode,Wholesale,19,Phone/WhatsApp,UPI
+2534,2025-05-14,Kids Special Pack,Chennai,28,12740,4970,Gift Box,Tambaram,Gifting,9,Online,UPI
+2323,2025-05-16,Lakshmi Vedi (10 pcs),South TN,155,10742,2540,Sound,Ramanathapuram,Dealer,23,Shop,UPI
+2393,2025-05-16,Flower Pots (5 pcs),South TN,45,6156,1736,Ground,Tirunelveli,Wholesale,24,Online,Cash
+2861,2025-05-16,Lakshmi Vedi (10 pcs),Other States,3,265,71,Sound,Bengaluru,Retail,2,Shop,Card
+2871,2025-05-16,Sky Shot 7 Shot,West TN,127,41148,10508,Aerial,Coimbatore,Dealer,28,Shop,UPI
+2188,2025-05-19,Atom Bomb (10 pcs),Chennai,21,3024,793,Sound,Chennai,Gifting,10,Online,UPI
+2479,2025-05-19,Bijili Crackers (100),South TN,73,7096,1606,Sound,Virudhunagar,Wholesale,19,Phone/WhatsApp,UPI
+2745,2025-05-19,Sparklers (10 pcs),Other States,42,2041,664,Sparklers,Kochi,Wholesale,19,Phone/WhatsApp,UPI
+2007,2025-05-20,Ground Chakkar (10 pcs),South TN,5,693,250,Ground,Ramanathapuram,Retail,1,Shop,Cash
+2199,2025-05-20,Sparklers (10 pcs),South TN,32,1440,426,Sparklers,Thoothukudi,Wholesale,25,Shop,UPI
+2250,2025-05-21,Family Gift Box,Chennai,5,7425,1980,Gift Box,Chennai,Retail,1,Online,UPI
+2552,2025-05-21,Sky Shot 7 Shot,Other States,1,446,149,Aerial,Hyderabad,Retail,1,Phone/WhatsApp,UPI
+2957,2025-05-21,Bijili Crackers (100),North TN,4,475,142,Sound,Trichy,Retail,1,Phone/WhatsApp,UPI
+3061,2025-05-21,Sparklers (10 pcs),North TN,6,356,108,Sparklers,Trichy,Retail,1,Shop,UPI
+2521,2025-05-23,Sparklers (10 pcs),Chennai,35,1659,460,Sparklers,Chennai,Wholesale,21,Shop,Cash
+2647,2025-05-23,Rockets (10 pcs),Chennai,196,31478,10802,Aerial,Kancheepuram,Dealer,27,Phone/WhatsApp,UPI
+2944,2025-05-24,Lakshmi Vedi (10 pcs),Chennai,34,2632,695,Sound,Avadi,Gifting,14,Phone/WhatsApp,Cash
+3274,2025-05-26,Ground Chakkar (10 pcs),North TN,6,832,296,Ground,Thanjavur,Retail,1,Shop,UPI
+2940,2025-05-29,Ground Chakkar (10 pcs),South TN,105,10878,3215,Ground,Madurai,Dealer,26,Shop,Cash
+2396,2025-05-31,Atom Bomb (10 pcs),South TN,46,6035,1537,Sound,Virudhunagar,Wholesale,18,Phone/WhatsApp,Cash
+2499,2025-05-31,Rockets (10 pcs),Chennai,2,440,145,Aerial,Chennai,Retail,0,Phone/WhatsApp,UPI
+3316,2025-06-02,Atom Bomb (10 pcs),Other States,23,3275,896,Sound,Hyderabad,Gifting,11,Shop,Cash
+2220,2025-06-03,Bijili Crackers (100),North TN,78,7675,1690,Sound,Cuddalore,Wholesale,18,Shop,Cash
+3382,2025-06-03,Fancy Fountain,Chennai,28,8918,2551,Fancy,Tambaram,Gifting,9,Shop,Cash
+2995,2025-06-05,Bijili Crackers (100),Chennai,2,233,78,Sound,Kancheepuram,Retail,3,Online,UPI
+3016,2025-06-05,Deluxe Gift Box,West TN,1,3325,758,Gift Box,Erode,Retail,5,Shop,UPI
+2261,2025-06-06,Deluxe Gift Box,Other States,1,3325,808,Gift Box,Hyderabad,Retail,5,Shop,UPI
+3144,2025-06-06,Atom Bomb (10 pcs),South TN,155,18600,4024,Sound,Tirunelveli,Dealer,25,Shop,Cash
+3181,2025-06-06,Family Gift Box,South TN,10,11850,2693,Gift Box,Ramanathapuram,Wholesale,21,Online,UPI
+2051,2025-06-07,Sky Shot 7 Shot,West TN,197,66488,16431,Aerial,Erode,Dealer,25,Phone/WhatsApp,Cash
+2702,2025-06-07,Multi Shot 30 Shot,Chennai,3,3420,870,Aerial,Chennai,Retail,5,Shop,Cash
+2480,2025-06-08,Family Gift Box,South TN,27,35640,10348,Gift Box,Virudhunagar,Gifting,12,Phone/WhatsApp,UPI
+3422,2025-06-08,Bijili Crackers (100),Chennai,5,594,156,Sound,Tambaram,Retail,1,Shop,Cash
+2296,2025-06-09,Lakshmi Vedi (10 pcs),Other States,61,4502,1250,Sound,Bengaluru,Wholesale,18,Shop,UPI
+3374,2025-06-09,Ground Chakkar (10 pcs),Other States,43,4575,1342,Ground,Vijayawada,Wholesale,24,Shop,UPI
+2629,2025-06-10,Multi Shot 30 Shot,South TN,36,37584,8768,Aerial,Thoothukudi,Gifting,13,Shop,UPI
+2865,2025-06-10,Family Gift Box,South TN,7,8295,1893,Gift Box,Ramanathapuram,Wholesale,21,Shop,Cash
+2283,2025-06-11,Sparklers (10 pcs),South TN,5,297,102,Sparklers,Ramanathapuram,Retail,1,Shop,Cash
+2394,2025-06-12,Flower Pots (5 pcs),West TN,4,684,223,Ground,Tiruppur,Retail,5,Phone/WhatsApp,Cash
+2817,2025-06-13,Bijili Crackers (100),Other States,6,691,182,Sound,Vijayawada,Retail,4,Shop,Card
+3494,2025-06-15,Family Gift Box,West TN,5,7425,2136,Gift Box,Coimbatore,Retail,1,Shop,UPI
+2317,2025-06-16,Rockets (10 pcs),South TN,1,209,62,Aerial,Virudhunagar,Retail,5,Shop,UPI
+2776,2025-06-16,Sparklers (10 pcs),West TN,16,816,289,Sparklers,Erode,Gifting,15,Shop,Cash
+2895,2025-06-16,Bijili Crackers (100),North TN,1,118,32,Sound,Vellore,Retail,2,Shop,Credit
+3006,2025-06-19,Sparklers (10 pcs),South TN,3,178,59,Sparklers,Virudhunagar,Retail,1,Shop,UPI
+3049,2025-06-19,Deluxe Gift Box,Chennai,1,3465,999,Gift Box,Avadi,Retail,1,Phone/WhatsApp,UPI
+2984,2025-06-21,Rockets (10 pcs),South TN,6,1280,388,Aerial,Thoothukudi,Retail,3,Phone/WhatsApp,Card
+2050,2025-06-24,Bijili Crackers (100),West TN,46,4692,1436,Sound,Coimbatore,Wholesale,15,Shop,UPI
+2285,2025-06-24,Bijili Crackers (100),South TN,2,230,76,Sound,Tirunelveli,Retail,4,Shop,UPI
+2959,2025-06-24,Lakshmi Vedi (10 pcs),West TN,2,176,48,Sound,Salem,Retail,2,Shop,Card
+3423,2025-06-24,Flower Pots (5 pcs),Chennai,60,8640,2251,Ground,Avadi,Wholesale,20,Phone/WhatsApp,UPI
+2498,2025-06-27,Fancy Fountain,Chennai,3,1018,293,Fancy,Chennai,Retail,3,Shop,UPI
+3299,2025-06-27,Sparklers (10 pcs),South TN,64,3187,1106,Sparklers,Tirunelveli,Wholesale,17,Shop,UPI
+2003,2025-06-28,Deluxe Gift Box,North TN,30,93450,22268,Gift Box,Trichy,Gifting,11,Phone/WhatsApp,Cash
+2048,2025-07-01,Lakshmi Vedi (10 pcs),Other States,6,524,139,Sound,Vijayawada,Retail,3,Shop,Cash
+3180,2025-07-01,Fancy Fountain,West TN,2,672,184,Fancy,Tiruppur,Retail,4,Shop,UPI
+2862,2025-07-02,Sky Shot 7 Shot,Chennai,31,10602,2432,Aerial,Tambaram,Wholesale,24,Shop,UPI
+3098,2025-07-02,Rockets (10 pcs),Chennai,2,422,142,Aerial,Tambaram,Retail,4,Online,UPI
+2705,2025-07-03,Multi Shot 30 Shot,North TN,4,4560,1218,Aerial,Trichy,Retail,5,Phone/WhatsApp,Card
+2463,2025-07-05,Ground Chakkar (10 pcs),Chennai,147,15847,4332,Ground,Chennai,Dealer,23,Shop,UPI
+2663,2025-07-05,Atom Bomb (10 pcs),Other States,63,7963,1857,Sound,Kochi,Wholesale,21,Shop,UPI
+2644,2025-07-06,Bijili Crackers (100),North TN,38,4058,1095,Sound,Thanjavur,Gifting,11,Shop,Cash
+2270,2025-07-08,Lakshmi Vedi (10 pcs),South TN,67,4342,1001,Sound,Ramanathapuram,Dealer,28,Shop,UPI
+2299,2025-07-09,Ground Chakkar (10 pcs),South TN,3,416,117,Ground,Virudhunagar,Retail,1,Phone/WhatsApp,UPI
+3024,2025-07-09,Rockets (10 pcs),West TN,25,4510,1207,Aerial,Salem,Wholesale,18,Shop,Cash
+3038,2025-07-10,Lakshmi Vedi (10 pcs),South TN,1,89,27,Sound,Virudhunagar,Retail,1,Shop,UPI
+3467,2025-07-10,Sky Shot 7 Shot,South TN,6,2565,683,Aerial,Madurai,Retail,5,Shop,UPI
+3327,2025-07-11,Family Gift Box,North TN,6,8640,2325,Gift Box,Thanjavur,Retail,4,Phone/WhatsApp,UPI
+2821,2025-07-12,Lakshmi Vedi (10 pcs),Other States,2,175,43,Sound,Vijayawada,Retail,3,Shop,UPI
+2102,2025-07-13,Family Gift Box,West TN,4,5700,1675,Gift Box,Coimbatore,Retail,5,Phone/WhatsApp,Cash
+2715,2025-07-14,Family Gift Box,Chennai,34,37740,9911,Gift Box,Kancheepuram,Dealer,26,Phone/WhatsApp,Card
+2170,2025-07-15,Flower Pots (5 pcs),Chennai,147,20374,6125,Ground,Kancheepuram,Dealer,23,Shop,UPI
+3370,2025-07-17,Sky Shot 7 Shot,West TN,2,873,266,Aerial,Erode,Retail,3,Shop,Cash
+2004,2025-07-18,Sparklers (10 pcs),South TN,55,2475,640,Sparklers,Ramanathapuram,Wholesale,25,Shop,UPI
+3273,2025-07-19,Flower Pots (5 pcs),Other States,1,178,59,Ground,Hyderabad,Retail,1,Shop,Card
+3035,2025-07-21,Rockets (10 pcs),South TN,1,213,76,Aerial,Tirunelveli,Retail,3,Online,Cash
+3007,2025-07-22,Sky Shot 7 Shot,Chennai,21,7749,1687,Aerial,Chennai,Wholesale,18,Phone/WhatsApp,UPI
+2485,2025-07-24,Lakshmi Vedi (10 pcs),West TN,74,5128,1343,Sound,Erode,Wholesale,23,Shop,Cash
+2067,2025-07-25,Flower Pots (5 pcs),West TN,67,9889,3221,Ground,Erode,Wholesale,18,Shop,UPI
+2415,2025-07-26,Rockets (10 pcs),South TN,2,422,127,Aerial,Thoothukudi,Retail,4,Shop,UPI
+2551,2025-07-26,Ground Chakkar (10 pcs),North TN,184,18547,5915,Ground,Cuddalore,Dealer,28,Phone/WhatsApp,Card
+2891,2025-07-26,Kids Special Pack,Chennai,1,480,183,Gift Box,Tambaram,Retail,4,Shop,UPI
+2842,2025-07-27,Ground Chakkar (10 pcs),Chennai,3,420,158,Ground,Chennai,Retail,0,Shop,UPI
+2100,2025-07-29,Deluxe Gift Box,South TN,1,3360,882,Gift Box,Virudhunagar,Retail,4,Shop,UPI
+2434,2025-07-29,Fancy Fountain,South TN,50,13300,3387,Fancy,Tirunelveli,Wholesale,24,Shop,Cash
+2818,2025-07-29,Sparklers (10 pcs),North TN,183,7576,2314,Sparklers,Cuddalore,Dealer,31,Online,Cash
+3214,2025-07-29,Bijili Crackers (100),South TN,75,6840,1588,Sound,Thoothukudi,Wholesale,24,Phone/WhatsApp,Card
+2216,2025-07-30,Fancy Fountain,Other States,3,1040,316,Fancy,Hyderabad,Retail,1,Phone/WhatsApp,UPI
+2535,2025-07-30,Bijili Crackers (100),South TN,74,7459,1992,Sound,Madurai,Wholesale,16,Shop,UPI
+3406,2025-07-31,Lakshmi Vedi (10 pcs),North TN,2,178,51,Sound,Cuddalore,Retail,1,Phone/WhatsApp,Card
+3449,2025-07-31,Family Gift Box,South TN,40,43200,10303,Gift Box,Thoothukudi,Dealer,28,Phone/WhatsApp,UPI
+2092,2025-08-01,Sparklers (10 pcs),South TN,2,118,43,Sparklers,Virudhunagar,Retail,2,Shop,Cash
+2225,2025-08-01,Rockets (10 pcs),South TN,4,845,295,Aerial,Virudhunagar,Retail,4,Shop,UPI
+2248,2025-08-01,Deluxe Gift Box,Chennai,1,3430,805,Gift Box,Chennai,Retail,2,Phone/WhatsApp,UPI
+2265,2025-08-01,Lakshmi Vedi (10 pcs),Chennai,4,349,119,Sound,Tambaram,Retail,3,Shop,Cash
+2294,2025-08-01,Fancy Fountain,North TN,2,672,225,Fancy,Thanjavur,Retail,4,Phone/WhatsApp,Cash
+2406,2025-08-01,Sparklers (10 pcs),South TN,22,1135,323,Sparklers,Tirunelveli,Gifting,14,Shop,Cash
+2441,2025-08-01,Kids Special Pack,West TN,38,14440,3655,Gift Box,Tiruppur,Wholesale,24,Phone/WhatsApp,Cash
+2954,2025-08-01,Multi Shot 30 Shot,Other States,4,4752,1303,Aerial,Bengaluru,Retail,1,Phone/WhatsApp,UPI
+3060,2025-08-01,Multi Shot 30 Shot,Chennai,10,9600,2647,Aerial,Avadi,Wholesale,20,Shop,Card
+3493,2025-08-01,Ground Chakkar (10 pcs),South TN,1,139,51,Ground,Thoothukudi,Retail,1,Shop,UPI
+2214,2025-08-02,Kids Special Pack,Other States,3,1470,579,Gift Box,Bengaluru,Retail,2,Phone/WhatsApp,UPI
+2268,2025-08-02,Deluxe Gift Box,Chennai,1,3465,829,Gift Box,Chennai,Retail,1,Shop,Cash
+3050,2025-08-02,Lakshmi Vedi (10 pcs),South TN,2,173,45,Sound,Virudhunagar,Retail,4,Shop,Cash
+3154,2025-08-02,Flower Pots (5 pcs),Other States,6,1069,313,Ground,Kochi,Retail,1,Shop,UPI
+2703,2025-08-03,Multi Shot 30 Shot,Other States,1,1152,304,Aerial,Hyderabad,Retail,4,Shop,Cash
+3489,2025-08-03,Lakshmi Vedi (10 pcs),Other States,3,262,81,Sound,Vijayawada,Retail,3,Shop,UPI
+2015,2025-08-04,Rockets (10 pcs),South TN,60,11088,3213,Aerial,Virudhunagar,Wholesale,16,Phone/WhatsApp,Cash
+2040,2025-08-04,Bijili Crackers (100),South TN,111,9457,2704,Sound,Madurai,Dealer,28,Online,Card
+2402,2025-08-04,Ground Chakkar (10 pcs),North TN,50,5530,1817,Ground,Thanjavur,Wholesale,21,Shop,Cash
+2617,2025-08-04,Bijili Crackers (100),South TN,35,3192,709,Sound,Virudhunagar,Wholesale,24,Shop,UPI
+3170,2025-08-04,Atom Bomb (10 pcs),South TN,2,307,91,Sound,Thoothukudi,Retail,4,Phone/WhatsApp,Credit
+2068,2025-08-05,Atom Bomb (10 pcs),South TN,178,21075,4466,Sound,Tirunelveli,Dealer,26,Phone/WhatsApp,Cash
+2340,2025-08-05,Flower Pots (5 pcs),South TN,5,855,276,Ground,Tirunelveli,Retail,5,Shop,UPI
+2542,2025-08-05,Sky Shot 7 Shot,Other States,1,446,154,Aerial,Vijayawada,Retail,1,Phone/WhatsApp,UPI
+2554,2025-08-05,Sparklers (10 pcs),South TN,25,1260,384,Sparklers,Tirunelveli,Wholesale,16,Shop,UPI
+2584,2025-08-05,Sky Shot 7 Shot,West TN,33,12771,3590,Aerial,Salem,Gifting,14,Shop,Cash
+2664,2025-08-05,Multi Shot 30 Shot,North TN,5,4800,1003,Aerial,Trichy,Wholesale,20,Phone/WhatsApp,UPI
+2706,2025-08-05,Sparklers (10 pcs),South TN,163,6748,2039,Sparklers,Ramanathapuram,Dealer,31,Phone/WhatsApp,Card
+3232,2025-08-05,Sparklers (10 pcs),West TN,12,612,187,Sparklers,Erode,Gifting,15,Shop,Cash
+2046,2025-08-06,Sparklers (10 pcs),South TN,70,3234,1148,Sparklers,Tirunelveli,Dealer,23,Shop,UPI
+2177,2025-08-06,Deluxe Gift Box,Chennai,1,3360,884,Gift Box,Tambaram,Retail,4,Online,Cash
+2277,2025-08-06,Sparklers (10 pcs),West TN,116,5290,1643,Sparklers,Erode,Dealer,24,Shop,UPI
+2549,2025-08-06,Rockets (10 pcs),Chennai,43,7757,2346,Aerial,Tambaram,Wholesale,18,Shop,Cash
+2816,2025-08-06,Ground Chakkar (10 pcs),Chennai,1,134,37,Ground,Kancheepuram,Retail,4,Shop,Cash
+2011,2025-08-07,Sky Shot 7 Shot,Chennai,33,13068,3969,Aerial,Tambaram,Gifting,12,Shop,Card
+2095,2025-08-07,Sky Shot 7 Shot,Other States,6,2619,855,Aerial,Bengaluru,Retail,3,Shop,Card
+2483,2025-08-07,Multi Shot 30 Shot,South TN,6,6840,1543,Aerial,Madurai,Retail,5,Shop,UPI
+2728,2025-08-07,Bijili Crackers (100),North TN,69,7038,1915,Sound,Trichy,Wholesale,15,Online,UPI
+2308,2025-08-08,Sky Shot 7 Shot,North TN,5,2160,628,Aerial,Thanjavur,Retail,4,Online,UPI
+3387,2025-08-08,Kids Special Pack,Chennai,3,1455,510,Gift Box,Tambaram,Retail,3,Phone/WhatsApp,UPI
+3496,2025-08-08,Fancy Fountain,West TN,23,6118,2025,Fancy,Erode,Wholesale,24,Phone/WhatsApp,Credit
+2379,2025-08-09,Sparklers (10 pcs),Chennai,6,346,132,Sparklers,Avadi,Retail,4,Shop,Cash
+2442,2025-08-09,Flower Pots (5 pcs),Other States,196,25402,7897,Ground,Kochi,Dealer,28,Online,Cash
+3283,2025-08-09,Deluxe Gift Box,South TN,44,106260,21046,Gift Box,Virudhunagar,Dealer,31,Shop,UPI
+3325,2025-08-09,Rockets (10 pcs),Chennai,3,640,215,Aerial,Kancheepuram,Retail,3,Shop,UPI
+2623,2025-08-10,Sky Shot 7 Shot,Other States,3,1282,397,Aerial,Vijayawada,Retail,5,Shop,Card
+2907,2025-08-10,Fancy Fountain,South TN,4,1386,402,Fancy,Ramanathapuram,Retail,1,Shop,UPI
+3206,2025-08-10,Flower Pots (5 pcs),North TN,168,23587,7328,Ground,Thanjavur,Dealer,22,Phone/WhatsApp,Card
+2200,2025-08-11,Bijili Crackers (100),Other States,1,119,34,Sound,Bengaluru,Retail,1,Online,UPI
+3331,2025-08-11,Kids Special Pack,Chennai,6,2940,1005,Gift Box,Tambaram,Retail,2,Phone/WhatsApp,UPI
+3367,2025-08-11,Sky Shot 7 Shot,West TN,5,2228,658,Aerial,Tiruppur,Retail,1,Shop,UPI
+2109,2025-08-12,Ground Chakkar (10 pcs),West TN,1,139,51,Ground,Salem,Retail,1,Phone/WhatsApp,Cash
+2446,2025-08-12,Flower Pots (5 pcs),Chennai,2,346,125,Ground,Chennai,Retail,4,Phone/WhatsApp,Cash
+2425,2025-08-14,Atom Bomb (10 pcs),West TN,61,8198,2044,Sound,Erode,Wholesale,16,Online,Cash
+2849,2025-08-14,Ground Chakkar (10 pcs),North TN,37,4714,1454,Ground,Vellore,Gifting,9,Shop,UPI
+2399,2025-08-15,Kids Special Pack,North TN,1,500,190,Gift Box,Thanjavur,Retail,0,Shop,Cash
+2586,2025-08-15,Lakshmi Vedi (10 pcs),North TN,31,2455,671,Sound,Thanjavur,Gifting,12,Phone/WhatsApp,Cash
+2741,2025-08-15,Sky Shot 7 Shot,South TN,80,30240,6832,Aerial,Tirunelveli,Wholesale,16,Phone/WhatsApp,Cash
+2864,2025-08-15,Sky Shot 7 Shot,South TN,4,1782,540,Aerial,Tirunelveli,Retail,1,Shop,UPI
+2974,2025-08-15,Atom Bomb (10 pcs),Chennai,5,792,274,Sound,Kancheepuram,Retail,1,Shop,Cash
+3342,2025-08-15,Lakshmi Vedi (10 pcs),Chennai,178,12015,3331,Sound,Chennai,Dealer,25,Shop,Cash
+2154,2025-08-16,Flower Pots (5 pcs),South TN,1,171,47,Ground,Thoothukudi,Retail,5,Phone/WhatsApp,UPI
+2217,2025-08-16,Rockets (10 pcs),South TN,69,12448,4163,Aerial,Thoothukudi,Wholesale,18,Online,UPI
+2223,2025-08-16,Sparklers (10 pcs),Other States,18,950,323,Sparklers,Bengaluru,Gifting,12,Shop,UPI
+2395,2025-08-16,Sparklers (10 pcs),North TN,1,57,20,Sparklers,Vellore,Retail,5,Phone/WhatsApp,UPI
+2730,2025-08-16,Flower Pots (5 pcs),North TN,119,14566,4121,Ground,Cuddalore,Dealer,32,Phone/WhatsApp,Card
+2017,2025-08-17,Rockets (10 pcs),West TN,47,8065,2307,Aerial,Erode,Wholesale,22,Phone/WhatsApp,UPI
+2675,2025-08-17,Sparklers (10 pcs),South TN,24,1195,358,Sparklers,Madurai,Wholesale,17,Phone/WhatsApp,Cash
+2880,2025-08-17,Rockets (10 pcs),South TN,6,1280,453,Aerial,Tirunelveli,Retail,3,Shop,UPI
+3103,2025-08-17,Flower Pots (5 pcs),North TN,2,356,128,Ground,Cuddalore,Retail,1,Shop,Cash
+3239,2025-08-17,Family Gift Box,Other States,5,6000,1547,Gift Box,Kochi,Wholesale,20,Shop,Cash
+2025,2025-08-18,Fancy Fountain,South TN,44,12166,3778,Fancy,Tirunelveli,Wholesale,21,Shop,Card
+3163,2025-08-18,Kids Special Pack,Chennai,2,960,331,Gift Box,Kancheepuram,Retail,4,Phone/WhatsApp,UPI
+3351,2025-08-18,Family Gift Box,West TN,1,1440,365,Gift Box,Erode,Retail,4,Shop,Cash
+2103,2025-08-19,Rockets (10 pcs),West TN,4,871,328,Aerial,Coimbatore,Retail,1,Shop,UPI
+2353,2025-08-19,Bijili Crackers (100),Chennai,1,119,31,Sound,Avadi,Retail,1,Shop,Card
+2357,2025-08-19,Rockets (10 pcs),Other States,5,1089,360,Aerial,Vijayawada,Retail,1,Shop,Cash
+2518,2025-08-19,Family Gift Box,West TN,7,8820,1983,Gift Box,Salem,Wholesale,16,Shop,UPI
+2650,2025-08-19,Sky Shot 7 Shot,Chennai,2,882,218,Aerial,Chennai,Retail,2,Online,Cash
+3418,2025-08-19,Bijili Crackers (100),South TN,1,115,36,Sound,Thoothukudi,Retail,4,Phone/WhatsApp,Cash
+2018,2025-08-20,Rockets (10 pcs),West TN,42,7854,2566,Aerial,Salem,Wholesale,15,Phone/WhatsApp,Cash
+2080,2025-08-20,Family Gift Box,Chennai,1,1425,360,Gift Box,Chennai,Retail,5,Phone/WhatsApp,Card
+2325,2025-08-20,Lakshmi Vedi (10 pcs),Chennai,75,5468,1424,Sound,Tambaram,Wholesale,19,Shop,UPI
+2808,2025-08-20,Bijili Crackers (100),South TN,4,461,117,Sound,Madurai,Retail,4,Phone/WhatsApp,Cash
+2893,2025-08-20,Family Gift Box,South TN,6,8730,2204,Gift Box,Tirunelveli,Retail,3,Shop,UPI
+2398,2025-08-21,Atom Bomb (10 pcs),West TN,4,614,196,Sound,Tiruppur,Retail,4,Shop,Card
+2503,2025-08-21,Family Gift Box,North TN,1,1485,373,Gift Box,Vellore,Retail,1,Shop,Cash
+2577,2025-08-21,Multi Shot 30 Shot,South TN,2,2376,595,Aerial,Thoothukudi,Retail,1,Online,UPI
+3307,2025-08-21,Bijili Crackers (100),South TN,3,349,94,Sound,Thoothukudi,Retail,3,Shop,Cash
+3419,2025-08-21,Bijili Crackers (100),South TN,2,235,60,Sound,Thoothukudi,Retail,2,Shop,Cash
+3425,2025-08-21,Kids Special Pack,North TN,21,8820,3239,Gift Box,Cuddalore,Wholesale,16,Shop,Cash
+2602,2025-08-22,Lakshmi Vedi (10 pcs),South TN,20,1494,352,Sound,Ramanathapuram,Wholesale,17,Shop,Cash
+3486,2025-08-22,Kids Special Pack,Other States,4,1940,697,Gift Box,Kochi,Retail,3,Shop,UPI
+2316,2025-08-23,Bijili Crackers (100),North TN,3,346,106,Sound,Thanjavur,Retail,4,Phone/WhatsApp,UPI
+3017,2025-08-23,Bijili Crackers (100),North TN,31,2976,710,Sound,Cuddalore,Wholesale,20,Shop,UPI
+3147,2025-08-23,Flower Pots (5 pcs),South TN,74,10523,2838,Ground,Madurai,Wholesale,21,Shop,Cash
+2290,2025-08-24,Sparklers (10 pcs),Chennai,32,1613,524,Sparklers,Kancheepuram,Wholesale,16,Shop,UPI
+2572,2025-08-24,Ground Chakkar (10 pcs),South TN,38,4575,1553,Ground,Ramanathapuram,Gifting,14,Shop,UPI
+2608,2025-08-24,Sparklers (10 pcs),Chennai,4,238,81,Sparklers,Avadi,Retail,1,Shop,UPI
+2832,2025-08-24,Flower Pots (5 pcs),West TN,5,891,303,Ground,Erode,Retail,1,Shop,UPI
+2111,2025-08-25,Atom Bomb (10 pcs),West TN,4,627,160,Sound,Erode,Retail,2,Shop,UPI
+2478,2025-08-25,Lakshmi Vedi (10 pcs),West TN,1,89,31,Sound,Coimbatore,Retail,1,Shop,UPI
+2494,2025-08-25,Sparklers (10 pcs),North TN,4,238,92,Sparklers,Vellore,Retail,1,Shop,UPI
+2556,2025-08-25,Lakshmi Vedi (10 pcs),Other States,5,436,147,Sound,Hyderabad,Retail,3,Online,Cash
+3058,2025-08-25,Ground Chakkar (10 pcs),Chennai,2,272,84,Ground,Chennai,Retail,3,Phone/WhatsApp,Cash
+3127,2025-08-25,Sky Shot 7 Shot,South TN,6,2619,696,Aerial,Tirunelveli,Retail,3,Shop,UPI
+3162,2025-08-25,Flower Pots (5 pcs),Chennai,1,173,58,Ground,Tambaram,Retail,4,Online,Cash
+3490,2025-08-25,Multi Shot 30 Shot,North TN,2,2352,615,Aerial,Trichy,Retail,2,Phone/WhatsApp,Cash
+2748,2025-08-26,Atom Bomb (10 pcs),Other States,4,634,164,Sound,Bengaluru,Retail,1,Shop,Cash
+2756,2025-08-26,Lakshmi Vedi (10 pcs),South TN,2,173,57,Sound,Ramanathapuram,Retail,4,Shop,UPI
+2147,2025-08-27,Ground Chakkar (10 pcs),Chennai,33,3604,1002,Ground,Kancheepuram,Wholesale,22,Shop,Card
+2435,2025-08-27,Deluxe Gift Box,South TN,1,3325,856,Gift Box,Virudhunagar,Retail,5,Phone/WhatsApp,Card
+2698,2025-08-27,Ground Chakkar (10 pcs),Chennai,115,11914,3382,Ground,Avadi,Dealer,26,Shop,UPI
+2946,2025-08-27,Sparklers (10 pcs),West TN,72,3067,882,Sparklers,Erode,Dealer,28,Shop,Cash
+3012,2025-08-27,Bijili Crackers (100),West TN,60,5472,1312,Sound,Tiruppur,Wholesale,24,Shop,UPI
+2718,2025-08-28,Fancy Fountain,Chennai,2,679,190,Fancy,Tambaram,Retail,3,Online,UPI
+3119,2025-08-28,Family Gift Box,South TN,5,7350,1821,Gift Box,Ramanathapuram,Retail,2,Shop,Cash
+3040,2025-08-29,Lakshmi Vedi (10 pcs),Chennai,4,353,121,Sound,Tambaram,Retail,2,Shop,UPI
+3063,2025-08-29,Sparklers (10 pcs),West TN,4,238,85,Sparklers,Coimbatore,Retail,1,Shop,UPI
+3175,2025-08-29,Bijili Crackers (100),South TN,2,235,63,Sound,Madurai,Retail,2,Shop,Cash
+2218,2025-08-30,Family Gift Box,South TN,17,20655,4726,Gift Box,Tirunelveli,Wholesale,19,Shop,UPI
+2311,2025-08-30,Kids Special Pack,South TN,75,28500,7390,Gift Box,Thoothukudi,Wholesale,24,Phone/WhatsApp,UPI
+2420,2025-08-30,Family Gift Box,Chennai,4,5700,1547,Gift Box,Kancheepuram,Retail,5,Shop,UPI
+2605,2025-08-30,Sparklers (10 pcs),North TN,4,238,80,Sparklers,Trichy,Retail,1,Shop,Cash
+2953,2025-08-30,Flower Pots (5 pcs),Other States,4,720,265,Ground,Vijayawada,Retail,0,Shop,Card
+2983,2025-08-30,Sparklers (10 pcs),Chennai,56,2554,773,Sparklers,Chennai,Wholesale,24,Phone/WhatsApp,Cash
+3305,2025-08-30,Lakshmi Vedi (10 pcs),Chennai,6,535,141,Sound,Kancheepuram,Retail,1,Shop,Credit
+2956,2025-08-31,Kids Special Pack,Chennai,37,13875,3644,Gift Box,Avadi,Wholesale,25,Shop,UPI
+2227,2025-09-01,Sparklers (10 pcs),South TN,5,288,105,Sparklers,Madurai,Retail,4,Shop,Card
+2615,2025-09-01,Ground Chakkar (10 pcs),West TN,63,7144,2032,Ground,Coimbatore,Wholesale,19,Phone/WhatsApp,Card
+2763,2025-09-01,Sparklers (10 pcs),Chennai,69,3229,876,Sparklers,Kancheepuram,Wholesale,22,Phone/WhatsApp,UPI
+2798,2025-09-01,Rockets (10 pcs),West TN,5,1045,351,Aerial,Tiruppur,Retail,5,Phone/WhatsApp,Card
+2939,2025-09-01,Sparklers (10 pcs),North TN,91,4204,1195,Sparklers,Thanjavur,Dealer,23,Shop,UPI
+3166,2025-09-01,Rockets (10 pcs),South TN,61,10468,3563,Aerial,Madurai,Wholesale,22,Shop,Cash
+3440,2025-09-01,Rockets (10 pcs),Other States,3,627,243,Aerial,Vijayawada,Retail,5,Shop,UPI
+2022,2025-09-02,Sparklers (10 pcs),West TN,66,3247,1080,Sparklers,Coimbatore,Wholesale,18,Shop,Cash
+2071,2025-09-02,Family Gift Box,West TN,16,19680,4215,Gift Box,Tiruppur,Wholesale,18,Shop,UPI
+2826,2025-09-02,Atom Bomb (10 pcs),Chennai,1,154,47,Sound,Tambaram,Retail,4,Shop,UPI
+2997,2025-09-02,Flower Pots (5 pcs),Other States,5,882,270,Ground,Hyderabad,Retail,2,Shop,Card
+3102,2025-09-02,Flower Pots (5 pcs),South TN,49,7056,1834,Ground,Tirunelveli,Wholesale,20,Online,Cash
+3138,2025-09-02,Sparklers (10 pcs),West TN,33,1584,427,Sparklers,Erode,Wholesale,20,Shop,UPI
+3155,2025-09-02,Lakshmi Vedi (10 pcs),Other States,6,524,173,Sound,Kochi,Retail,3,Shop,UPI
+3171,2025-09-02,Lakshmi Vedi (10 pcs),West TN,1,86,29,Sound,Salem,Retail,4,Online,UPI
+3205,2025-09-02,Deluxe Gift Box,South TN,16,45920,12187,Gift Box,Tirunelveli,Wholesale,18,Shop,UPI
+3268,2025-09-02,Flower Pots (5 pcs),Other States,76,11218,3235,Ground,Hyderabad,Wholesale,18,Phone/WhatsApp,Card
+2309,2025-09-03,Flower Pots (5 pcs),Chennai,51,7711,1947,Ground,Tambaram,Wholesale,16,Shop,UPI
+2541,2025-09-03,Kids Special Pack,Chennai,47,17860,6628,Gift Box,Chennai,Wholesale,24,Phone/WhatsApp,Cash
+2815,2025-09-03,Bijili Crackers (100),West TN,4,475,131,Sound,Tiruppur,Retail,1,Shop,Card
+2899,2025-09-03,Family Gift Box,West TN,2,2880,681,Gift Box,Tiruppur,Retail,4,Shop,Credit
+3328,2025-09-03,Flower Pots (5 pcs),West TN,4,691,257,Ground,Tiruppur,Retail,4,Phone/WhatsApp,UPI
+2079,2025-09-04,Kids Special Pack,West TN,24,9360,3118,Gift Box,Coimbatore,Wholesale,22,Online,UPI
+2114,2025-09-04,Flower Pots (5 pcs),Other States,78,11232,3042,Ground,Vijayawada,Wholesale,20,Shop,Cash
+2145,2025-09-04,Multi Shot 30 Shot,West TN,6,6840,2093,Aerial,Tiruppur,Retail,5,Shop,UPI
+2196,2025-09-04,Family Gift Box,Other States,3,4410,1317,Gift Box,Hyderabad,Retail,2,Shop,Cash
+2224,2025-09-04,Deluxe Gift Box,Chennai,14,37730,7586,Gift Box,Kancheepuram,Wholesale,23,Online,Credit
+2235,2025-09-04,Sparklers (10 pcs),Chennai,2,119,41,Sparklers,Chennai,Retail,1,Phone/WhatsApp,Cash
+2352,2025-09-04,Atom Bomb (10 pcs),Chennai,54,6912,2131,Sound,Chennai,Wholesale,20,Shop,Cash
+2836,2025-09-04,Bijili Crackers (100),Chennai,6,713,236,Sound,Chennai,Retail,1,Shop,Card
+3153,2025-09-04,Kids Special Pack,South TN,5,2475,773,Gift Box,Ramanathapuram,Retail,1,Shop,UPI
+3360,2025-09-04,Sparklers (10 pcs),South TN,1,58,18,Sparklers,Tirunelveli,Retail,4,Shop,Card
+2242,2025-09-05,Deluxe Gift Box,South TN,1,3500,934,Gift Box,Ramanathapuram,Retail,0,Shop,Cash
+2338,2025-09-05,Bijili Crackers (100),Chennai,52,5117,1323,Sound,Kancheepuram,Wholesale,18,Online,Card
+2419,2025-09-05,Lakshmi Vedi (10 pcs),Chennai,5,450,156,Sound,Chennai,Retail,0,Shop,Cash
+2492,2025-09-05,Family Gift Box,Chennai,6,8730,2808,Gift Box,Chennai,Retail,3,Shop,Cash
+3019,2025-09-05,Rockets (10 pcs),Other States,36,6653,2336,Aerial,Vijayawada,Wholesale,16,Online,Cash
+3079,2025-09-05,Atom Bomb (10 pcs),Chennai,53,6445,1601,Sound,Tambaram,Wholesale,24,Shop,Cash
+3314,2025-09-05,Flower Pots (5 pcs),Other States,5,864,289,Ground,Bengaluru,Retail,4,Online,UPI
+3434,2025-09-05,Kids Special Pack,North TN,4,1940,643,Gift Box,Cuddalore,Retail,3,Phone/WhatsApp,UPI
+2009,2025-09-06,Lakshmi Vedi (10 pcs),South TN,5,441,110,Sound,Tirunelveli,Retail,2,Shop,UPI
+2945,2025-09-06,Sparklers (10 pcs),South TN,6,349,118,Sparklers,Tirunelveli,Retail,3,Shop,UPI
+2972,2025-09-06,Sparklers (10 pcs),South TN,6,360,127,Sparklers,Ramanathapuram,Retail,0,Phone/WhatsApp,Cash
+3363,2025-09-06,Bijili Crackers (100),Chennai,5,594,178,Sound,Avadi,Retail,1,Phone/WhatsApp,Cash
+3454,2025-09-06,Multi Shot 30 Shot,Other States,4,4704,1129,Aerial,Bengaluru,Retail,2,Phone/WhatsApp,UPI
+2044,2025-09-07,Lakshmi Vedi (10 pcs),Other States,4,349,110,Sound,Vijayawada,Retail,3,Phone/WhatsApp,Cash
+2267,2025-09-07,Atom Bomb (10 pcs),West TN,3,461,128,Sound,Salem,Retail,4,Online,UPI
+2288,2025-09-07,Sparklers (10 pcs),Other States,5,288,96,Sparklers,Vijayawada,Retail,4,Shop,Card
+2449,2025-09-07,Multi Shot 30 Shot,South TN,3,3564,873,Aerial,Ramanathapuram,Retail,1,Shop,UPI
+2512,2025-09-07,Bijili Crackers (100),West TN,5,588,184,Sound,Salem,Retail,2,Shop,UPI
+2537,2025-09-07,Sky Shot 7 Shot,South TN,4,1728,432,Aerial,Thoothukudi,Retail,4,Shop,Card
+2653,2025-09-07,Atom Bomb (10 pcs),South TN,6,960,269,Sound,Virudhunagar,Retail,0,Phone/WhatsApp,UPI
+2840,2025-09-07,Sparklers (10 pcs),West TN,79,3982,1429,Sparklers,Salem,Wholesale,16,Shop,Cash
+2913,2025-09-07,Kids Special Pack,Chennai,47,18565,5861,Gift Box,Avadi,Wholesale,21,Shop,Credit
+3069,2025-09-07,Sparklers (10 pcs),West TN,5,294,94,Sparklers,Salem,Retail,2,Shop,Cash
+3245,2025-09-07,Flower Pots (5 pcs),Chennai,4,684,188,Ground,Avadi,Retail,5,Phone/WhatsApp,UPI
+2042,2025-09-08,Rockets (10 pcs),South TN,5,1089,365,Aerial,Madurai,Retail,1,Shop,Cash
+2201,2025-09-08,Lakshmi Vedi (10 pcs),West TN,125,8662,2565,Sound,Tiruppur,Dealer,23,Phone/WhatsApp,UPI
+2825,2025-09-08,Flower Pots (5 pcs),North TN,2,353,99,Ground,Cuddalore,Retail,2,Shop,UPI
+2852,2025-09-08,Lakshmi Vedi (10 pcs),West TN,44,3010,626,Sound,Erode,Wholesale,24,Shop,Card
+2933,2025-09-08,Ground Chakkar (10 pcs),South TN,73,7972,2228,Ground,Virudhunagar,Dealer,22,Shop,Card
+3086,2025-09-08,Lakshmi Vedi (10 pcs),Chennai,30,2106,495,Sound,Avadi,Wholesale,22,Shop,UPI
+3317,2025-09-08,Kids Special Pack,North TN,1,475,188,Gift Box,Thanjavur,Retail,5,Shop,UPI
+3399,2025-09-08,Sparklers (10 pcs),West TN,33,1663,551,Sparklers,Salem,Wholesale,16,Shop,Credit
+2198,2025-09-09,Kids Special Pack,Chennai,3,1440,433,Gift Box,Kancheepuram,Retail,4,Shop,Cash
+2326,2025-09-09,Ground Chakkar (10 pcs),South TN,53,6307,1815,Ground,Madurai,Wholesale,15,Phone/WhatsApp,UPI
+2845,2025-09-09,Sparklers (10 pcs),West TN,1,58,21,Sparklers,Salem,Retail,4,Shop,UPI
+2918,2025-09-09,Lakshmi Vedi (10 pcs),Chennai,2,175,43,Sound,Chennai,Retail,3,Phone/WhatsApp,UPI
+2975,2025-09-09,Ground Chakkar (10 pcs),Chennai,6,823,289,Ground,Avadi,Retail,2,Phone/WhatsApp,Credit
+3443,2025-09-09,Family Gift Box,Chennai,6,9000,2273,Gift Box,Kancheepuram,Retail,0,Shop,UPI
+2078,2025-09-10,Bijili Crackers (100),North TN,64,5914,1355,Sound,Cuddalore,Wholesale,23,Shop,UPI
+2142,2025-09-10,Lakshmi Vedi (10 pcs),South TN,5,450,116,Sound,Ramanathapuram,Retail,0,Shop,UPI
+2681,2025-09-10,Lakshmi Vedi (10 pcs),North TN,4,346,104,Sound,Vellore,Retail,4,Phone/WhatsApp,Card
+2693,2025-09-10,Family Gift Box,North TN,27,37260,11475,Gift Box,Thanjavur,Gifting,8,Phone/WhatsApp,Cash
+2837,2025-09-10,Flower Pots (5 pcs),Chennai,6,1048,352,Ground,Kancheepuram,Retail,3,Phone/WhatsApp,UPI
+3022,2025-09-10,Fancy Fountain,West TN,60,17010,4693,Fancy,Coimbatore,Wholesale,19,Shop,UPI
+3335,2025-09-10,Multi Shot 30 Shot,Other States,5,5820,1743,Aerial,Hyderabad,Retail,3,Shop,Cash
+3459,2025-09-10,Fancy Fountain,Chennai,24,6552,1613,Fancy,Avadi,Wholesale,22,Online,UPI
+2058,2025-09-11,Flower Pots (5 pcs),South TN,129,17183,4792,Ground,Madurai,Dealer,26,Shop,Cash
+2134,2025-09-11,Fancy Fountain,Other States,31,9222,2519,Fancy,Kochi,Gifting,15,Shop,UPI
+2335,2025-09-11,Kids Special Pack,Other States,77,29645,10706,Gift Box,Kochi,Wholesale,23,Shop,Cash
+2423,2025-09-11,Sparklers (10 pcs),North TN,2,119,41,Sparklers,Vellore,Retail,1,Online,UPI
+2738,2025-09-11,Bijili Crackers (100),South TN,39,3838,936,Sound,Ramanathapuram,Wholesale,18,Phone/WhatsApp,UPI
+2881,2025-09-11,Lakshmi Vedi (10 pcs),West TN,4,349,105,Sound,Erode,Retail,3,Online,UPI
+3070,2025-09-11,Flower Pots (5 pcs),Chennai,6,1026,347,Ground,Avadi,Retail,5,Online,UPI
+3107,2025-09-11,Ground Chakkar (10 pcs),South TN,44,5236,1346,Ground,Tirunelveli,Wholesale,15,Shop,UPI
+3442,2025-09-11,Fancy Fountain,Chennai,3,1008,316,Fancy,Tambaram,Retail,4,Shop,UPI
+2304,2025-09-12,Family Gift Box,Chennai,1,1440,428,Gift Box,Kancheepuram,Retail,4,Shop,Card
+2466,2025-09-12,Sparklers (10 pcs),Other States,17,908,276,Sparklers,Bengaluru,Gifting,11,Phone/WhatsApp,UPI
+2530,2025-09-12,Bijili Crackers (100),South TN,1,120,38,Sound,Madurai,Retail,0,Shop,Credit
+2561,2025-09-12,Deluxe Gift Box,Chennai,39,120120,30071,Gift Box,Kancheepuram,Gifting,12,Shop,Cash
+2661,2025-09-12,Sky Shot 7 Shot,West TN,1,446,121,Aerial,Salem,Retail,1,Shop,Credit
+3053,2025-09-12,Multi Shot 30 Shot,Chennai,5,5880,1713,Aerial,Kancheepuram,Retail,2,Shop,Cash
+3355,2025-09-12,Bijili Crackers (100),Other States,1,119,37,Sound,Kochi,Retail,1,Shop,UPI
+3377,2025-09-12,Flower Pots (5 pcs),Chennai,1,175,57,Ground,Avadi,Retail,3,Shop,Card
+2141,2025-09-13,Kids Special Pack,West TN,6,2970,950,Gift Box,Tiruppur,Retail,1,Shop,UPI
+2169,2025-09-13,Sky Shot 7 Shot,Chennai,58,20880,5912,Aerial,Avadi,Wholesale,20,Shop,Cash
+2208,2025-09-13,Atom Bomb (10 pcs),South TN,2,307,105,Sound,Ramanathapuram,Retail,4,Online,Cash
+2303,2025-09-13,Ground Chakkar (10 pcs),North TN,42,4880,1491,Ground,Cuddalore,Wholesale,17,Online,Card
+2428,2025-09-13,Lakshmi Vedi (10 pcs),South TN,4,342,109,Sound,Ramanathapuram,Retail,5,Online,Cash
+2853,2025-09-13,Atom Bomb (10 pcs),North TN,36,4896,1281,Sound,Cuddalore,Wholesale,15,Phone/WhatsApp,UPI
+3011,2025-09-13,Sparklers (10 pcs),South TN,18,972,350,Sparklers,Tirunelveli,Gifting,10,Phone/WhatsApp,UPI
+3137,2025-09-13,Atom Bomb (10 pcs),South TN,62,7936,2115,Sound,Virudhunagar,Wholesale,20,Shop,Card
+3179,2025-09-13,Flower Pots (5 pcs),North TN,26,3744,1232,Ground,Cuddalore,Wholesale,20,Online,UPI
+3258,2025-09-13,Kids Special Pack,West TN,31,12555,4653,Gift Box,Erode,Wholesale,19,Phone/WhatsApp,Cash
+3338,2025-09-13,Atom Bomb (10 pcs),West TN,43,5642,1778,Sound,Erode,Wholesale,18,Shop,UPI
+3369,2025-09-13,Sparklers (10 pcs),South TN,6,356,123,Sparklers,Ramanathapuram,Retail,1,Shop,Cash
+2372,2025-09-14,Sky Shot 7 Shot,West TN,49,16978,4695,Aerial,Erode,Wholesale,23,Shop,UPI
+2400,2025-09-14,Ground Chakkar (10 pcs),North TN,3,412,123,Ground,Trichy,Retail,2,Shop,UPI
+2422,2025-09-14,Flower Pots (5 pcs),North TN,78,11232,2999,Ground,Thanjavur,Wholesale,20,Phone/WhatsApp,Cash
+2557,2025-09-14,Multi Shot 30 Shot,Chennai,20,17040,3100,Aerial,Tambaram,Dealer,28,Phone/WhatsApp,UPI
+2654,2025-09-14,Ground Chakkar (10 pcs),North TN,2,274,81,Ground,Thanjavur,Retail,2,Shop,Cash
+2777,2025-09-14,Ground Chakkar (10 pcs),West TN,3,403,139,Ground,Salem,Retail,4,Shop,UPI
+2778,2025-09-14,Sky Shot 7 Shot,Other States,3,1296,385,Aerial,Bengaluru,Retail,4,Shop,UPI
+2785,2025-09-14,Sparklers (10 pcs),South TN,6,346,111,Sparklers,Virudhunagar,Retail,4,Online,Cash
+2923,2025-09-14,Sparklers (10 pcs),Other States,1,59,23,Sparklers,Hyderabad,Retail,2,Online,Cash
+3033,2025-09-14,Multi Shot 30 Shot,South TN,13,12324,2788,Aerial,Tirunelveli,Wholesale,21,Shop,UPI
+3199,2025-09-14,Sparklers (10 pcs),Chennai,144,6566,1866,Sparklers,Chennai,Dealer,24,Phone/WhatsApp,Card
+3447,2025-09-14,Atom Bomb (10 pcs),Chennai,1,155,44,Sound,Tambaram,Retail,3,Phone/WhatsApp,Cash
+3488,2025-09-14,Bijili Crackers (100),South TN,6,698,193,Sound,Madurai,Retail,3,Phone/WhatsApp,UPI
+2094,2025-09-15,Ground Chakkar (10 pcs),Other States,110,11550,2962,Ground,Vijayawada,Dealer,25,Shop,Cash
+2121,2025-09-15,Family Gift Box,North TN,1,1500,423,Gift Box,Trichy,Retail,0,Shop,UPI
+2234,2025-09-15,Sky Shot 7 Shot,Other States,1,446,133,Aerial,Vijayawada,Retail,1,Phone/WhatsApp,UPI
+2390,2025-09-15,Lakshmi Vedi (10 pcs),North TN,27,1822,379,Sound,Thanjavur,Wholesale,25,Online,UPI
+2525,2025-09-15,Ground Chakkar (10 pcs),Other States,17,2047,553,Ground,Vijayawada,Gifting,14,Phone/WhatsApp,Cash
+2640,2025-09-15,Multi Shot 30 Shot,Chennai,1,1176,291,Aerial,Chennai,Retail,2,Shop,Cash
+2657,2025-09-15,Kids Special Pack,Other States,5,2375,969,Gift Box,Vijayawada,Retail,5,Shop,Cash
+2723,2025-09-15,Lakshmi Vedi (10 pcs),South TN,6,524,139,Sound,Virudhunagar,Retail,3,Shop,UPI
+3202,2025-09-15,Sparklers (10 pcs),South TN,2,120,39,Sparklers,Thoothukudi,Retail,0,Shop,Card
+3262,2025-09-15,Lakshmi Vedi (10 pcs),Chennai,5,432,111,Sound,Avadi,Retail,4,Phone/WhatsApp,UPI
+3332,2025-09-15,Atom Bomb (10 pcs),Chennai,29,3758,1020,Sound,Kancheepuram,Wholesale,19,Phone/WhatsApp,UPI
+3475,2025-09-15,Fancy Fountain,Other States,6,2037,583,Fancy,Bengaluru,Retail,3,Phone/WhatsApp,UPI
+2059,2025-09-16,Ground Chakkar (10 pcs),West TN,47,5461,1763,Ground,Salem,Wholesale,17,Shop,UPI
+2298,2025-09-16,Lakshmi Vedi (10 pcs),Chennai,112,7358,1891,Sound,Avadi,Dealer,27,Online,UPI
+2324,2025-09-16,Bijili Crackers (100),South TN,80,7488,1963,Sound,Madurai,Wholesale,22,Shop,Card
+2941,2025-09-16,Family Gift Box,Chennai,43,44505,8548,Gift Box,Chennai,Dealer,31,Shop,UPI
+3052,2025-09-16,Kids Special Pack,West TN,6,2940,1175,Gift Box,Coimbatore,Retail,2,Shop,UPI
+3099,2025-09-16,Sky Shot 7 Shot,South TN,6,2592,886,Aerial,Madurai,Retail,4,Shop,Cash
+3277,2025-09-16,Ground Chakkar (10 pcs),South TN,40,4312,1313,Ground,Ramanathapuram,Wholesale,23,Shop,UPI
+3437,2025-09-16,Lakshmi Vedi (10 pcs),Chennai,6,529,133,Sound,Avadi,Retail,2,Shop,Cash
+2263,2025-09-17,Deluxe Gift Box,Chennai,13,38220,10216,Gift Box,Avadi,Wholesale,16,Phone/WhatsApp,UPI
+2588,2025-09-17,Sparklers (10 pcs),Chennai,27,1426,505,Sparklers,Chennai,Gifting,12,Shop,UPI
+2600,2025-09-17,Flower Pots (5 pcs),South TN,122,15152,4327,Ground,Ramanathapuram,Dealer,31,Shop,UPI
+2670,2025-09-17,Bijili Crackers (100),Other States,4,480,159,Sound,Hyderabad,Retail,0,Shop,UPI
+2695,2025-09-17,Sparklers (10 pcs),South TN,4,240,81,Sparklers,Thoothukudi,Retail,0,Phone/WhatsApp,UPI
+2843,2025-09-17,Multi Shot 30 Shot,West TN,4,4656,1264,Aerial,Tiruppur,Retail,3,Shop,Credit
+2938,2025-09-17,Bijili Crackers (100),South TN,53,5152,1511,Sound,Ramanathapuram,Wholesale,19,Online,UPI
+2213,2025-09-18,Family Gift Box,South TN,6,8910,2919,Gift Box,Thoothukudi,Retail,1,Shop,Cash
+2280,2025-09-18,Sparklers (10 pcs),Other States,26,1248,439,Sparklers,Vijayawada,Wholesale,20,Shop,Cash
+2754,2025-09-18,Rockets (10 pcs),Other States,2,422,163,Aerial,Hyderabad,Retail,4,Shop,Card
+2803,2025-09-18,Sparklers (10 pcs),North TN,2,120,44,Sparklers,Vellore,Retail,0,Shop,Cash
+2830,2025-09-18,Sky Shot 7 Shot,South TN,1,441,123,Aerial,Tirunelveli,Retail,2,Shop,Cash
+2894,2025-09-18,Flower Pots (5 pcs),South TN,15,2376,628,Ground,Tirunelveli,Gifting,12,Phone/WhatsApp,Cash
+3364,2025-09-18,Bijili Crackers (100),West TN,34,3590,1139,Sound,Coimbatore,Gifting,12,Phone/WhatsApp,UPI
+2174,2025-09-19,Sparklers (10 pcs),Other States,6,356,141,Sparklers,Kochi,Retail,1,Shop,UPI
+2454,2025-09-19,Multi Shot 30 Shot,South TN,5,5820,1286,Aerial,Ramanathapuram,Retail,3,Phone/WhatsApp,Cash
+2765,2025-09-19,Family Gift Box,Chennai,1,1440,407,Gift Box,Kancheepuram,Retail,4,Phone/WhatsApp,Cash
+2875,2025-09-19,Ground Chakkar (10 pcs),Chennai,4,538,176,Ground,Chennai,Retail,4,Phone/WhatsApp,UPI
+3036,2025-09-19,Ground Chakkar (10 pcs),Other States,72,7762,2041,Ground,Vijayawada,Wholesale,23,Online,UPI
+3077,2025-09-19,Flower Pots (5 pcs),South TN,6,1037,308,Ground,Madurai,Retail,4,Shop,UPI
+3176,2025-09-19,Multi Shot 30 Shot,South TN,21,19404,3886,Aerial,Thoothukudi,Dealer,23,Shop,Credit
+3362,2025-09-19,Bijili Crackers (100),Chennai,4,475,143,Sound,Avadi,Retail,1,Shop,UPI
+2074,2025-09-20,Bijili Crackers (100),South TN,1,115,38,Sound,Thoothukudi,Retail,4,Online,UPI
+2236,2025-09-20,Ground Chakkar (10 pcs),South TN,21,2352,743,Ground,Thoothukudi,Wholesale,20,Phone/WhatsApp,UPI
+2333,2025-09-20,Deluxe Gift Box,South TN,34,101150,27081,Gift Box,Ramanathapuram,Gifting,15,Shop,UPI
+2391,2025-09-20,Bijili Crackers (100),South TN,5,570,165,Sound,Tirunelveli,Retail,5,Online,UPI
+2569,2025-09-20,Flower Pots (5 pcs),Other States,49,6791,2025,Ground,Kochi,Wholesale,23,Shop,Cash
+2575,2025-09-20,Sky Shot 7 Shot,Other States,186,61101,15280,Aerial,Vijayawada,Dealer,27,Online,UPI
+2874,2025-09-20,Lakshmi Vedi (10 pcs),West TN,92,6127,1610,Sound,Coimbatore,Dealer,26,Shop,Cash
+3041,2025-09-20,Sky Shot 7 Shot,West TN,4,1728,519,Aerial,Tiruppur,Retail,4,Online,Credit
+2187,2025-09-21,Lakshmi Vedi (10 pcs),Chennai,108,7096,1995,Sound,Avadi,Dealer,27,Phone/WhatsApp,UPI
+2367,2025-09-21,Family Gift Box,Chennai,20,23400,5141,Gift Box,Chennai,Wholesale,22,Shop,Cash
+2392,2025-09-21,Fancy Fountain,South TN,141,37012,11359,Fancy,Madurai,Dealer,25,Phone/WhatsApp,Cash
+2459,2025-09-21,Ground Chakkar (10 pcs),West TN,59,6608,1842,Ground,Erode,Wholesale,20,Shop,UPI
+2696,2025-09-21,Ground Chakkar (10 pcs),North TN,3,399,118,Ground,Cuddalore,Retail,5,Shop,UPI
+2056,2025-09-22,Ground Chakkar (10 pcs),South TN,3,412,123,Ground,Virudhunagar,Retail,2,Phone/WhatsApp,UPI
+2057,2025-09-22,Family Gift Box,South TN,5,7200,1947,Gift Box,Thoothukudi,Retail,4,Online,Credit
+2269,2025-09-22,Family Gift Box,Other States,2,2910,922,Gift Box,Bengaluru,Retail,3,Phone/WhatsApp,Card
+2493,2025-09-22,Lakshmi Vedi (10 pcs),South TN,3,265,90,Sound,Ramanathapuram,Retail,2,Shop,Cash
+2505,2025-09-22,Flower Pots (5 pcs),South TN,69,8570,2334,Ground,Madurai,Dealer,31,Online,Card
+2601,2025-09-22,Ground Chakkar (10 pcs),North TN,85,9282,2980,Ground,Cuddalore,Dealer,22,Shop,Cash
+2611,2025-09-22,Family Gift Box,Chennai,5,7500,2509,Gift Box,Kancheepuram,Retail,0,Shop,UPI
+2831,2025-09-22,Rockets (10 pcs),North TN,1,216,74,Aerial,Thanjavur,Retail,2,Online,Credit
+3139,2025-09-22,Kids Special Pack,South TN,183,68625,24980,Gift Box,Thoothukudi,Dealer,25,Shop,Cash
+3270,2025-09-22,Bijili Crackers (100),Other States,5,570,172,Sound,Bengaluru,Retail,5,Online,UPI
+3424,2025-09-22,Kids Special Pack,West TN,4,1940,799,Gift Box,Erode,Retail,3,Shop,UPI
+3429,2025-09-22,Rockets (10 pcs),West TN,1,209,75,Aerial,Tiruppur,Retail,5,Phone/WhatsApp,Cash
+2249,2025-09-23,Flower Pots (5 pcs),South TN,10,1638,579,Ground,Virudhunagar,Gifting,9,Shop,UPI
+2255,2025-09-23,Rockets (10 pcs),Chennai,1,220,74,Aerial,Kancheepuram,Retail,0,Shop,UPI
+2259,2025-09-23,Kids Special Pack,Other States,5,2500,982,Gift Box,Vijayawada,Retail,0,Phone/WhatsApp,Credit
+3124,2025-09-23,Lakshmi Vedi (10 pcs),South TN,28,1940,539,Sound,Madurai,Wholesale,23,Phone/WhatsApp,UPI
+2010,2025-09-24,Multi Shot 30 Shot,West TN,1,1200,316,Aerial,Tiruppur,Retail,0,Online,Card
+2172,2025-09-24,Family Gift Box,Chennai,6,8640,2409,Gift Box,Chennai,Retail,4,Phone/WhatsApp,UPI
+2784,2025-09-24,Fancy Fountain,Chennai,2,686,230,Fancy,Tambaram,Retail,2,Shop,UPI
+3003,2025-09-24,Lakshmi Vedi (10 pcs),West TN,4,360,105,Sound,Erode,Retail,0,Shop,Credit
+3201,2025-09-24,Family Gift Box,Chennai,15,17325,3393,Gift Box,Kancheepuram,Wholesale,23,Phone/WhatsApp,UPI
+3390,2025-09-24,Sparklers (10 pcs),Chennai,25,1200,353,Sparklers,Tambaram,Wholesale,20,Shop,Cash
+2034,2025-09-25,Kids Special Pack,Other States,33,13035,3920,Gift Box,Kochi,Wholesale,21,Shop,Cash
+2077,2025-09-25,Ground Chakkar (10 pcs),Chennai,3,416,120,Ground,Kancheepuram,Retail,1,Phone/WhatsApp,Cash
+2331,2025-09-25,Sparklers (10 pcs),West TN,5,297,91,Sparklers,Salem,Retail,1,Shop,Cash
+2462,2025-09-25,Ground Chakkar (10 pcs),South TN,34,3665,1199,Ground,Madurai,Wholesale,23,Shop,UPI
+2789,2025-09-25,Flower Pots (5 pcs),South TN,1,176,49,Ground,Ramanathapuram,Retail,2,Phone/WhatsApp,UPI
+2898,2025-09-25,Fancy Fountain,Other States,20,5320,1687,Fancy,Kochi,Wholesale,24,Shop,Cash
+3009,2025-09-25,Multi Shot 30 Shot,Chennai,6,6912,1788,Aerial,Tambaram,Retail,4,Shop,Cash
+3118,2025-09-25,Ground Chakkar (10 pcs),Other States,4,549,198,Ground,Bengaluru,Retail,2,Shop,UPI
+3156,2025-09-25,Lakshmi Vedi (10 pcs),Other States,1,87,26,Sound,Vijayawada,Retail,3,Phone/WhatsApp,UPI
+3254,2025-09-25,Sky Shot 7 Shot,West TN,2,864,229,Aerial,Coimbatore,Retail,4,Phone/WhatsApp,UPI
+3289,2025-09-25,Flower Pots (5 pcs),Chennai,66,9623,2582,Ground,Avadi,Wholesale,19,Shop,UPI
+3294,2025-09-25,Deluxe Gift Box,West TN,19,51205,12079,Gift Box,Erode,Wholesale,23,Shop,Card
+3384,2025-09-25,Ground Chakkar (10 pcs),North TN,5,672,211,Ground,Vellore,Retail,4,Shop,Cash
+2150,2025-09-26,Bijili Crackers (100),South TN,3,356,123,Sound,Virudhunagar,Retail,1,Shop,UPI
+2246,2025-09-26,Atom Bomb (10 pcs),Other States,30,3744,868,Sound,Kochi,Wholesale,22,Phone/WhatsApp,UPI
+2251,2025-09-26,Atom Bomb (10 pcs),Chennai,4,608,175,Sound,Kancheepuram,Retail,5,Shop,Cash
+2447,2025-09-26,Bijili Crackers (100),North TN,39,3510,961,Sound,Trichy,Wholesale,25,Phone/WhatsApp,Cash
+2453,2025-09-26,Atom Bomb (10 pcs),South TN,67,8898,2134,Sound,Ramanathapuram,Wholesale,17,Online,UPI
+2516,2025-09-26,Bijili Crackers (100),South TN,59,5806,1479,Sound,Virudhunagar,Wholesale,18,Online,Cash
+2668,2025-09-26,Flower Pots (5 pcs),South TN,21,3175,1031,Ground,Virudhunagar,Wholesale,16,Phone/WhatsApp,UPI
+2805,2025-09-26,Bijili Crackers (100),North TN,29,2923,688,Sound,Trichy,Wholesale,16,Shop,UPI
+2814,2025-09-26,Atom Bomb (10 pcs),West TN,4,627,193,Sound,Salem,Retail,2,Shop,Cash
+3143,2025-09-26,Atom Bomb (10 pcs),West TN,59,7174,1593,Sound,Tiruppur,Wholesale,24,Phone/WhatsApp,UPI
+3421,2025-09-26,Lakshmi Vedi (10 pcs),South TN,78,5686,1705,Sound,Tirunelveli,Wholesale,19,Shop,Cash
+2271,2025-09-27,Sky Shot 7 Shot,South TN,28,10458,2924,Aerial,Virudhunagar,Wholesale,17,Online,Cash
+2642,2025-09-27,Fancy Fountain,Chennai,5,1715,575,Fancy,Chennai,Retail,2,Shop,UPI
+2766,2025-09-27,Family Gift Box,Other States,5,7425,1893,Gift Box,Vijayawada,Retail,1,Phone/WhatsApp,Card
+2901,2025-09-27,Ground Chakkar (10 pcs),Chennai,29,3126,796,Ground,Tambaram,Wholesale,23,Shop,Cash
+2925,2025-09-27,Sparklers (10 pcs),Other States,163,7335,2555,Sparklers,Kochi,Dealer,25,Shop,Cash
+2978,2025-09-27,Ground Chakkar (10 pcs),South TN,5,693,224,Ground,Virudhunagar,Retail,1,Phone/WhatsApp,Cash
+3065,2025-09-27,Rockets (10 pcs),South TN,62,10366,3306,Aerial,Thoothukudi,Wholesale,24,Online,Cash
+3123,2025-09-27,Sparklers (10 pcs),Other States,2,116,36,Sparklers,Vijayawada,Retail,3,Online,Cash
+3462,2025-09-27,Lakshmi Vedi (10 pcs),South TN,4,360,91,Sound,Tirunelveli,Retail,0,Online,Cash
+2107,2025-09-28,Sparklers (10 pcs),Chennai,3,176,54,Sparklers,Tambaram,Retail,2,Shop,Cash
+2247,2025-09-28,Flower Pots (5 pcs),North TN,4,720,242,Ground,Vellore,Retail,0,Shop,Cash
+2431,2025-09-28,Kids Special Pack,Other States,22,8910,2372,Gift Box,Kochi,Wholesale,19,Phone/WhatsApp,Card
+2590,2025-09-28,Rockets (10 pcs),Chennai,74,13024,3732,Aerial,Kancheepuram,Wholesale,20,Online,Card
+2595,2025-09-28,Sparklers (10 pcs),North TN,39,1778,465,Sparklers,Cuddalore,Wholesale,24,Phone/WhatsApp,Cash
+2667,2025-09-28,Bijili Crackers (100),Chennai,24,2218,554,Sound,Avadi,Wholesale,23,Phone/WhatsApp,UPI
+2866,2025-09-28,Ground Chakkar (10 pcs),South TN,4,549,193,Ground,Tirunelveli,Retail,2,Shop,Cash
+3072,2025-09-28,Multi Shot 30 Shot,North TN,3,3492,791,Aerial,Thanjavur,Retail,3,Online,UPI
+3500,2025-09-28,Sparklers (10 pcs),South TN,75,3600,1084,Sparklers,Ramanathapuram,Wholesale,20,Shop,Credit
+2123,2025-09-29,Flower Pots (5 pcs),West TN,2,353,120,Ground,Erode,Retail,2,Phone/WhatsApp,UPI
+2349,2025-09-29,Sparklers (10 pcs),Other States,6,353,119,Sparklers,Kochi,Retail,2,Phone/WhatsApp,Cash
+2662,2025-09-29,Family Gift Box,Chennai,14,17220,3851,Gift Box,Chennai,Wholesale,18,Shop,Cash
+2708,2025-09-29,Flower Pots (5 pcs),Other States,1,171,58,Ground,Vijayawada,Retail,5,Shop,UPI
+2721,2025-09-29,Deluxe Gift Box,Other States,13,36855,7019,Gift Box,Bengaluru,Wholesale,19,Shop,Cash
+2767,2025-09-29,Bijili Crackers (100),North TN,6,713,188,Sound,Trichy,Retail,1,Shop,Card
+2768,2025-09-29,Flower Pots (5 pcs),West TN,5,873,282,Ground,Tiruppur,Retail,3,Shop,UPI
+2924,2025-09-29,Bijili Crackers (100),West TN,4,456,141,Sound,Coimbatore,Retail,5,Shop,UPI
+3025,2025-09-29,Sparklers (10 pcs),South TN,4,240,75,Sparklers,Madurai,Retail,0,Phone/WhatsApp,UPI
+3400,2025-09-29,Lakshmi Vedi (10 pcs),South TN,28,1915,432,Sound,Thoothukudi,Wholesale,24,Shop,Cash
+2295,2025-09-30,Bijili Crackers (100),South TN,50,5040,1191,Sound,Ramanathapuram,Wholesale,16,Shop,UPI
+2297,2025-09-30,Flower Pots (5 pcs),Other States,5,864,285,Ground,Bengaluru,Retail,4,Phone/WhatsApp,UPI
+2676,2025-09-30,Sky Shot 7 Shot,South TN,1,450,117,Aerial,Ramanathapuram,Retail,0,Shop,UPI
+2720,2025-09-30,Bijili Crackers (100),Chennai,1,119,33,Sound,Chennai,Retail,1,Shop,UPI
+2807,2025-09-30,Ground Chakkar (10 pcs),Chennai,28,3489,1079,Ground,Kancheepuram,Gifting,11,Shop,UPI
+3136,2025-09-30,Bijili Crackers (100),Other States,6,684,174,Sound,Hyderabad,Retail,5,Shop,UPI
+3222,2025-09-30,Rockets (10 pcs),Other States,25,4895,1380,Aerial,Kochi,Gifting,11,Online,Cash
+3296,2025-09-30,Sparklers (10 pcs),Chennai,4,230,68,Sparklers,Chennai,Retail,4,Shop,UPI
+2093,2025-10-01,Sparklers (10 pcs),North TN,4,238,90,Sparklers,Vellore,Retail,1,Shop,UPI
+2151,2025-10-01,Bijili Crackers (100),South TN,50,4980,1397,Sound,Madurai,Wholesale,17,Phone/WhatsApp,UPI
+2212,2025-10-01,Rockets (10 pcs),West TN,2,436,145,Aerial,Tiruppur,Retail,1,Shop,Cash
+2257,2025-10-01,Sparklers (10 pcs),Chennai,69,2981,917,Sparklers,Avadi,Dealer,28,Shop,UPI
+2293,2025-10-01,Sparklers (10 pcs),West TN,2,115,40,Sparklers,Erode,Retail,4,Phone/WhatsApp,Cash
+2300,2025-10-01,Flower Pots (5 pcs),South TN,31,4520,1515,Ground,Thoothukudi,Wholesale,19,Online,UPI
+2469,2025-10-01,Kids Special Pack,Chennai,24,9720,2804,Gift Box,Avadi,Wholesale,19,Shop,UPI
+2860,2025-10-01,Kids Special Pack,West TN,1,495,186,Gift Box,Coimbatore,Retail,1,Shop,UPI
+3278,2025-10-01,Atom Bomb (10 pcs),Other States,5,768,250,Sound,Hyderabad,Retail,4,Shop,Cash
+3292,2025-10-01,Kids Special Pack,Other States,3,1455,484,Gift Box,Bengaluru,Retail,3,Shop,UPI
+3426,2025-10-01,Kids Special Pack,North TN,100,37000,13022,Gift Box,Cuddalore,Dealer,26,Phone/WhatsApp,UPI
+3457,2025-10-01,Bijili Crackers (100),West TN,23,2208,605,Sound,Erode,Wholesale,20,Shop,UPI
+3471,2025-10-01,Atom Bomb (10 pcs),North TN,3,461,128,Sound,Trichy,Retail,4,Online,UPI
+2053,2025-10-02,Ground Chakkar (10 pcs),West TN,76,8618,2519,Ground,Erode,Wholesale,19,Shop,Cash
+2089,2025-10-02,Rockets (10 pcs),Chennai,23,3795,1184,Aerial,Chennai,Wholesale,25,Phone/WhatsApp,UPI
+2126,2025-10-02,Family Gift Box,South TN,11,13695,4043,Gift Box,Thoothukudi,Wholesale,17,Phone/WhatsApp,UPI
+2191,2025-10-02,Fancy Fountain,Other States,4,1400,461,Fancy,Kochi,Retail,0,Shop,Credit
+2327,2025-10-02,Flower Pots (5 pcs),South TN,6,1037,331,Ground,Thoothukudi,Retail,4,Phone/WhatsApp,Cash
+2519,2025-10-02,Fancy Fountain,South TN,84,20286,5293,Fancy,Madurai,Dealer,31,Phone/WhatsApp,Cash
+2553,2025-10-02,Lakshmi Vedi (10 pcs),South TN,52,3838,976,Sound,Madurai,Wholesale,18,Shop,Cash
+2625,2025-10-02,Ground Chakkar (10 pcs),South TN,3,412,118,Ground,Ramanathapuram,Retail,2,Phone/WhatsApp,Card
+2813,2025-10-02,Rockets (10 pcs),South TN,6,1267,463,Aerial,Virudhunagar,Retail,4,Phone/WhatsApp,UPI
+2833,2025-10-02,Ground Chakkar (10 pcs),South TN,148,14711,3522,Ground,Ramanathapuram,Dealer,28,Shop,UPI
+2879,2025-10-02,Kids Special Pack,Other States,4,1920,692,Gift Box,Kochi,Retail,4,Phone/WhatsApp,Card
+2926,2025-10-02,Family Gift Box,Chennai,5,6075,1526,Gift Box,Avadi,Wholesale,19,Shop,Cash
+2950,2025-10-02,Rockets (10 pcs),South TN,4,845,300,Aerial,Tirunelveli,Retail,4,Shop,UPI
+2964,2025-10-02,Sky Shot 7 Shot,West TN,3,1350,358,Aerial,Salem,Retail,0,Online,UPI
+3083,2025-10-02,Rockets (10 pcs),Other States,1,218,77,Aerial,Hyderabad,Retail,1,Online,Cash
+3108,2025-10-02,Flower Pots (5 pcs),West TN,22,3366,1113,Ground,Salem,Gifting,15,Shop,Credit
+3250,2025-10-02,Sparklers (10 pcs),South TN,6,356,137,Sparklers,Madurai,Retail,1,Shop,UPI
+3261,2025-10-02,Bijili Crackers (100),Chennai,38,3557,1012,Sound,Kancheepuram,Wholesale,22,Shop,Cash
+3265,2025-10-02,Fancy Fountain,South TN,51,14637,3694,Fancy,Ramanathapuram,Wholesale,18,Shop,Cash
+3300,2025-10-02,Family Gift Box,South TN,7,8295,2107,Gift Box,Ramanathapuram,Wholesale,21,Shop,UPI
+3348,2025-10-02,Bijili Crackers (100),South TN,21,2243,604,Sound,Tirunelveli,Gifting,11,Shop,UPI
+3361,2025-10-02,Kids Special Pack,South TN,6,2940,1183,Gift Box,Tirunelveli,Retail,2,Phone/WhatsApp,Cash
+3368,2025-10-02,Lakshmi Vedi (10 pcs),North TN,67,4643,1117,Sound,Trichy,Wholesale,23,Online,Cash
+3481,2025-10-02,Flower Pots (5 pcs),Chennai,2,356,106,Ground,Tambaram,Retail,1,Shop,Cash
+2176,2025-10-03,Bijili Crackers (100),Other States,5,576,191,Sound,Kochi,Retail,4,Phone/WhatsApp,UPI
+2289,2025-10-03,Bijili Crackers (100),West TN,5,594,157,Sound,Salem,Retail,1,Phone/WhatsApp,UPI
+2475,2025-10-03,Sparklers (10 pcs),Chennai,55,2673,857,Sparklers,Kancheepuram,Wholesale,19,Online,Card
+2634,2025-10-03,Sky Shot 7 Shot,Other States,23,7762,1786,Aerial,Hyderabad,Wholesale,25,Phone/WhatsApp,Cash
+2646,2025-10-03,Rockets (10 pcs),Other States,2,431,129,Aerial,Bengaluru,Retail,2,Online,UPI
+2714,2025-10-03,Ground Chakkar (10 pcs),North TN,6,832,294,Ground,Vellore,Retail,1,Phone/WhatsApp,Card
+2774,2025-10-03,Deluxe Gift Box,Chennai,41,103320,20908,Gift Box,Kancheepuram,Dealer,28,Shop,Cash
+2800,2025-10-03,Flower Pots (5 pcs),South TN,69,10309,2962,Ground,Virudhunagar,Wholesale,17,Shop,Card
+2873,2025-10-03,Kids Special Pack,Chennai,3,1455,494,Gift Box,Tambaram,Retail,3,Phone/WhatsApp,Cash
+2928,2025-10-03,Sparklers (10 pcs),Other States,35,1575,465,Sparklers,Vijayawada,Wholesale,25,Shop,Card
+3142,2025-10-03,Sparklers (10 pcs),Chennai,119,5498,1894,Sparklers,Chennai,Dealer,23,Shop,Cash
+3252,2025-10-03,Multi Shot 30 Shot,North TN,14,14616,3581,Aerial,Cuddalore,Gifting,13,Shop,Credit
+3267,2025-10-03,Deluxe Gift Box,Other States,25,65625,14245,Gift Box,Hyderabad,Dealer,25,Shop,UPI
+3304,2025-10-03,Lakshmi Vedi (10 pcs),Chennai,75,5468,1379,Sound,Kancheepuram,Wholesale,19,Online,UPI
+3310,2025-10-03,Deluxe Gift Box,South TN,47,121730,23837,Gift Box,Virudhunagar,Dealer,26,Shop,Cash
+3408,2025-10-03,Ground Chakkar (10 pcs),South TN,6,815,300,Ground,Madurai,Retail,3,Phone/WhatsApp,UPI
+3414,2025-10-03,Ground Chakkar (10 pcs),South TN,4,538,162,Ground,Tirunelveli,Retail,4,Shop,UPI
+3461,2025-10-03,Kids Special Pack,West TN,3,1485,563,Gift Box,Erode,Retail,1,Shop,Cash
+3499,2025-10-03,Multi Shot 30 Shot,West TN,16,15936,3264,Aerial,Erode,Wholesale,17,Shop,UPI
+2043,2025-10-04,Sparklers (10 pcs),West TN,4,233,77,Sparklers,Erode,Retail,3,Phone/WhatsApp,UPI
+2049,2025-10-04,Lakshmi Vedi (10 pcs),South TN,3,265,77,Sound,Ramanathapuram,Retail,2,Phone/WhatsApp,UPI
+2073,2025-10-04,Sparklers (10 pcs),South TN,103,4511,1540,Sparklers,Ramanathapuram,Dealer,27,Shop,UPI
+2085,2025-10-04,Lakshmi Vedi (10 pcs),South TN,77,5198,1069,Sound,Madurai,Wholesale,25,Phone/WhatsApp,UPI
+2310,2025-10-04,Rockets (10 pcs),Other States,65,10868,2778,Aerial,Kochi,Wholesale,24,Shop,Cash
+2321,2025-10-04,Family Gift Box,South TN,18,20250,4800,Gift Box,Tirunelveli,Wholesale,25,Shop,UPI
+2692,2025-10-04,Ground Chakkar (10 pcs),Other States,79,8406,2255,Ground,Kochi,Dealer,24,Phone/WhatsApp,UPI
+2755,2025-10-04,Fancy Fountain,Other States,29,7917,2649,Fancy,Hyderabad,Wholesale,22,Shop,UPI
+2771,2025-10-04,Sky Shot 7 Shot,West TN,61,22234,5905,Aerial,Erode,Wholesale,19,Shop,UPI
+2952,2025-10-04,Bijili Crackers (100),West TN,43,4180,1315,Sound,Tiruppur,Wholesale,19,Shop,UPI
+3064,2025-10-04,Bijili Crackers (100),South TN,1,118,39,Sound,Virudhunagar,Retail,2,Shop,Cash
+3194,2025-10-04,Deluxe Gift Box,Chennai,1,3465,984,Gift Box,Avadi,Retail,1,Shop,UPI
+3219,2025-10-04,Lakshmi Vedi (10 pcs),Other States,55,3861,1074,Sound,Kochi,Wholesale,22,Shop,Cash
+3309,2025-10-04,Ground Chakkar (10 pcs),Other States,24,2923,1030,Ground,Vijayawada,Gifting,13,Shop,Credit
+3411,2025-10-04,Ground Chakkar (10 pcs),Chennai,25,2835,973,Ground,Avadi,Wholesale,19,Phone/WhatsApp,Card
+3456,2025-10-04,Sparklers (10 pcs),Chennai,3,178,57,Sparklers,Kancheepuram,Retail,1,Online,Cash
+3487,2025-10-04,Kids Special Pack,Chennai,146,49640,14959,Gift Box,Tambaram,Dealer,32,Phone/WhatsApp,Cash
+2135,2025-10-05,Lakshmi Vedi (10 pcs),West TN,2,176,55,Sound,Erode,Retail,2,Shop,UPI
+2180,2025-10-05,Fancy Fountain,South TN,5,1680,607,Fancy,Ramanathapuram,Retail,4,Shop,UPI
+2371,2025-10-05,Flower Pots (5 pcs),West TN,5,891,271,Ground,Erode,Retail,1,Phone/WhatsApp,UPI
+2458,2025-10-05,Rockets (10 pcs),South TN,5,1067,319,Aerial,Thoothukudi,Retail,3,Online,Card
+2467,2025-10-05,Fancy Fountain,North TN,2,686,220,Fancy,Thanjavur,Retail,2,Shop,Cash
+2909,2025-10-05,Sky Shot 7 Shot,Other States,29,11614,3738,Aerial,Kochi,Gifting,11,Shop,UPI
+2917,2025-10-05,Lakshmi Vedi (10 pcs),South TN,38,3044,857,Sound,Virudhunagar,Gifting,11,Shop,UPI
+3085,2025-10-05,Multi Shot 30 Shot,Chennai,28,30576,6290,Aerial,Avadi,Gifting,9,Online,Cash
+3091,2025-10-05,Rockets (10 pcs),Other States,1,209,79,Aerial,Hyderabad,Retail,5,Phone/WhatsApp,Cash
+3164,2025-10-05,Bijili Crackers (100),Other States,78,7488,2283,Sound,Kochi,Wholesale,20,Phone/WhatsApp,Cash
+3281,2025-10-05,Rockets (10 pcs),Chennai,6,1267,405,Aerial,Avadi,Retail,4,Shop,Cash
+3386,2025-10-05,Kids Special Pack,Chennai,80,32400,12385,Gift Box,Chennai,Wholesale,19,Shop,Cash
+3432,2025-10-05,Bijili Crackers (100),South TN,4,470,119,Sound,Virudhunagar,Retail,2,Online,Cash
+2256,2025-10-06,Kids Special Pack,Other States,6,2850,890,Gift Box,Hyderabad,Retail,5,Shop,UPI
+2350,2025-10-06,Sparklers (10 pcs),Other States,4,238,86,Sparklers,Bengaluru,Retail,1,Shop,UPI
+2576,2025-10-06,Sparklers (10 pcs),North TN,1,59,21,Sparklers,Trichy,Retail,2,Online,UPI
+2757,2025-10-06,Sky Shot 7 Shot,Other States,3,1350,402,Aerial,Bengaluru,Retail,0,Shop,UPI
+2858,2025-10-06,Lakshmi Vedi (10 pcs),North TN,2,178,52,Sound,Trichy,Retail,1,Shop,Credit
+2896,2025-10-06,Sparklers (10 pcs),Chennai,3,180,59,Sparklers,Kancheepuram,Retail,0,Shop,UPI
+3032,2025-10-06,Rockets (10 pcs),South TN,3,634,190,Aerial,Thoothukudi,Retail,4,Phone/WhatsApp,Cash
+3114,2025-10-06,Fancy Fountain,Chennai,122,29890,7612,Fancy,Kancheepuram,Dealer,30,Phone/WhatsApp,UPI
+3174,2025-10-06,Lakshmi Vedi (10 pcs),Chennai,6,540,146,Sound,Kancheepuram,Retail,0,Shop,Card
+3185,2025-10-06,Sparklers (10 pcs),South TN,52,2590,832,Sparklers,Madurai,Wholesale,17,Shop,Credit
+3236,2025-10-06,Lakshmi Vedi (10 pcs),South TN,21,1720,487,Sound,Madurai,Gifting,9,Online,Card
+3287,2025-10-06,Bijili Crackers (100),West TN,6,706,175,Sound,Tiruppur,Retail,2,Shop,UPI
+2028,2025-10-07,Rockets (10 pcs),South TN,63,11642,4063,Aerial,Tirunelveli,Wholesale,16,Phone/WhatsApp,UPI
+2245,2025-10-07,Sparklers (10 pcs),West TN,70,3444,1060,Sparklers,Tiruppur,Wholesale,18,Shop,UPI
+2389,2025-10-07,Sparklers (10 pcs),Chennai,6,356,137,Sparklers,Kancheepuram,Retail,1,Shop,Cash
+2438,2025-10-07,Fancy Fountain,South TN,30,9345,3012,Fancy,Thoothukudi,Gifting,11,Shop,UPI
+2470,2025-10-07,Rockets (10 pcs),Chennai,58,10718,3512,Aerial,Tambaram,Wholesale,16,Phone/WhatsApp,UPI
+2528,2025-10-07,Family Gift Box,Chennai,3,4455,1157,Gift Box,Tambaram,Retail,1,Shop,UPI
+2631,2025-10-07,Ground Chakkar (10 pcs),South TN,1,136,43,Ground,Madurai,Retail,3,Online,UPI
+2760,2025-10-07,Flower Pots (5 pcs),South TN,54,7582,2023,Ground,Thoothukudi,Wholesale,22,Phone/WhatsApp,Cash
+2963,2025-10-07,Flower Pots (5 pcs),Chennai,2,356,107,Ground,Avadi,Retail,1,Phone/WhatsApp,Cash
+2976,2025-10-07,Flower Pots (5 pcs),South TN,107,13675,3765,Ground,Tirunelveli,Dealer,28,Online,Cash
+2979,2025-10-07,Rockets (10 pcs),Chennai,74,11722,3794,Aerial,Kancheepuram,Dealer,28,Shop,UPI
+3227,2025-10-07,Sparklers (10 pcs),South TN,2,116,39,Sparklers,Virudhunagar,Retail,3,Shop,Cash
+3320,2025-10-07,Kids Special Pack,South TN,24,9600,3312,Gift Box,Tirunelveli,Wholesale,20,Phone/WhatsApp,UPI
+3349,2025-10-07,Rockets (10 pcs),South TN,55,9438,2451,Aerial,Tirunelveli,Wholesale,22,Shop,Cash
+2001,2025-10-08,Lakshmi Vedi (10 pcs),West TN,1,88,25,Sound,Tiruppur,Retail,2,Shop,UPI
+2006,2025-10-08,Atom Bomb (10 pcs),West TN,74,9354,2194,Sound,Tiruppur,Wholesale,21,Shop,Cash
+2116,2025-10-08,Ground Chakkar (10 pcs),South TN,33,4204,1422,Ground,Tirunelveli,Gifting,9,Phone/WhatsApp,UPI
+2279,2025-10-08,Bijili Crackers (100),North TN,4,466,158,Sound,Vellore,Retail,3,Shop,Cash
+2306,2025-10-08,Family Gift Box,South TN,2,2940,970,Gift Box,Virudhunagar,Retail,2,Phone/WhatsApp,UPI
+2341,2025-10-08,Family Gift Box,Chennai,42,47880,9736,Gift Box,Chennai,Dealer,24,Phone/WhatsApp,UPI
+2365,2025-10-08,Flower Pots (5 pcs),Chennai,1,175,55,Ground,Kancheepuram,Retail,3,Shop,UPI
+2377,2025-10-08,Ground Chakkar (10 pcs),West TN,5,686,219,Ground,Erode,Retail,2,Phone/WhatsApp,Card
+2413,2025-10-08,Bijili Crackers (100),Chennai,1,116,33,Sound,Kancheepuram,Retail,3,Shop,Card
+2994,2025-10-08,Fancy Fountain,Chennai,1,343,113,Fancy,Tambaram,Retail,2,Shop,UPI
+3075,2025-10-08,Family Gift Box,South TN,5,7425,2506,Gift Box,Virudhunagar,Retail,1,Online,UPI
+3472,2025-10-08,Family Gift Box,South TN,1,1485,475,Gift Box,Virudhunagar,Retail,1,Phone/WhatsApp,Cash
+2231,2025-10-09,Atom Bomb (10 pcs),South TN,71,9656,2788,Sound,Tirunelveli,Wholesale,15,Shop,UPI
+2345,2025-10-09,Fancy Fountain,Other States,6,2016,714,Fancy,Kochi,Retail,4,Shop,UPI
+2502,2025-10-09,Sky Shot 7 Shot,Other States,6,2700,824,Aerial,Kochi,Retail,0,Shop,UPI
+2533,2025-10-09,Ground Chakkar (10 pcs),Chennai,28,3371,957,Ground,Avadi,Gifting,14,Phone/WhatsApp,Cash
+2564,2025-10-09,Flower Pots (5 pcs),South TN,33,4752,1509,Ground,Virudhunagar,Wholesale,20,Phone/WhatsApp,UPI
+2570,2025-10-09,Ground Chakkar (10 pcs),North TN,49,5214,1669,Ground,Trichy,Wholesale,24,Shop,UPI
+2727,2025-10-09,Flower Pots (5 pcs),Other States,25,3960,1067,Ground,Hyderabad,Gifting,12,Shop,Cash
+2729,2025-10-09,Kids Special Pack,West TN,77,29260,10301,Gift Box,Coimbatore,Wholesale,24,Shop,Cash
+2770,2025-10-09,Flower Pots (5 pcs),Chennai,28,3881,921,Ground,Tambaram,Wholesale,23,Phone/WhatsApp,UPI
+2794,2025-10-09,Lakshmi Vedi (10 pcs),South TN,6,524,134,Sound,Madurai,Retail,3,Shop,Card
+3150,2025-10-09,Sky Shot 7 Shot,Other States,37,13986,4257,Aerial,Bengaluru,Wholesale,16,Shop,UPI
+3340,2025-10-09,Atom Bomb (10 pcs),Other States,1,158,48,Sound,Bengaluru,Retail,1,Shop,Cash
+3480,2025-10-09,Lakshmi Vedi (10 pcs),South TN,5,450,155,Sound,Tirunelveli,Retail,0,Shop,UPI
+2029,2025-10-10,Ground Chakkar (10 pcs),Chennai,5,693,208,Ground,Tambaram,Retail,1,Shop,Credit
+2036,2025-10-10,Lakshmi Vedi (10 pcs),South TN,85,5890,1751,Sound,Virudhunagar,Dealer,23,Shop,Cash
+2084,2025-10-10,Family Gift Box,Chennai,14,16800,3561,Gift Box,Tambaram,Wholesale,20,Shop,UPI
+2090,2025-10-10,Flower Pots (5 pcs),Chennai,1,180,59,Ground,Tambaram,Retail,0,Shop,Cash
+2120,2025-10-10,Flower Pots (5 pcs),Chennai,1,175,50,Ground,Tambaram,Retail,3,Online,Cash
+2125,2025-10-10,Rockets (10 pcs),North TN,4,862,272,Aerial,Thanjavur,Retail,2,Shop,UPI
+2131,2025-10-10,Multi Shot 30 Shot,Chennai,12,13104,3879,Aerial,Chennai,Gifting,9,Shop,Cash
+2138,2025-10-10,Rockets (10 pcs),West TN,35,6006,2130,Aerial,Salem,Wholesale,22,Phone/WhatsApp,UPI
+2230,2025-10-10,Fancy Fountain,South TN,4,1358,489,Fancy,Tirunelveli,Retail,3,Online,UPI
+2237,2025-10-10,Flower Pots (5 pcs),South TN,6,1080,358,Ground,Thoothukudi,Retail,0,Phone/WhatsApp,Cash
+2307,2025-10-10,Sparklers (10 pcs),South TN,60,2772,971,Sparklers,Virudhunagar,Dealer,23,Phone/WhatsApp,UPI
+2374,2025-10-10,Flower Pots (5 pcs),North TN,3,529,157,Ground,Thanjavur,Retail,2,Shop,Cash
+2403,2025-10-10,Flower Pots (5 pcs),South TN,4,720,223,Ground,Madurai,Retail,0,Shop,UPI
+2424,2025-10-10,Sparklers (10 pcs),West TN,52,2621,938,Sparklers,Erode,Wholesale,16,Online,UPI
+2643,2025-10-10,Sparklers (10 pcs),West TN,32,1728,529,Sparklers,Salem,Gifting,10,Online,Cash
+2671,2025-10-10,Ground Chakkar (10 pcs),West TN,34,3998,1312,Ground,Salem,Wholesale,16,Shop,UPI
+2685,2025-10-10,Sky Shot 7 Shot,West TN,1,446,125,Aerial,Coimbatore,Retail,1,Phone/WhatsApp,Cash
+2699,2025-10-10,Bijili Crackers (100),South TN,2,230,63,Sound,Ramanathapuram,Retail,4,Shop,Cash
+2722,2025-10-10,Flower Pots (5 pcs),North TN,157,19499,5216,Ground,Trichy,Dealer,31,Shop,Credit
+2799,2025-10-10,Family Gift Box,South TN,48,54000,12484,Gift Box,Tirunelveli,Dealer,25,Shop,UPI
+2824,2025-10-10,Sparklers (10 pcs),West TN,2,119,47,Sparklers,Coimbatore,Retail,1,Online,Cash
+2846,2025-10-10,Ground Chakkar (10 pcs),Chennai,3,420,130,Ground,Chennai,Retail,0,Phone/WhatsApp,Credit
+2870,2025-10-10,Family Gift Box,West TN,16,18240,5336,Gift Box,Tiruppur,Wholesale,24,Shop,UPI
+2929,2025-10-10,Deluxe Gift Box,West TN,1,3465,799,Gift Box,Tiruppur,Retail,1,Shop,UPI
+2960,2025-10-10,Sky Shot 7 Shot,West TN,5,2160,658,Aerial,Coimbatore,Retail,4,Online,UPI
+3015,2025-10-10,Atom Bomb (10 pcs),Chennai,5,776,229,Sound,Tambaram,Retail,3,Shop,UPI
+3104,2025-10-10,Rockets (10 pcs),Other States,3,653,212,Aerial,Kochi,Retail,1,Shop,UPI
+3157,2025-10-10,Fancy Fountain,South TN,4,1344,379,Fancy,Madurai,Retail,4,Shop,UPI
+3271,2025-10-10,Sparklers (10 pcs),North TN,24,1094,338,Sparklers,Thanjavur,Wholesale,24,Phone/WhatsApp,UPI
+3298,2025-10-10,Lakshmi Vedi (10 pcs),Other States,4,360,95,Sound,Hyderabad,Retail,0,Shop,UPI
+3303,2025-10-10,Bijili Crackers (100),South TN,2,235,75,Sound,Tirunelveli,Retail,2,Shop,UPI
+3468,2025-10-10,Rockets (10 pcs),South TN,2,422,142,Aerial,Tirunelveli,Retail,4,Shop,Cash
+2012,2025-10-11,Flower Pots (5 pcs),Chennai,14,2268,692,Ground,Tambaram,Gifting,10,Shop,Cash
+2014,2025-10-11,Bijili Crackers (100),West TN,6,684,231,Sound,Tiruppur,Retail,5,Shop,UPI
+2066,2025-10-11,Sparklers (10 pcs),South TN,13,702,236,Sparklers,Madurai,Gifting,10,Shop,Cash
+2072,2025-10-11,Bijili Crackers (100),Other States,1,116,37,Sound,Vijayawada,Retail,3,Shop,Cash
+2076,2025-10-11,Flower Pots (5 pcs),Chennai,5,882,325,Ground,Kancheepuram,Retail,2,Shop,Card
+2115,2025-10-11,Flower Pots (5 pcs),Chennai,40,6480,2114,Ground,Kancheepuram,Gifting,10,Phone/WhatsApp,Cash
+2195,2025-10-11,Ground Chakkar (10 pcs),South TN,2,272,78,Ground,Thoothukudi,Retail,3,Shop,UPI
+2210,2025-10-11,Kids Special Pack,North TN,49,19355,6869,Gift Box,Thanjavur,Wholesale,21,Phone/WhatsApp,UPI
+2366,2025-10-11,Family Gift Box,North TN,3,4500,1218,Gift Box,Trichy,Retail,0,Shop,Cash
+2385,2025-10-11,Rockets (10 pcs),North TN,5,1100,347,Aerial,Thanjavur,Retail,0,Shop,UPI
+2464,2025-10-11,Sky Shot 7 Shot,Other States,5,2160,587,Aerial,Hyderabad,Retail,4,Shop,UPI
+2476,2025-10-11,Atom Bomb (10 pcs),Chennai,145,17400,4385,Sound,Kancheepuram,Dealer,25,Shop,UPI
+2548,2025-10-11,Flower Pots (5 pcs),South TN,44,6257,1918,Ground,Virudhunagar,Wholesale,21,Phone/WhatsApp,UPI
+2566,2025-10-11,Ground Chakkar (10 pcs),South TN,78,9064,2739,Ground,Ramanathapuram,Wholesale,17,Online,Cash
+2645,2025-10-11,Deluxe Gift Box,Chennai,5,13825,3166,Gift Box,Kancheepuram,Wholesale,21,Shop,UPI
+2656,2025-10-11,Flower Pots (5 pcs),North TN,6,1069,328,Ground,Cuddalore,Retail,1,Phone/WhatsApp,UPI
+2700,2025-10-11,Sparklers (10 pcs),South TN,47,2341,847,Sparklers,Thoothukudi,Wholesale,17,Phone/WhatsApp,Cash
+2878,2025-10-11,Ground Chakkar (10 pcs),West TN,6,823,231,Ground,Tiruppur,Retail,2,Shop,Cash
+2892,2025-10-11,Flower Pots (5 pcs),Other States,4,706,229,Ground,Hyderabad,Retail,2,Phone/WhatsApp,UPI
+2916,2025-10-11,Ground Chakkar (10 pcs),North TN,5,686,244,Ground,Vellore,Retail,2,Shop,UPI
+2951,2025-10-11,Atom Bomb (10 pcs),Chennai,73,8293,2172,Sound,Avadi,Dealer,28,Shop,UPI
+3097,2025-10-11,Sparklers (10 pcs),West TN,3,175,63,Sparklers,Erode,Retail,3,Phone/WhatsApp,Card
+3141,2025-10-11,Sky Shot 7 Shot,Other States,68,25398,6506,Aerial,Bengaluru,Wholesale,17,Online,UPI
+3209,2025-10-11,Flower Pots (5 pcs),North TN,25,3780,1158,Ground,Thanjavur,Wholesale,16,Online,Credit
+3242,2025-10-11,Sparklers (10 pcs),South TN,6,353,138,Sparklers,Tirunelveli,Retail,2,Online,UPI
+3280,2025-10-11,Atom Bomb (10 pcs),North TN,115,13984,3609,Sound,Thanjavur,Dealer,24,Online,Cash
+3391,2025-10-11,Flower Pots (5 pcs),South TN,1,173,54,Ground,Virudhunagar,Retail,4,Shop,Cash
+3439,2025-10-11,Kids Special Pack,Chennai,56,21840,7849,Gift Box,Tambaram,Wholesale,22,Phone/WhatsApp,UPI
+3460,2025-10-11,Atom Bomb (10 pcs),Other States,1,155,48,Sound,Bengaluru,Retail,3,Online,UPI
+3465,2025-10-11,Sky Shot 7 Shot,Chennai,73,26937,6226,Aerial,Chennai,Wholesale,18,Shop,UPI
+3492,2025-10-11,Ground Chakkar (10 pcs),South TN,66,7577,2503,Ground,Tirunelveli,Wholesale,18,Phone/WhatsApp,UPI
+2027,2025-10-12,Sparklers (10 pcs),South TN,1,59,19,Sparklers,Ramanathapuram,Retail,1,Phone/WhatsApp,UPI
+2030,2025-10-12,Family Gift Box,West TN,6,8910,2245,Gift Box,Coimbatore,Retail,1,Phone/WhatsApp,Card
+2069,2025-10-12,Fancy Fountain,Chennai,132,35574,10325,Fancy,Tambaram,Dealer,23,Online,Credit
+2098,2025-10-12,Sky Shot 7 Shot,West TN,5,2182,597,Aerial,Salem,Retail,3,Shop,UPI
+2106,2025-10-12,Ground Chakkar (10 pcs),Chennai,1,133,38,Ground,Tambaram,Retail,5,Shop,UPI
+2132,2025-10-12,Sparklers (10 pcs),Chennai,4,240,82,Sparklers,Tambaram,Retail,0,Shop,UPI
+2153,2025-10-12,Sky Shot 7 Shot,West TN,1,432,125,Aerial,Coimbatore,Retail,4,Shop,Cash
+2162,2025-10-12,Deluxe Gift Box,South TN,1,3395,800,Gift Box,Ramanathapuram,Retail,3,Shop,Credit
+2167,2025-10-12,Kids Special Pack,South TN,6,2940,978,Gift Box,Madurai,Retail,2,Online,UPI
+2185,2025-10-12,Deluxe Gift Box,Other States,1,3465,870,Gift Box,Vijayawada,Retail,1,Shop,UPI
+2190,2025-10-12,Sparklers (10 pcs),Chennai,44,2033,676,Sparklers,Tambaram,Wholesale,23,Shop,Cash
+2207,2025-10-12,Sparklers (10 pcs),Other States,2,120,45,Sparklers,Bengaluru,Retail,0,Phone/WhatsApp,Cash
+2221,2025-10-12,Lakshmi Vedi (10 pcs),South TN,6,524,145,Sound,Madurai,Retail,3,Phone/WhatsApp,Cash
+2262,2025-10-12,Flower Pots (5 pcs),West TN,37,5528,1874,Ground,Coimbatore,Wholesale,17,Shop,UPI
+2354,2025-10-12,Sky Shot 7 Shot,West TN,56,18900,5301,Aerial,Tiruppur,Wholesale,25,Shop,Credit
+2376,2025-10-12,Deluxe Gift Box,South TN,10,29050,6624,Gift Box,Madurai,Wholesale,17,Shop,UPI
+2517,2025-10-12,Ground Chakkar (10 pcs),North TN,31,3429,854,Ground,Vellore,Wholesale,21,Shop,UPI
+2624,2025-10-12,Atom Bomb (10 pcs),Chennai,18,2477,604,Sound,Kancheepuram,Gifting,14,Online,Cash
+2665,2025-10-12,Family Gift Box,West TN,26,33540,8832,Gift Box,Tiruppur,Gifting,14,Shop,Cash
+2841,2025-10-12,Atom Bomb (10 pcs),West TN,20,2880,788,Sound,Coimbatore,Gifting,10,Shop,UPI
+2847,2025-10-12,Kids Special Pack,Other States,2,950,279,Gift Box,Vijayawada,Retail,5,Phone/WhatsApp,UPI
+2883,2025-10-12,Multi Shot 30 Shot,Other States,27,28512,8223,Aerial,Kochi,Gifting,12,Shop,UPI
+2931,2025-10-12,Atom Bomb (10 pcs),South TN,45,5976,1536,Sound,Ramanathapuram,Wholesale,17,Shop,Card
+2936,2025-10-12,Lakshmi Vedi (10 pcs),South TN,78,5967,1382,Sound,Ramanathapuram,Wholesale,15,Shop,UPI
+2948,2025-10-12,Bijili Crackers (100),West TN,4,475,124,Sound,Coimbatore,Retail,1,Shop,UPI
+3031,2025-10-12,Multi Shot 30 Shot,Chennai,4,4656,1465,Aerial,Chennai,Retail,3,Shop,Cash
+3048,2025-10-12,Bijili Crackers (100),South TN,34,3550,1074,Sound,Virudhunagar,Gifting,13,Shop,UPI
+3067,2025-10-12,Ground Chakkar (10 pcs),West TN,5,693,256,Ground,Coimbatore,Retail,1,Shop,UPI
+3117,2025-10-12,Fancy Fountain,South TN,163,41646,12198,Fancy,Thoothukudi,Dealer,27,Shop,Cash
+3128,2025-10-12,Flower Pots (5 pcs),South TN,6,1069,373,Ground,Tirunelveli,Retail,1,Online,UPI
+3167,2025-10-12,Ground Chakkar (10 pcs),South TN,1,139,49,Ground,Virudhunagar,Retail,1,Shop,UPI
+3193,2025-10-12,Family Gift Box,South TN,6,8640,2329,Gift Box,Madurai,Retail,4,Phone/WhatsApp,UPI
+3211,2025-10-12,Fancy Fountain,South TN,35,9555,3207,Fancy,Tirunelveli,Wholesale,22,Phone/WhatsApp,Cash
+3244,2025-10-12,Sparklers (10 pcs),Other States,3,173,52,Sparklers,Bengaluru,Retail,4,Phone/WhatsApp,Cash
+3291,2025-10-12,Sky Shot 7 Shot,Other States,38,14706,4289,Aerial,Bengaluru,Gifting,14,Phone/WhatsApp,Cash
+3341,2025-10-12,Family Gift Box,Chennai,36,47520,12993,Gift Box,Avadi,Gifting,12,Shop,Cash
+3394,2025-10-12,Sky Shot 7 Shot,Chennai,1,446,126,Aerial,Avadi,Retail,1,Shop,Cash
+3433,2025-10-12,Bijili Crackers (100),Chennai,6,720,236,Sound,Tambaram,Retail,0,Shop,Card
+2064,2025-10-13,Flower Pots (5 pcs),Other States,4,706,238,Ground,Vijayawada,Retail,2,Shop,UPI
+2091,2025-10-13,Ground Chakkar (10 pcs),South TN,196,19208,5044,Ground,Virudhunagar,Dealer,30,Shop,UPI
+2130,2025-10-13,Ground Chakkar (10 pcs),Chennai,3,399,123,Ground,Tambaram,Retail,5,Phone/WhatsApp,UPI
+2168,2025-10-13,Kids Special Pack,Other States,2,990,359,Gift Box,Vijayawada,Retail,1,Shop,Card
+2184,2025-10-13,Sky Shot 7 Shot,Other States,4,1728,530,Aerial,Bengaluru,Retail,4,Shop,UPI
+2276,2025-10-13,Ground Chakkar (10 pcs),South TN,5,693,254,Ground,Thoothukudi,Retail,1,Online,UPI
+2282,2025-10-13,Kids Special Pack,Chennai,3,1440,541,Gift Box,Chennai,Retail,4,Phone/WhatsApp,UPI
+2355,2025-10-13,Ground Chakkar (10 pcs),Other States,2,269,100,Ground,Vijayawada,Retail,4,Phone/WhatsApp,UPI
+2358,2025-10-13,Flower Pots (5 pcs),Other States,37,5328,1654,Ground,Bengaluru,Wholesale,20,Shop,Cash
+2361,2025-10-13,Sparklers (10 pcs),South TN,2,119,39,Sparklers,Ramanathapuram,Retail,1,Phone/WhatsApp,Cash
+2362,2025-10-13,Kids Special Pack,Other States,1,475,189,Gift Box,Bengaluru,Retail,5,Shop,Card
+2501,2025-10-13,Multi Shot 30 Shot,Other States,5,5760,1359,Aerial,Vijayawada,Retail,4,Shop,Card
+2509,2025-10-13,Ground Chakkar (10 pcs),West TN,5,693,220,Ground,Coimbatore,Retail,1,Shop,Cash
+2515,2025-10-13,Bijili Crackers (100),Chennai,21,2092,634,Sound,Tambaram,Wholesale,17,Phone/WhatsApp,UPI
+2578,2025-10-13,Flower Pots (5 pcs),South TN,4,720,227,Ground,Ramanathapuram,Retail,0,Shop,UPI
+2603,2025-10-13,Sparklers (10 pcs),South TN,78,3557,1234,Sparklers,Madurai,Dealer,24,Shop,UPI
+2689,2025-10-13,Atom Bomb (10 pcs),Chennai,3,466,158,Sound,Kancheepuram,Retail,3,Shop,Cash
+2764,2025-10-13,Flower Pots (5 pcs),North TN,25,3915,1161,Ground,Trichy,Gifting,13,Shop,UPI
+2780,2025-10-13,Ground Chakkar (10 pcs),North TN,4,554,203,Ground,Trichy,Retail,1,Shop,UPI
+2790,2025-10-13,Bijili Crackers (100),South TN,1,116,35,Sound,Thoothukudi,Retail,3,Shop,Cash
+2796,2025-10-13,Sparklers (10 pcs),Chennai,59,2938,812,Sparklers,Avadi,Wholesale,17,Shop,Card
+2809,2025-10-13,Bijili Crackers (100),South TN,2,238,65,Sound,Madurai,Retail,1,Shop,UPI
+2812,2025-10-13,Lakshmi Vedi (10 pcs),South TN,4,349,98,Sound,Ramanathapuram,Retail,3,Online,UPI
+2857,2025-10-13,Sparklers (10 pcs),Chennai,25,1275,364,Sparklers,Tambaram,Wholesale,15,Shop,UPI
+2868,2025-10-13,Lakshmi Vedi (10 pcs),Other States,100,6660,1453,Sound,Kochi,Dealer,26,Shop,Cash
+2908,2025-10-13,Atom Bomb (10 pcs),Chennai,40,5504,1477,Sound,Avadi,Gifting,14,Phone/WhatsApp,Credit
+2912,2025-10-13,Bijili Crackers (100),Other States,3,346,108,Sound,Hyderabad,Retail,4,Online,Cash
+2914,2025-10-13,Lakshmi Vedi (10 pcs),Other States,3,256,73,Sound,Vijayawada,Retail,5,Phone/WhatsApp,Cash
+2915,2025-10-13,Family Gift Box,North TN,3,4455,1406,Gift Box,Vellore,Retail,1,Phone/WhatsApp,UPI
+3010,2025-10-13,Rockets (10 pcs),Other States,42,7207,2436,Aerial,Hyderabad,Wholesale,22,Shop,Cash
+3028,2025-10-13,Atom Bomb (10 pcs),South TN,4,608,197,Sound,Virudhunagar,Retail,5,Shop,UPI
+3039,2025-10-13,Rockets (10 pcs),West TN,41,7396,2420,Aerial,Erode,Wholesale,18,Phone/WhatsApp,Card
+3057,2025-10-13,Lakshmi Vedi (10 pcs),South TN,6,529,165,Sound,Ramanathapuram,Retail,2,Phone/WhatsApp,UPI
+3059,2025-10-13,Lakshmi Vedi (10 pcs),West TN,5,446,111,Sound,Erode,Retail,1,Shop,Cash
+3100,2025-10-13,Sky Shot 7 Shot,Chennai,1,441,122,Aerial,Chennai,Retail,2,Shop,Cash
+3145,2025-10-13,Multi Shot 30 Shot,Chennai,2,2304,695,Aerial,Kancheepuram,Retail,4,Shop,Cash
+3228,2025-10-13,Lakshmi Vedi (10 pcs),North TN,23,1842,522,Sound,Trichy,Gifting,11,Phone/WhatsApp,Card
+3260,2025-10-13,Flower Pots (5 pcs),North TN,163,19951,5278,Ground,Cuddalore,Dealer,32,Phone/WhatsApp,UPI
+3290,2025-10-13,Kids Special Pack,West TN,3,1425,443,Gift Box,Tiruppur,Retail,5,Phone/WhatsApp,Card
+3409,2025-10-13,Bijili Crackers (100),North TN,6,698,233,Sound,Trichy,Retail,3,Online,UPI
+3416,2025-10-13,Bijili Crackers (100),Chennai,35,3318,928,Sound,Tambaram,Wholesale,21,Online,UPI
+3476,2025-10-13,Sparklers (10 pcs),Chennai,148,6749,2238,Sparklers,Kancheepuram,Dealer,24,Shop,Cash
+2205,2025-10-14,Bijili Crackers (100),South TN,79,7394,1886,Sound,Madurai,Wholesale,22,Shop,UPI
+2339,2025-10-14,Flower Pots (5 pcs),Other States,79,11660,3305,Ground,Bengaluru,Wholesale,18,Phone/WhatsApp,Cash
+2360,2025-10-14,Deluxe Gift Box,South TN,1,3360,829,Gift Box,Virudhunagar,Retail,4,Shop,UPI
+2363,2025-10-14,Flower Pots (5 pcs),South TN,2,346,100,Ground,Madurai,Retail,4,Shop,UPI
+2383,2025-10-14,Ground Chakkar (10 pcs),West TN,77,8624,2726,Ground,Coimbatore,Wholesale,20,Phone/WhatsApp,UPI
+2481,2025-10-14,Sparklers (10 pcs),Other States,4,230,75,Sparklers,Hyderabad,Retail,4,Shop,Card
+2523,2025-10-14,Multi Shot 30 Shot,West TN,3,3456,813,Aerial,Tiruppur,Retail,4,Phone/WhatsApp,Cash
+2545,2025-10-14,Flower Pots (5 pcs),Chennai,32,4781,1196,Ground,Tambaram,Wholesale,17,Shop,Cash
+2626,2025-10-14,Ground Chakkar (10 pcs),Chennai,6,815,239,Ground,Chennai,Retail,3,Phone/WhatsApp,UPI
+2686,2025-10-14,Ground Chakkar (10 pcs),West TN,35,4116,1378,Ground,Coimbatore,Wholesale,16,Shop,UPI
+2732,2025-10-14,Sparklers (10 pcs),South TN,2,119,36,Sparklers,Thoothukudi,Retail,1,Online,Credit
+2736,2025-10-14,Sparklers (10 pcs),South TN,6,356,115,Sparklers,Madurai,Retail,1,Phone/WhatsApp,UPI
+2752,2025-10-14,Flower Pots (5 pcs),West TN,6,1069,326,Ground,Erode,Retail,1,Shop,Cash
+2786,2025-10-14,Atom Bomb (10 pcs),Other States,3,461,137,Sound,Hyderabad,Retail,4,Online,UPI
+2797,2025-10-14,Family Gift Box,Chennai,18,23490,6525,Gift Box,Chennai,Gifting,13,Online,UPI
+2856,2025-10-14,Sparklers (10 pcs),South TN,27,1328,360,Sparklers,Madurai,Wholesale,18,Online,UPI
+2877,2025-10-14,Fancy Fountain,South TN,49,13548,3540,Fancy,Ramanathapuram,Wholesale,21,Online,UPI
+2911,2025-10-14,Flower Pots (5 pcs),South TN,56,7661,2168,Ground,Madurai,Wholesale,24,Shop,Cash
+2988,2025-10-14,Kids Special Pack,Chennai,5,2475,871,Gift Box,Tambaram,Retail,1,Online,UPI
+2991,2025-10-14,Kids Special Pack,South TN,29,13340,4359,Gift Box,Ramanathapuram,Gifting,8,Phone/WhatsApp,UPI
+3021,2025-10-14,Multi Shot 30 Shot,Chennai,41,34932,5850,Aerial,Tambaram,Dealer,28,Shop,Credit
+3044,2025-10-14,Sky Shot 7 Shot,South TN,77,28067,7174,Aerial,Virudhunagar,Wholesale,19,Shop,UPI
+3066,2025-10-14,Sky Shot 7 Shot,North TN,44,16434,5122,Aerial,Thanjavur,Wholesale,17,Shop,UPI
+3074,2025-10-14,Flower Pots (5 pcs),West TN,1,180,65,Ground,Erode,Retail,0,Online,UPI
+3093,2025-10-14,Sky Shot 7 Shot,Chennai,6,2565,820,Aerial,Tambaram,Retail,5,Online,Cash
+3190,2025-10-14,Family Gift Box,Chennai,10,11550,3250,Gift Box,Avadi,Wholesale,23,Shop,UPI
+3212,2025-10-14,Ground Chakkar (10 pcs),South TN,39,4259,1180,Ground,Thoothukudi,Wholesale,22,Phone/WhatsApp,Cash
+3224,2025-10-14,Flower Pots (5 pcs),South TN,3,518,151,Ground,Ramanathapuram,Retail,4,Online,UPI
+3253,2025-10-14,Sparklers (10 pcs),South TN,36,1771,590,Sparklers,Ramanathapuram,Wholesale,18,Online,Cash
+3279,2025-10-14,Deluxe Gift Box,Other States,40,98000,19438,Gift Box,Bengaluru,Dealer,30,Phone/WhatsApp,UPI
+3463,2025-10-14,Bijili Crackers (100),South TN,57,5540,1688,Sound,Virudhunagar,Wholesale,19,Phone/WhatsApp,Card
+2019,2025-10-15,Rockets (10 pcs),South TN,3,647,253,Aerial,Virudhunagar,Retail,2,Shop,UPI
+2063,2025-10-15,Sparklers (10 pcs),Other States,25,1320,432,Sparklers,Bengaluru,Gifting,12,Online,UPI
+2099,2025-10-15,Deluxe Gift Box,South TN,1,3500,787,Gift Box,Madurai,Retail,0,Shop,Cash
+2104,2025-10-15,Sparklers (10 pcs),West TN,1,59,18,Sparklers,Salem,Retail,1,Shop,UPI
+2193,2025-10-15,Flower Pots (5 pcs),West TN,123,17048,5476,Ground,Erode,Dealer,23,Shop,Cash
+2229,2025-10-15,Rockets (10 pcs),South TN,78,14243,3979,Aerial,Tirunelveli,Wholesale,17,Online,Cash
+2253,2025-10-15,Family Gift Box,West TN,20,26400,7764,Gift Box,Erode,Gifting,12,Shop,UPI
+2343,2025-10-15,Bijili Crackers (100),South TN,1,115,31,Sound,Ramanathapuram,Retail,4,Shop,UPI
+2347,2025-10-15,Sparklers (10 pcs),South TN,47,2171,690,Sparklers,Ramanathapuram,Wholesale,23,Shop,UPI
+2348,2025-10-15,Lakshmi Vedi (10 pcs),South TN,2,173,53,Sound,Thoothukudi,Retail,4,Shop,Cash
+2416,2025-10-15,Flower Pots (5 pcs),Other States,5,864,284,Ground,Hyderabad,Retail,4,Phone/WhatsApp,Cash
+2430,2025-10-15,Rockets (10 pcs),Chennai,52,8809,2745,Aerial,Chennai,Wholesale,23,Online,UPI
+2484,2025-10-15,Bijili Crackers (100),South TN,3,353,96,Sound,Thoothukudi,Retail,2,Online,Credit
+2524,2025-10-15,Sky Shot 7 Shot,Other States,1,436,138,Aerial,Vijayawada,Retail,3,Online,Credit
+2540,2025-10-15,Kids Special Pack,Chennai,4,1960,599,Gift Box,Avadi,Retail,2,Phone/WhatsApp,Cash
+2598,2025-10-15,Sparklers (10 pcs),Other States,2,119,42,Sparklers,Vijayawada,Retail,1,Shop,Cash
+2619,2025-10-15,Sparklers (10 pcs),South TN,20,924,245,Sparklers,Tirunelveli,Wholesale,23,Phone/WhatsApp,Card
+2620,2025-10-15,Ground Chakkar (10 pcs),Chennai,140,14308,4357,Ground,Avadi,Dealer,27,Phone/WhatsApp,UPI
+2704,2025-10-15,Lakshmi Vedi (10 pcs),South TN,5,432,143,Sound,Virudhunagar,Retail,4,Shop,UPI
+2749,2025-10-15,Rockets (10 pcs),South TN,6,1267,452,Aerial,Virudhunagar,Retail,4,Shop,UPI
+2887,2025-10-15,Flower Pots (5 pcs),Chennai,2,356,113,Ground,Chennai,Retail,1,Shop,Cash
+2910,2025-10-15,Sparklers (10 pcs),Other States,24,1181,363,Sparklers,Kochi,Wholesale,18,Shop,UPI
+2980,2025-10-15,Ground Chakkar (10 pcs),Other States,5,679,210,Ground,Vijayawada,Retail,3,Shop,Cash
+3020,2025-10-15,Atom Bomb (10 pcs),South TN,156,18720,5523,Sound,Tirunelveli,Dealer,25,Online,Cash
+3047,2025-10-15,Sparklers (10 pcs),North TN,21,1046,358,Sparklers,Thanjavur,Wholesale,17,Phone/WhatsApp,Cash
+3076,2025-10-15,Kids Special Pack,West TN,3,1425,467,Gift Box,Salem,Retail,5,Phone/WhatsApp,UPI
+3080,2025-10-15,Flower Pots (5 pcs),North TN,28,4435,1555,Ground,Thanjavur,Gifting,12,Online,Cash
+3160,2025-10-15,Sparklers (10 pcs),West TN,2,119,42,Sparklers,Erode,Retail,1,Phone/WhatsApp,Credit
+3207,2025-10-15,Sparklers (10 pcs),North TN,3,173,67,Sparklers,Cuddalore,Retail,4,Shop,Cash
+3217,2025-10-15,Rockets (10 pcs),North TN,5,1056,381,Aerial,Trichy,Retail,4,Shop,Card
+3255,2025-10-15,Ground Chakkar (10 pcs),Other States,6,806,253,Ground,Kochi,Retail,4,Shop,Cash
+3308,2025-10-15,Atom Bomb (10 pcs),South TN,3,470,150,Sound,Virudhunagar,Retail,2,Shop,Cash
+3326,2025-10-15,Multi Shot 30 Shot,South TN,6,6912,1982,Aerial,Tirunelveli,Retail,4,Shop,UPI
+3337,2025-10-15,Flower Pots (5 pcs),Chennai,46,6624,1958,Ground,Kancheepuram,Wholesale,20,Phone/WhatsApp,Cash
+3344,2025-10-15,Family Gift Box,Other States,6,8910,2232,Gift Box,Bengaluru,Retail,1,Shop,Cash
+3346,2025-10-15,Kids Special Pack,Chennai,3,1425,520,Gift Box,Tambaram,Retail,5,Phone/WhatsApp,Cash
+3379,2025-10-15,Deluxe Gift Box,South TN,1,3360,918,Gift Box,Ramanathapuram,Retail,4,Phone/WhatsApp,Cash
+3403,2025-10-15,Flower Pots (5 pcs),Chennai,4,720,215,Ground,Kancheepuram,Retail,0,Shop,UPI
+3497,2025-10-15,Sparklers (10 pcs),South TN,3,176,53,Sparklers,Ramanathapuram,Retail,2,Shop,Cash
+2013,2025-10-16,Bijili Crackers (100),Other States,3,356,91,Sound,Kochi,Retail,1,Shop,Cash
+2086,2025-10-16,Sky Shot 7 Shot,North TN,6,2673,887,Aerial,Cuddalore,Retail,1,Phone/WhatsApp,Credit
+2088,2025-10-16,Atom Bomb (10 pcs),West TN,38,4803,1344,Sound,Erode,Wholesale,21,Shop,Credit
+2144,2025-10-16,Sparklers (10 pcs),Other States,50,2340,770,Sparklers,Kochi,Wholesale,22,Phone/WhatsApp,Cash
+2149,2025-10-16,Sky Shot 7 Shot,West TN,4,1764,570,Aerial,Coimbatore,Retail,2,Phone/WhatsApp,Card
+2258,2025-10-16,Rockets (10 pcs),South TN,5,1067,353,Aerial,Madurai,Retail,3,Shop,Cash
+2266,2025-10-16,Family Gift Box,South TN,19,22800,5190,Gift Box,Ramanathapuram,Wholesale,20,Shop,Cash
+2432,2025-10-16,Flower Pots (5 pcs),West TN,28,3830,1270,Ground,Coimbatore,Wholesale,24,Shop,Cash
+2437,2025-10-16,Kids Special Pack,Chennai,39,17355,5009,Gift Box,Kancheepuram,Gifting,11,Phone/WhatsApp,Cash
+2482,2025-10-16,Flower Pots (5 pcs),Other States,4,691,197,Ground,Kochi,Retail,4,Phone/WhatsApp,Cash
+2508,2025-10-16,Rockets (10 pcs),South TN,62,10366,2936,Aerial,Tirunelveli,Wholesale,24,Shop,UPI
+2574,2025-10-16,Ground Chakkar (10 pcs),Chennai,1,134,49,Ground,Avadi,Retail,4,Phone/WhatsApp,Cash
+2628,2025-10-16,Flower Pots (5 pcs),South TN,39,6037,1586,Ground,Madurai,Gifting,14,Phone/WhatsApp,Card
+2639,2025-10-16,Sky Shot 7 Shot,Other States,5,2182,559,Aerial,Hyderabad,Retail,3,Online,UPI
+2660,2025-10-16,Sky Shot 7 Shot,North TN,6,2592,786,Aerial,Thanjavur,Retail,4,Shop,UPI
+2666,2025-10-16,Sparklers (10 pcs),North TN,4,238,94,Sparklers,Cuddalore,Retail,1,Shop,Credit
+2709,2025-10-16,Flower Pots (5 pcs),Chennai,69,10309,2700,Ground,Avadi,Wholesale,17,Online,Credit
+2731,2025-10-16,Ground Chakkar (10 pcs),Other States,64,7168,2340,Ground,Bengaluru,Wholesale,20,Shop,UPI
+2792,2025-10-16,Rockets (10 pcs),Other States,188,29366,9270,Aerial,Kochi,Dealer,28,Phone/WhatsApp,UPI
+2793,2025-10-16,Rockets (10 pcs),South TN,22,4211,1196,Aerial,Madurai,Gifting,13,Shop,UPI
+2802,2025-10-16,Ground Chakkar (10 pcs),Chennai,4,543,197,Ground,Chennai,Retail,3,Phone/WhatsApp,Cash
+2863,2025-10-16,Deluxe Gift Box,Other States,7,19110,4237,Gift Box,Hyderabad,Wholesale,22,Phone/WhatsApp,Card
+2882,2025-10-16,Fancy Fountain,South TN,48,13608,3923,Fancy,Tirunelveli,Wholesale,19,Phone/WhatsApp,Cash
+2897,2025-10-16,Lakshmi Vedi (10 pcs),North TN,6,513,131,Sound,Trichy,Retail,5,Shop,Cash
+2920,2025-10-16,Lakshmi Vedi (10 pcs),South TN,4,356,98,Sound,Thoothukudi,Retail,1,Phone/WhatsApp,UPI
+3121,2025-10-16,Sparklers (10 pcs),South TN,3,178,53,Sparklers,Virudhunagar,Retail,1,Phone/WhatsApp,UPI
+3129,2025-10-16,Sparklers (10 pcs),Other States,58,2923,917,Sparklers,Bengaluru,Wholesale,16,Online,Card
+3189,2025-10-16,Bijili Crackers (100),Chennai,5,570,191,Sound,Tambaram,Retail,5,Shop,UPI
+3233,2025-10-16,Bijili Crackers (100),West TN,66,6098,1856,Sound,Tiruppur,Wholesale,23,Shop,Card
+3251,2025-10-16,Family Gift Box,Chennai,2,2910,833,Gift Box,Avadi,Retail,3,Shop,Cash
+3302,2025-10-16,Kids Special Pack,West TN,32,12960,3684,Gift Box,Erode,Wholesale,19,Shop,UPI
+3312,2025-10-16,Sparklers (10 pcs),Chennai,65,2964,996,Sparklers,Avadi,Wholesale,24,Phone/WhatsApp,UPI
+3359,2025-10-16,Family Gift Box,Chennai,1,1470,378,Gift Box,Tambaram,Retail,2,Online,UPI
+3381,2025-10-16,Multi Shot 30 Shot,Other States,13,13104,2921,Aerial,Bengaluru,Wholesale,16,Shop,Cash
+3427,2025-10-16,Bijili Crackers (100),North TN,1,116,34,Sound,Thanjavur,Retail,3,Shop,UPI
+3435,2025-10-16,Sky Shot 7 Shot,Other States,102,33507,7621,Aerial,Hyderabad,Dealer,27,Shop,UPI
+3444,2025-10-16,Multi Shot 30 Shot,South TN,17,15912,2894,Aerial,Tirunelveli,Wholesale,22,Phone/WhatsApp,UPI
+3474,2025-10-16,Sparklers (10 pcs),North TN,121,5372,1415,Sparklers,Cuddalore,Dealer,26,Shop,UPI
+3498,2025-10-16,Multi Shot 30 Shot,North TN,16,13824,2762,Aerial,Thanjavur,Dealer,28,Shop,Credit
+2087,2025-10-17,Sparklers (10 pcs),South TN,108,4536,1122,Sparklers,Ramanathapuram,Dealer,30,Shop,Card
+2105,2025-10-17,Rockets (10 pcs),Other States,3,640,191,Aerial,Vijayawada,Retail,3,Shop,UPI
+2119,2025-10-17,Lakshmi Vedi (10 pcs),South TN,3,265,72,Sound,Madurai,Retail,2,Phone/WhatsApp,UPI
+2158,2025-10-17,Sparklers (10 pcs),North TN,54,2689,833,Sparklers,Trichy,Wholesale,17,Online,UPI
+2173,2025-10-17,Ground Chakkar (10 pcs),Other States,1,134,43,Ground,Vijayawada,Retail,4,Shop,UPI
+2179,2025-10-17,Kids Special Pack,West TN,1,480,198,Gift Box,Coimbatore,Retail,4,Online,UPI
+2203,2025-10-17,Bijili Crackers (100),South TN,65,6318,1383,Sound,Tirunelveli,Wholesale,19,Phone/WhatsApp,Credit
+2243,2025-10-17,Rockets (10 pcs),South TN,2,440,156,Aerial,Virudhunagar,Retail,0,Shop,Credit
+2305,2025-10-17,Lakshmi Vedi (10 pcs),Other States,2,178,47,Sound,Hyderabad,Retail,1,Phone/WhatsApp,Cash
+2368,2025-10-17,Lakshmi Vedi (10 pcs),South TN,5,436,113,Sound,Ramanathapuram,Retail,3,Shop,UPI
+2384,2025-10-17,Kids Special Pack,South TN,1,475,184,Gift Box,Virudhunagar,Retail,5,Phone/WhatsApp,Cash
+2407,2025-10-17,Bijili Crackers (100),North TN,1,120,33,Sound,Vellore,Retail,0,Shop,UPI
+2410,2025-10-17,Flower Pots (5 pcs),Chennai,3,524,171,Ground,Tambaram,Retail,3,Shop,Cash
+2426,2025-10-17,Sparklers (10 pcs),Chennai,4,238,84,Sparklers,Tambaram,Retail,1,Shop,UPI
+2444,2025-10-17,Bijili Crackers (100),South TN,2,230,66,Sound,Tirunelveli,Retail,4,Shop,Cash
+2450,2025-10-17,Flower Pots (5 pcs),North TN,199,27223,6813,Ground,Thanjavur,Dealer,24,Phone/WhatsApp,Credit
+2460,2025-10-17,Rockets (10 pcs),North TN,24,4224,1232,Aerial,Trichy,Wholesale,20,Shop,Cash
+2582,2025-10-17,Multi Shot 30 Shot,South TN,6,6840,1889,Aerial,Madurai,Retail,5,Phone/WhatsApp,Cash
+2597,2025-10-17,Lakshmi Vedi (10 pcs),Chennai,66,4574,963,Sound,Kancheepuram,Wholesale,23,Phone/WhatsApp,Cash
+2616,2025-10-17,Rockets (10 pcs),South TN,38,7357,2350,Aerial,Madurai,Gifting,12,Shop,Cash
+2672,2025-10-17,Ground Chakkar (10 pcs),Chennai,175,18375,5502,Ground,Tambaram,Dealer,25,Shop,UPI
+2688,2025-10-17,Atom Bomb (10 pcs),West TN,5,768,221,Sound,Coimbatore,Retail,4,Phone/WhatsApp,UPI
+2719,2025-10-17,Rockets (10 pcs),Chennai,5,1089,377,Aerial,Avadi,Retail,1,Shop,Cash
+2734,2025-10-17,Lakshmi Vedi (10 pcs),Other States,1,86,28,Sound,Kochi,Retail,4,Phone/WhatsApp,UPI
+2759,2025-10-17,Family Gift Box,West TN,5,7275,1861,Gift Box,Coimbatore,Retail,3,Shop,UPI
+2773,2025-10-17,Flower Pots (5 pcs),Other States,5,864,261,Ground,Kochi,Retail,4,Shop,UPI
+2902,2025-10-17,Kids Special Pack,South TN,53,20405,5606,Gift Box,Ramanathapuram,Wholesale,23,Shop,UPI
+2962,2025-10-17,Bijili Crackers (100),Chennai,46,4361,1185,Sound,Avadi,Wholesale,21,Phone/WhatsApp,UPI
+3187,2025-10-17,Rockets (10 pcs),West TN,1,218,74,Aerial,Tiruppur,Retail,1,Online,UPI
+3216,2025-10-17,Sky Shot 7 Shot,Other States,4,1764,551,Aerial,Hyderabad,Retail,2,Shop,Cash
+3230,2025-10-17,Bijili Crackers (100),Chennai,5,588,160,Sound,Chennai,Retail,2,Shop,Cash
+3241,2025-10-17,Deluxe Gift Box,South TN,6,16800,4052,Gift Box,Ramanathapuram,Wholesale,20,Phone/WhatsApp,Cash
+3276,2025-10-17,Family Gift Box,South TN,6,8730,2057,Gift Box,Thoothukudi,Retail,3,Online,UPI
+3318,2025-10-17,Lakshmi Vedi (10 pcs),Other States,78,5897,1309,Sound,Vijayawada,Wholesale,16,Online,Cash
+3395,2025-10-17,Ground Chakkar (10 pcs),North TN,2,269,97,Ground,Cuddalore,Retail,4,Shop,Credit
+3415,2025-10-17,Bijili Crackers (100),Chennai,2,238,80,Sound,Avadi,Retail,1,Phone/WhatsApp,UPI
+3452,2025-10-17,Sparklers (10 pcs),Other States,3,178,62,Sparklers,Bengaluru,Retail,1,Online,UPI
+2045,2025-10-18,Rockets (10 pcs),Other States,6,1294,504,Aerial,Kochi,Retail,2,Online,Cash
+2122,2025-10-18,Bijili Crackers (100),Chennai,52,5117,1297,Sound,Avadi,Wholesale,18,Shop,Credit
+2139,2025-10-18,Kids Special Pack,South TN,14,6370,2314,Gift Box,Virudhunagar,Gifting,9,Online,Cash
+2178,2025-10-18,Deluxe Gift Box,Other States,1,3500,836,Gift Box,Hyderabad,Retail,0,Shop,UPI
+2183,2025-10-18,Family Gift Box,South TN,34,38250,9682,Gift Box,Thoothukudi,Dealer,25,Shop,Cash
+2287,2025-10-18,Bijili Crackers (100),South TN,2,230,77,Sound,Thoothukudi,Retail,4,Phone/WhatsApp,UPI
+2474,2025-10-18,Flower Pots (5 pcs),South TN,42,6199,1693,Ground,Madurai,Wholesale,18,Shop,UPI
+2531,2025-10-18,Rockets (10 pcs),West TN,6,1307,395,Aerial,Salem,Retail,1,Shop,Cash
+2538,2025-10-18,Multi Shot 30 Shot,Chennai,12,11232,2451,Aerial,Chennai,Wholesale,22,Phone/WhatsApp,UPI
+2555,2025-10-18,Bijili Crackers (100),South TN,1,118,33,Sound,Tirunelveli,Retail,2,Shop,Cash
+2559,2025-10-18,Flower Pots (5 pcs),South TN,35,5229,1565,Ground,Thoothukudi,Wholesale,17,Online,Cash
+2635,2025-10-18,Flower Pots (5 pcs),Other States,1,176,54,Ground,Vijayawada,Retail,2,Phone/WhatsApp,Card
+2636,2025-10-18,Lakshmi Vedi (10 pcs),West TN,5,432,111,Sound,Tiruppur,Retail,4,Shop,Cash
+2651,2025-10-18,Flower Pots (5 pcs),South TN,179,23521,5582,Ground,Madurai,Dealer,27,Online,Cash
+2658,2025-10-18,Fancy Fountain,North TN,21,5660,1503,Fancy,Thanjavur,Wholesale,23,Shop,Cash
+2659,2025-10-18,Sparklers (10 pcs),Chennai,34,1693,496,Sparklers,Tambaram,Wholesale,17,Shop,Credit
+2726,2025-10-18,Bijili Crackers (100),North TN,6,713,213,Sound,Vellore,Retail,1,Shop,UPI
+2835,2025-10-18,Sky Shot 7 Shot,West TN,4,1782,491,Aerial,Salem,Retail,1,Shop,UPI
+2955,2025-10-18,Sparklers (10 pcs),Chennai,35,1722,576,Sparklers,Avadi,Wholesale,18,Shop,UPI
+2966,2025-10-18,Bijili Crackers (100),South TN,3,360,120,Sound,Ramanathapuram,Retail,0,Shop,UPI
+2982,2025-10-18,Flower Pots (5 pcs),South TN,26,4165,1254,Ground,Virudhunagar,Gifting,11,Phone/WhatsApp,Cash
+2990,2025-10-18,Sparklers (10 pcs),North TN,32,1574,458,Sparklers,Thanjavur,Wholesale,18,Shop,UPI
+3023,2025-10-18,Sparklers (10 pcs),North TN,1,59,18,Sparklers,Cuddalore,Retail,2,Shop,Cash
+3055,2025-10-18,Fancy Fountain,South TN,3,1040,327,Fancy,Virudhunagar,Retail,1,Phone/WhatsApp,UPI
+3131,2025-10-18,Sparklers (10 pcs),Chennai,46,2125,700,Sparklers,Tambaram,Wholesale,23,Shop,Cash
+3295,2025-10-18,Fancy Fountain,North TN,5,1698,516,Fancy,Vellore,Retail,3,Shop,Cash
+3334,2025-10-18,Ground Chakkar (10 pcs),Chennai,2,277,80,Ground,Avadi,Retail,1,Online,Cash
+3383,2025-10-18,Sparklers (10 pcs),South TN,139,6005,1531,Sparklers,Virudhunagar,Dealer,28,Shop,UPI
+3477,2025-10-18,Bijili Crackers (100),South TN,3,342,94,Sound,Virudhunagar,Retail,5,Phone/WhatsApp,UPI
+2005,2025-10-19,Fancy Fountain,West TN,4,1358,482,Fancy,Salem,Retail,3,Phone/WhatsApp,Cash
+2021,2025-10-19,Rockets (10 pcs),South TN,88,14520,4007,Aerial,Thoothukudi,Dealer,25,Shop,Cash
+2052,2025-10-19,Bijili Crackers (100),West TN,41,3887,868,Sound,Salem,Wholesale,21,Shop,UPI
+2081,2025-10-19,Sparklers (10 pcs),West TN,70,3150,1049,Sparklers,Salem,Dealer,25,Phone/WhatsApp,UPI
+2097,2025-10-19,Rockets (10 pcs),West TN,53,9794,3167,Aerial,Salem,Wholesale,16,Shop,UPI
+2137,2025-10-19,Kids Special Pack,Chennai,5,2475,760,Gift Box,Tambaram,Retail,1,Phone/WhatsApp,Cash
+2159,2025-10-19,Bijili Crackers (100),West TN,16,1747,420,Sound,Coimbatore,Gifting,9,Shop,Credit
+2182,2025-10-19,Rockets (10 pcs),Other States,6,1267,487,Aerial,Bengaluru,Retail,4,Shop,UPI
+2291,2025-10-19,Fancy Fountain,Chennai,163,43358,13984,Fancy,Kancheepuram,Dealer,24,Shop,Card
+2332,2025-10-19,Rockets (10 pcs),North TN,2,422,154,Aerial,Trichy,Retail,4,Shop,Cash
+2344,2025-10-19,Kids Special Pack,South TN,44,18480,6965,Gift Box,Ramanathapuram,Wholesale,16,Online,UPI
+2380,2025-10-19,Flower Pots (5 pcs),South TN,2,356,134,Ground,Thoothukudi,Retail,1,Shop,UPI
+2488,2025-10-19,Flower Pots (5 pcs),South TN,39,5476,1787,Ground,Ramanathapuram,Wholesale,22,Online,UPI
+2622,2025-10-19,Flower Pots (5 pcs),Chennai,6,1037,296,Ground,Tambaram,Retail,4,Phone/WhatsApp,Cash
+2694,2025-10-19,Kids Special Pack,South TN,42,17220,6573,Gift Box,Madurai,Wholesale,18,Phone/WhatsApp,UPI
+2746,2025-10-19,Sparklers (10 pcs),West TN,43,2038,584,Sparklers,Coimbatore,Wholesale,21,Phone/WhatsApp,Cash
+2801,2025-10-19,Rockets (10 pcs),Other States,78,14586,4040,Aerial,Bengaluru,Wholesale,15,Online,UPI
+2889,2025-10-19,Bijili Crackers (100),South TN,4,470,129,Sound,Ramanathapuram,Retail,2,Online,UPI
+2942,2025-10-19,Bijili Crackers (100),Other States,4,475,166,Sound,Kochi,Retail,1,Phone/WhatsApp,UPI
+2986,2025-10-19,Ground Chakkar (10 pcs),Chennai,17,2094,565,Ground,Avadi,Gifting,12,Shop,UPI
+2989,2025-10-19,Sparklers (10 pcs),West TN,5,297,116,Sparklers,Tiruppur,Retail,1,Shop,UPI
+3000,2025-10-19,Sky Shot 7 Shot,Other States,5,2182,637,Aerial,Vijayawada,Retail,3,Shop,Cash
+3046,2025-10-19,Atom Bomb (10 pcs),Chennai,68,8813,2392,Sound,Kancheepuram,Wholesale,19,Shop,UPI
+3084,2025-10-19,Flower Pots (5 pcs),Other States,4,684,192,Ground,Hyderabad,Retail,5,Shop,Cash
+3087,2025-10-19,Sparklers (10 pcs),Chennai,127,5410,1349,Sparklers,Chennai,Dealer,28,Online,Cash
+3125,2025-10-19,Sparklers (10 pcs),North TN,1,58,23,Sparklers,Trichy,Retail,3,Shop,Card
+3184,2025-10-19,Family Gift Box,South TN,23,29670,8755,Gift Box,Tirunelveli,Gifting,14,Shop,UPI
+3186,2025-10-19,Fancy Fountain,North TN,3,1008,302,Fancy,Thanjavur,Retail,4,Shop,Cash
+3243,2025-10-19,Sky Shot 7 Shot,Other States,4,1782,615,Aerial,Kochi,Retail,1,Phone/WhatsApp,UPI
+3248,2025-10-19,Multi Shot 30 Shot,Other States,6,7200,2234,Aerial,Bengaluru,Retail,0,Phone/WhatsApp,UPI
+3284,2025-10-19,Kids Special Pack,Chennai,4,1920,759,Gift Box,Chennai,Retail,4,Online,UPI
+3301,2025-10-19,Fancy Fountain,West TN,21,5660,1752,Fancy,Coimbatore,Wholesale,23,Shop,Cash
+3319,2025-10-19,Kids Special Pack,Chennai,4,1900,555,Gift Box,Avadi,Retail,5,Phone/WhatsApp,Card
+3323,2025-10-19,Sparklers (10 pcs),Chennai,72,3542,1290,Sparklers,Chennai,Wholesale,18,Shop,UPI
+3358,2025-10-19,Rockets (10 pcs),West TN,72,12355,4275,Aerial,Erode,Wholesale,22,Shop,Cash
+3428,2025-10-19,Bijili Crackers (100),Chennai,28,2755,701,Sound,Kancheepuram,Wholesale,18,Shop,Cash
+3450,2025-10-19,Sky Shot 7 Shot,Other States,2,891,279,Aerial,Hyderabad,Retail,1,Shop,Card
+3466,2025-10-19,Sky Shot 7 Shot,West TN,73,24966,6259,Aerial,Tiruppur,Wholesale,24,Online,Cash
+3495,2025-10-19,Ground Chakkar (10 pcs),Chennai,3,407,131,Ground,Kancheepuram,Retail,3,Online,UPI
+2037,2025-10-20,Sparklers (10 pcs),Chennai,70,3486,997,Sparklers,Chennai,Wholesale,17,Shop,Card
+2083,2025-10-20,Kids Special Pack,Chennai,2,1000,361,Gift Box,Avadi,Retail,0,Shop,Cash
+2157,2025-10-20,Multi Shot 30 Shot,Chennai,3,3564,953,Aerial,Kancheepuram,Retail,1,Phone/WhatsApp,Card
+2160,2025-10-20,Lakshmi Vedi (10 pcs),South TN,3,259,73,Sound,Madurai,Retail,4,Shop,UPI
+2171,2025-10-20,Kids Special Pack,Other States,1,495,149,Gift Box,Vijayawada,Retail,1,Online,UPI
+2204,2025-10-20,Bijili Crackers (100),North TN,61,6222,1756,Sound,Cuddalore,Wholesale,15,Phone/WhatsApp,Cash
+2281,2025-10-20,Sky Shot 7 Shot,Other States,69,23288,5060,Aerial,Bengaluru,Dealer,25,Shop,UPI
+2386,2025-10-20,Family Gift Box,Chennai,34,34680,6514,Gift Box,Chennai,Dealer,32,Phone/WhatsApp,UPI
+2388,2025-10-20,Lakshmi Vedi (10 pcs),Other States,3,262,66,Sound,Bengaluru,Retail,3,Phone/WhatsApp,Cash
+2411,2025-10-20,Kids Special Pack,West TN,61,23180,6046,Gift Box,Erode,Wholesale,24,Shop,UPI
+2477,2025-10-20,Deluxe Gift Box,Chennai,1,3360,809,Gift Box,Avadi,Retail,4,Phone/WhatsApp,Card
+2487,2025-10-20,Sparklers (10 pcs),West TN,2,118,38,Sparklers,Erode,Retail,2,Phone/WhatsApp,Cash
+2496,2025-10-20,Kids Special Pack,West TN,4,1920,575,Gift Box,Coimbatore,Retail,4,Shop,Cash
+2497,2025-10-20,Kids Special Pack,Chennai,43,16555,4681,Gift Box,Chennai,Wholesale,23,Shop,UPI
+2506,2025-10-20,Atom Bomb (10 pcs),South TN,6,912,234,Sound,Tirunelveli,Retail,5,Shop,UPI
+2520,2025-10-20,Rockets (10 pcs),Chennai,6,1267,384,Aerial,Tambaram,Retail,4,Shop,Credit
+2543,2025-10-20,Deluxe Gift Box,Chennai,1,3465,761,Gift Box,Chennai,Retail,1,Online,UPI
+2562,2025-10-20,Ground Chakkar (10 pcs),Chennai,1,139,47,Ground,Avadi,Retail,1,Shop,UPI
+2579,2025-10-20,Sparklers (10 pcs),South TN,5,291,115,Sparklers,Thoothukudi,Retail,3,Phone/WhatsApp,Cash
+2580,2025-10-20,Multi Shot 30 Shot,West TN,5,5940,1448,Aerial,Salem,Retail,1,Phone/WhatsApp,Credit
+2593,2025-10-20,Sky Shot 7 Shot,West TN,47,17766,4406,Aerial,Coimbatore,Wholesale,16,Shop,Cash
+2606,2025-10-20,Kids Special Pack,South TN,2,950,346,Gift Box,Tirunelveli,Retail,5,Online,Cash
+2637,2025-10-20,Flower Pots (5 pcs),North TN,29,4333,1120,Ground,Cuddalore,Wholesale,17,Shop,UPI
+2687,2025-10-20,Kids Special Pack,West TN,34,13940,4880,Gift Box,Tiruppur,Wholesale,18,Shop,UPI
+2740,2025-10-20,Family Gift Box,South TN,4,5940,1876,Gift Box,Thoothukudi,Retail,1,Shop,UPI
+2744,2025-10-20,Bijili Crackers (100),Other States,5,594,190,Sound,Kochi,Retail,1,Phone/WhatsApp,UPI
+2781,2025-10-20,Rockets (10 pcs),West TN,43,7190,1817,Aerial,Tiruppur,Wholesale,24,Shop,Credit
+2787,2025-10-20,Ground Chakkar (10 pcs),Chennai,3,407,139,Ground,Chennai,Retail,3,Phone/WhatsApp,UPI
+2819,2025-10-20,Flower Pots (5 pcs),South TN,4,698,235,Ground,Virudhunagar,Retail,3,Shop,UPI
+2859,2025-10-20,Kids Special Pack,South TN,2,980,400,Gift Box,Virudhunagar,Retail,2,Shop,UPI
+2947,2025-10-20,Family Gift Box,Chennai,12,14580,3390,Gift Box,Chennai,Wholesale,19,Shop,UPI
+2961,2025-10-20,Kids Special Pack,Chennai,75,29250,9678,Gift Box,Chennai,Wholesale,22,Phone/WhatsApp,Cash
+2968,2025-10-20,Flower Pots (5 pcs),Other States,6,1058,307,Ground,Vijayawada,Retail,2,Online,Cash
+3051,2025-10-20,Flower Pots (5 pcs),South TN,5,882,318,Ground,Tirunelveli,Retail,2,Phone/WhatsApp,Cash
+3054,2025-10-20,Sparklers (10 pcs),South TN,6,353,133,Sparklers,Ramanathapuram,Retail,2,Online,UPI
+3109,2025-10-20,Sparklers (10 pcs),West TN,22,1043,311,Sparklers,Erode,Wholesale,21,Shop,Cash
+3158,2025-10-20,Flower Pots (5 pcs),Chennai,1,178,63,Ground,Kancheepuram,Retail,1,Shop,UPI
+3173,2025-10-20,Kids Special Pack,Chennai,1,500,165,Gift Box,Chennai,Retail,0,Phone/WhatsApp,Cash
+3188,2025-10-20,Multi Shot 30 Shot,Other States,1,1152,284,Aerial,Vijayawada,Retail,4,Online,Cash
+3225,2025-10-20,Multi Shot 30 Shot,West TN,1,1164,258,Aerial,Tiruppur,Retail,3,Phone/WhatsApp,Credit
+3235,2025-10-20,Sparklers (10 pcs),Chennai,3,175,58,Sparklers,Chennai,Retail,3,Phone/WhatsApp,UPI
+3285,2025-10-20,Flower Pots (5 pcs),North TN,4,720,243,Ground,Trichy,Retail,0,Shop,Cash
+3330,2025-10-20,Deluxe Gift Box,Other States,8,22960,5634,Gift Box,Hyderabad,Wholesale,18,Shop,Cash
+3389,2025-10-20,Fancy Fountain,North TN,49,13034,4202,Fancy,Trichy,Wholesale,24,Online,UPI
+3431,2025-10-20,Sparklers (10 pcs),South TN,69,3146,1009,Sparklers,Thoothukudi,Wholesale,24,Shop,UPI
+3453,2025-10-20,Ground Chakkar (10 pcs),South TN,1,136,42,Ground,Madurai,Retail,3,Shop,UPI
+3455,2025-10-20,Family Gift Box,Chennai,1,1440,394,Gift Box,Avadi,Retail,4,Shop,Cash
+3479,2025-10-20,Bijili Crackers (100),Chennai,30,3168,1012,Sound,Avadi,Gifting,12,Online,Cash
+3485,2025-10-20,Family Gift Box,Other States,1,1470,488,Gift Box,Vijayawada,Retail,2,Phone/WhatsApp,Card
+2264,2025-10-21,Flower Pots (5 pcs),West TN,4,691,247,Ground,Erode,Retail,4,Phone/WhatsApp,UPI
+2301,2025-10-21,Kids Special Pack,South TN,23,8740,2351,Gift Box,Tirunelveli,Wholesale,24,Shop,UPI
+2490,2025-10-21,Sparklers (10 pcs),West TN,124,5059,1605,Sparklers,Tiruppur,Dealer,32,Phone/WhatsApp,Cash
+2587,2025-10-21,Family Gift Box,West TN,12,14400,3201,Gift Box,Coimbatore,Wholesale,20,Phone/WhatsApp,Credit
+2713,2025-10-21,Flower Pots (5 pcs),South TN,3,518,177,Ground,Tirunelveli,Retail,4,Online,UPI
+2737,2025-10-21,Kids Special Pack,Chennai,21,8505,3057,Gift Box,Avadi,Wholesale,19,Online,UPI
+2970,2025-10-21,Sparklers (10 pcs),West TN,6,356,125,Sparklers,Salem,Retail,1,Phone/WhatsApp,UPI
+3192,2025-10-21,Deluxe Gift Box,Chennai,1,3360,815,Gift Box,Tambaram,Retail,4,Shop,Cash
+3347,2025-10-21,Bijili Crackers (100),West TN,3,349,96,Sound,Erode,Retail,3,Phone/WhatsApp,Credit
+2375,2025-10-22,Lakshmi Vedi (10 pcs),Other States,3,259,65,Sound,Hyderabad,Retail,4,Shop,UPI
+2607,2025-10-22,Family Gift Box,Other States,21,28665,8104,Gift Box,Hyderabad,Gifting,9,Shop,Cash
+3133,2025-10-22,Kids Special Pack,Chennai,1,480,149,Gift Box,Tambaram,Retail,4,Online,UPI
+3182,2025-10-22,Lakshmi Vedi (10 pcs),Other States,4,353,96,Sound,Kochi,Retail,2,Phone/WhatsApp,UPI
+3357,2025-10-22,Bijili Crackers (100),South TN,65,6552,1729,Sound,Ramanathapuram,Wholesale,16,Shop,UPI
+2016,2025-10-23,Lakshmi Vedi (10 pcs),South TN,57,4053,988,Sound,Virudhunagar,Wholesale,21,Shop,UPI
+2782,2025-10-23,Sparklers (10 pcs),Chennai,42,1966,519,Sparklers,Chennai,Wholesale,22,Shop,Card
+2215,2025-10-24,Lakshmi Vedi (10 pcs),North TN,5,428,139,Sound,Cuddalore,Retail,5,Phone/WhatsApp,UPI
+2471,2025-10-24,Deluxe Gift Box,South TN,18,50400,12685,Gift Box,Virudhunagar,Wholesale,20,Phone/WhatsApp,UPI
+2999,2025-10-24,Family Gift Box,West TN,6,6930,1897,Gift Box,Tiruppur,Wholesale,23,Shop,UPI
+3226,2025-10-24,Family Gift Box,South TN,1,1455,413,Gift Box,Thoothukudi,Retail,3,Shop,UPI
+3257,2025-10-24,Atom Bomb (10 pcs),North TN,29,4176,1211,Sound,Cuddalore,Gifting,10,Phone/WhatsApp,UPI
+2062,2025-10-25,Flower Pots (5 pcs),South TN,6,1069,386,Ground,Madurai,Retail,1,Shop,UPI
+2711,2025-10-25,Rockets (10 pcs),Chennai,40,7568,2568,Aerial,Avadi,Gifting,14,Online,Cash
+3288,2025-10-25,Sky Shot 7 Shot,South TN,2,900,238,Aerial,Virudhunagar,Retail,0,Phone/WhatsApp,UPI
+2827,2025-10-26,Family Gift Box,North TN,11,13200,3934,Gift Box,Thanjavur,Wholesale,20,Shop,Card
+2337,2025-10-27,Sparklers (10 pcs),North TN,4,233,90,Sparklers,Vellore,Retail,3,Shop,UPI
+2356,2025-10-27,Sparklers (10 pcs),South TN,41,2017,731,Sparklers,Virudhunagar,Wholesale,18,Online,Card
+2359,2025-10-27,Lakshmi Vedi (10 pcs),Other States,50,3555,1068,Sound,Hyderabad,Wholesale,21,Phone/WhatsApp,UPI
+2888,2025-10-27,Flower Pots (5 pcs),South TN,6,1048,338,Ground,Ramanathapuram,Retail,3,Phone/WhatsApp,Cash
+3105,2025-10-27,Bijili Crackers (100),West TN,1,118,35,Sound,Tiruppur,Retail,2,Shop,Cash
+2155,2025-10-28,Multi Shot 30 Shot,South TN,19,17328,3038,Aerial,Madurai,Wholesale,24,Phone/WhatsApp,Cash
+2315,2025-10-28,Bijili Crackers (100),Other States,33,3128,728,Sound,Kochi,Wholesale,21,Phone/WhatsApp,UPI
+2378,2025-10-28,Family Gift Box,Other States,4,5940,1958,Gift Box,Bengaluru,Retail,1,Phone/WhatsApp,Card
+2473,2025-10-28,Family Gift Box,West TN,6,6840,1871,Gift Box,Coimbatore,Wholesale,24,Shop,Card
+3089,2025-10-28,Sparklers (10 pcs),West TN,6,349,131,Sparklers,Salem,Retail,3,Online,Cash
+3286,2025-10-28,Kids Special Pack,West TN,1,500,181,Gift Box,Tiruppur,Retail,0,Phone/WhatsApp,UPI
+3470,2025-10-28,Ground Chakkar (10 pcs),South TN,29,3451,1067,Ground,Virudhunagar,Wholesale,15,Shop,Card
+2189,2025-10-29,Kids Special Pack,Other States,5,2425,882,Gift Box,Kochi,Retail,3,Phone/WhatsApp,Card
+3004,2025-10-29,Sparklers (10 pcs),South TN,58,2854,763,Sparklers,Tirunelveli,Wholesale,18,Online,Cash
+3200,2025-10-29,Sky Shot 7 Shot,West TN,22,7920,1978,Aerial,Tiruppur,Wholesale,20,Online,UPI
+3223,2025-10-29,Sparklers (10 pcs),Chennai,16,854,246,Sparklers,Kancheepuram,Gifting,11,Shop,UPI
+3451,2025-10-29,Lakshmi Vedi (10 pcs),Chennai,62,4241,1040,Sound,Avadi,Wholesale,24,Shop,UPI
+2690,2025-10-30,Bijili Crackers (100),South TN,71,7157,1900,Sound,Madurai,Wholesale,16,Shop,Cash
+3396,2025-10-30,Family Gift Box,Chennai,8,9120,2487,Gift Box,Chennai,Wholesale,24,Phone/WhatsApp,Cash
+2418,2025-10-31,Flower Pots (5 pcs),South TN,69,9688,2573,Ground,Thoothukudi,Wholesale,22,Online,UPI
+2585,2025-10-31,Bijili Crackers (100),Chennai,1,119,33,Sound,Avadi,Retail,1,Phone/WhatsApp,UPI
+2791,2025-10-31,Bijili Crackers (100),West TN,3,349,90,Sound,Coimbatore,Retail,3,Online,Cash
+3203,2025-10-31,Rockets (10 pcs),Other States,2,436,137,Aerial,Hyderabad,Retail,1,Phone/WhatsApp,Cash
+3438,2025-10-31,Flower Pots (5 pcs),North TN,14,2192,704,Ground,Thanjavur,Gifting,13,Shop,Card
+3482,2025-10-31,Bijili Crackers (100),South TN,70,6888,1640,Sound,Ramanathapuram,Wholesale,18,Phone/WhatsApp,UPI
+2701,2025-11-01,Kids Special Pack,South TN,114,42180,14239,Gift Box,Ramanathapuram,Dealer,26,Shop,Cash
+2775,2025-11-01,Multi Shot 30 Shot,North TN,5,5760,1474,Aerial,Vellore,Retail,4,Online,Cash
+2810,2025-11-01,Flower Pots (5 pcs),West TN,47,6514,1986,Ground,Erode,Wholesale,23,Shop,UPI
+3073,2025-11-01,Ground Chakkar (10 pcs),West TN,2,269,81,Ground,Coimbatore,Retail,4,Phone/WhatsApp,UPI
+2330,2025-11-02,Flower Pots (5 pcs),North TN,6,1026,319,Ground,Cuddalore,Retail,5,Shop,UPI
+2346,2025-11-02,Ground Chakkar (10 pcs),South TN,20,2352,763,Ground,Virudhunagar,Wholesale,16,Phone/WhatsApp,UPI
+2408,2025-11-02,Lakshmi Vedi (10 pcs),Other States,68,4957,1334,Sound,Hyderabad,Wholesale,19,Online,UPI
+2930,2025-11-02,Rockets (10 pcs),North TN,2,422,164,Aerial,Thanjavur,Retail,4,Shop,Cash
+3014,2025-11-02,Sparklers (10 pcs),Chennai,198,8554,2695,Sparklers,Chennai,Dealer,28,Online,Cash
+3177,2025-11-02,Ground Chakkar (10 pcs),South TN,46,5345,1381,Ground,Tirunelveli,Wholesale,17,Shop,UPI
+3413,2025-11-02,Deluxe Gift Box,Chennai,1,3465,871,Gift Box,Chennai,Retail,1,Online,UPI
+2571,2025-11-03,Atom Bomb (10 pcs),South TN,4,634,218,Sound,Madurai,Retail,1,Phone/WhatsApp,UPI
+3062,2025-11-03,Sparklers (10 pcs),South TN,106,4706,1509,Sparklers,Madurai,Dealer,26,Phone/WhatsApp,UPI
+3436,2025-11-03,Bijili Crackers (100),Chennai,1,119,32,Sound,Avadi,Retail,1,Online,Cash
+2286,2025-11-04,Bijili Crackers (100),South TN,29,2854,642,Sound,Ramanathapuram,Wholesale,18,Phone/WhatsApp,UPI
+2769,2025-11-04,Bijili Crackers (100),West TN,3,356,97,Sound,Erode,Retail,1,Shop,Credit
+3165,2025-11-04,Rockets (10 pcs),South TN,69,12448,4049,Aerial,Ramanathapuram,Wholesale,18,Shop,Cash
+3373,2025-11-04,Flower Pots (5 pcs),South TN,49,7321,2440,Ground,Virudhunagar,Wholesale,17,Shop,Cash
+2024,2025-11-05,Flower Pots (5 pcs),Chennai,1,176,65,Ground,Tambaram,Retail,2,Shop,UPI
+2292,2025-11-05,Lakshmi Vedi (10 pcs),Other States,1,89,26,Sound,Bengaluru,Retail,1,Phone/WhatsApp,UPI
+2440,2025-11-05,Ground Chakkar (10 pcs),South TN,1,134,41,Ground,Tirunelveli,Retail,4,Shop,UPI
+2934,2025-11-05,Family Gift Box,Chennai,19,22515,5282,Gift Box,Tambaram,Wholesale,21,Shop,Card
+3092,2025-11-05,Atom Bomb (10 pcs),Other States,79,10618,2451,Sound,Vijayawada,Wholesale,16,Shop,Cash
+3231,2025-11-05,Sparklers (10 pcs),West TN,5,291,107,Sparklers,Tiruppur,Retail,3,Shop,Cash
+3333,2025-11-05,Lakshmi Vedi (10 pcs),North TN,6,518,131,Sound,Cuddalore,Retail,4,Shop,Cash
+2035,2025-11-06,Kids Special Pack,West TN,124,47120,16086,Gift Box,Coimbatore,Dealer,24,Online,Cash
+2610,2025-11-06,Bijili Crackers (100),West TN,62,5729,1263,Sound,Salem,Dealer,23,Shop,Cash
+2996,2025-11-06,Ground Chakkar (10 pcs),South TN,48,5578,1658,Ground,Thoothukudi,Wholesale,17,Shop,Card
+3445,2025-11-06,Lakshmi Vedi (10 pcs),South TN,6,518,137,Sound,Ramanathapuram,Retail,4,Shop,UPI
+2735,2025-11-07,Rockets (10 pcs),Other States,1,211,83,Aerial,Vijayawada,Retail,4,Online,UPI
+2993,2025-11-07,Flower Pots (5 pcs),West TN,1,176,53,Ground,Salem,Retail,2,Phone/WhatsApp,UPI
+3101,2025-11-07,Family Gift Box,Chennai,16,18240,4494,Gift Box,Kancheepuram,Wholesale,24,Shop,Cash
+3417,2025-11-07,Family Gift Box,Chennai,12,14940,4341,Gift Box,Tambaram,Wholesale,17,Online,Cash
+2319,2025-11-08,Multi Shot 30 Shot,Chennai,21,19404,3448,Aerial,Kancheepuram,Dealer,23,Online,Card
+2828,2025-11-08,Bijili Crackers (100),West TN,43,4025,1191,Sound,Erode,Wholesale,22,Shop,UPI
+2023,2025-11-09,Rockets (10 pcs),West TN,74,13675,4549,Aerial,Tiruppur,Wholesale,16,Shop,Cash
+2164,2025-11-09,Bijili Crackers (100),Chennai,5,582,167,Sound,Kancheepuram,Retail,3,Shop,UPI
+2691,2025-11-09,Sparklers (10 pcs),Other States,78,3791,1180,Sparklers,Vijayawada,Wholesale,19,Shop,UPI
+2753,2025-11-09,Sparklers (10 pcs),North TN,54,2689,968,Sparklers,Cuddalore,Wholesale,17,Shop,UPI
+2192,2025-11-10,Bijili Crackers (100),South TN,6,706,219,Sound,Thoothukudi,Retail,2,Shop,Credit
+2222,2025-11-10,Flower Pots (5 pcs),North TN,55,7623,1926,Ground,Trichy,Wholesale,23,Online,Cash
+3027,2025-11-10,Bijili Crackers (100),North TN,80,7296,2107,Sound,Cuddalore,Wholesale,24,Phone/WhatsApp,Cash
+3030,2025-11-10,Ground Chakkar (10 pcs),West TN,1,134,46,Ground,Tiruppur,Retail,4,Shop,Cash
+3210,2025-11-10,Ground Chakkar (10 pcs),Other States,5,672,219,Ground,Vijayawada,Retail,4,Online,UPI
+3238,2025-11-10,Sparklers (10 pcs),West TN,4,240,89,Sparklers,Erode,Retail,0,Phone/WhatsApp,Cash
+2468,2025-11-11,Flower Pots (5 pcs),South TN,6,1080,311,Ground,Virudhunagar,Retail,0,Shop,Cash
+2504,2025-11-11,Fancy Fountain,Chennai,4,1358,400,Fancy,Avadi,Retail,3,Shop,UPI
+2550,2025-11-11,Lakshmi Vedi (10 pcs),North TN,17,1377,380,Sound,Cuddalore,Gifting,10,Phone/WhatsApp,Cash
+3115,2025-11-11,Bijili Crackers (100),Other States,3,342,103,Sound,Kochi,Retail,5,Shop,UPI
+3329,2025-11-11,Sparklers (10 pcs),South TN,5,285,90,Sparklers,Virudhunagar,Retail,5,Online,Cash
+3336,2025-11-11,Ground Chakkar (10 pcs),Chennai,6,798,234,Ground,Chennai,Retail,5,Phone/WhatsApp,UPI
+2680,2025-11-12,Ground Chakkar (10 pcs),Other States,1,134,43,Ground,Kochi,Retail,4,Shop,UPI
+3464,2025-11-12,Bijili Crackers (100),West TN,2,238,68,Sound,Salem,Retail,1,Shop,UPI
+2047,2025-11-13,Sparklers (10 pcs),Chennai,4,230,71,Sparklers,Tambaram,Retail,4,Shop,UPI
+2697,2025-11-13,Ground Chakkar (10 pcs),Chennai,2,269,80,Ground,Avadi,Retail,4,Online,UPI
+3420,2025-11-13,Kids Special Pack,Other States,3,1470,603,Gift Box,Hyderabad,Retail,2,Shop,UPI
+2101,2025-11-14,Rockets (10 pcs),Other States,79,14599,4882,Aerial,Vijayawada,Wholesale,16,Shop,UPI
+2905,2025-11-14,Bijili Crackers (100),Chennai,103,9146,2316,Sound,Tambaram,Dealer,26,Shop,Cash
+3122,2025-11-14,Bijili Crackers (100),Chennai,27,2462,691,Sound,Tambaram,Wholesale,24,Shop,UPI
+2302,2025-11-15,Fancy Fountain,Other States,135,33548,9241,Fancy,Kochi,Dealer,28,Online,UPI
+2638,2025-11-15,Sparklers (10 pcs),Chennai,161,7052,1817,Sparklers,Chennai,Dealer,27,Shop,UPI
+3169,2025-11-15,Family Gift Box,North TN,2,2850,762,Gift Box,Vellore,Retail,5,Phone/WhatsApp,UPI
+3376,2025-11-15,Rockets (10 pcs),West TN,1,209,71,Aerial,Erode,Retail,5,Phone/WhatsApp,UPI
+3483,2025-11-15,Lakshmi Vedi (10 pcs),Other States,6,529,139,Sound,Vijayawada,Retail,2,Online,Cash
+2613,2025-11-17,Kids Special Pack,Chennai,23,9085,3293,Gift Box,Chennai,Wholesale,21,Shop,Cash
+3448,2025-11-17,Sparklers (10 pcs),South TN,4,230,82,Sparklers,Ramanathapuram,Retail,4,Shop,Cash
+2129,2025-11-18,Ground Chakkar (10 pcs),South TN,2,277,100,Ground,Thoothukudi,Retail,1,Phone/WhatsApp,UPI
+2649,2025-11-18,Sparklers (10 pcs),Other States,4,233,89,Sparklers,Vijayawada,Retail,3,Shop,UPI
+2322,2025-11-19,Fancy Fountain,North TN,4,1358,433,Fancy,Thanjavur,Retail,3,Shop,Cash
+2633,2025-11-19,Rockets (10 pcs),South TN,2,422,140,Aerial,Madurai,Retail,4,Phone/WhatsApp,UPI
+3246,2025-11-19,Lakshmi Vedi (10 pcs),Chennai,6,529,161,Sound,Avadi,Retail,2,Shop,UPI
+3366,2025-11-19,Sky Shot 7 Shot,South TN,1,446,135,Aerial,Thoothukudi,Retail,1,Phone/WhatsApp,Card
+2020,2025-11-20,Lakshmi Vedi (10 pcs),Chennai,1,89,25,Sound,Avadi,Retail,1,Online,Cash
+2678,2025-11-20,Bijili Crackers (100),South TN,5,576,192,Sound,Madurai,Retail,4,Shop,UPI
+2710,2025-11-20,Bijili Crackers (100),Chennai,3,349,92,Sound,Tambaram,Retail,3,Shop,Cash
+2228,2025-11-22,Sparklers (10 pcs),South TN,22,990,346,Sparklers,Tirunelveli,Wholesale,25,Phone/WhatsApp,Cash
+3491,2025-11-22,Sky Shot 7 Shot,Other States,5,2182,711,Aerial,Bengaluru,Retail,3,Shop,UPI
+2829,2025-11-23,Lakshmi Vedi (10 pcs),Other States,79,5901,1620,Sound,Vijayawada,Wholesale,17,Shop,UPI
+3001,2025-11-23,Rockets (10 pcs),Chennai,6,1294,498,Aerial,Tambaram,Retail,2,Phone/WhatsApp,Cash
+3134,2025-11-23,Bijili Crackers (100),South TN,4,475,146,Sound,Tirunelveli,Retail,1,Phone/WhatsApp,UPI
+3237,2025-11-23,Fancy Fountain,Chennai,4,1386,459,Fancy,Chennai,Retail,1,Shop,UPI
+2124,2025-11-24,Ground Chakkar (10 pcs),South TN,2,272,78,Ground,Ramanathapuram,Retail,3,Shop,Cash
+2560,2025-11-24,Bijili Crackers (100),Chennai,4,466,119,Sound,Tambaram,Retail,3,Online,Cash
+3149,2025-11-24,Bijili Crackers (100),South TN,3,353,121,Sound,Madurai,Retail,2,Shop,Cash
+3324,2025-11-24,Sparklers (10 pcs),Chennai,3,176,65,Sparklers,Tambaram,Retail,2,Shop,UPI
+2165,2025-11-25,Sparklers (10 pcs),West TN,6,360,130,Sparklers,Coimbatore,Retail,0,Phone/WhatsApp,UPI
+3130,2025-11-25,Fancy Fountain,South TN,1,346,104,Fancy,Tirunelveli,Retail,1,Shop,Cash
+2274,2025-11-26,Lakshmi Vedi (10 pcs),Other States,1,86,26,Sound,Kochi,Retail,4,Shop,UPI
+2414,2025-11-26,Deluxe Gift Box,South TN,1,3360,777,Gift Box,Tirunelveli,Retail,4,Shop,UPI
+3111,2025-11-26,Ground Chakkar (10 pcs),West TN,1,137,43,Ground,Tiruppur,Retail,2,Online,UPI
+3218,2025-11-26,Rockets (10 pcs),West TN,37,6186,1563,Aerial,Tiruppur,Wholesale,24,Shop,UPI
+3221,2025-11-26,Sparklers (10 pcs),North TN,64,2995,801,Sparklers,Trichy,Wholesale,22,Online,UPI
+3275,2025-11-26,Family Gift Box,Chennai,2,2910,735,Gift Box,Chennai,Retail,3,Shop,UPI
+2456,2025-11-27,Fancy Fountain,North TN,1,343,105,Fancy,Thanjavur,Retail,2,Phone/WhatsApp,UPI
+2563,2025-11-27,Kids Special Pack,North TN,15,6675,2549,Gift Box,Vellore,Gifting,11,Shop,UPI
+3068,2025-11-27,Sparklers (10 pcs),Other States,35,1911,631,Sparklers,Vijayawada,Gifting,9,Online,Cash
+3371,2025-11-27,Sparklers (10 pcs),Chennai,30,1404,494,Sparklers,Kancheepuram,Wholesale,22,Shop,Cash
+2618,2025-11-29,Flower Pots (5 pcs),West TN,66,9148,3019,Ground,Tiruppur,Wholesale,23,Online,Card
+2900,2025-11-29,Sky Shot 7 Shot,Chennai,75,28350,8215,Aerial,Chennai,Wholesale,16,Shop,Cash
+2903,2025-11-29,Kids Special Pack,Other States,3,1485,517,Gift Box,Kochi,Retail,1,Online,UPI
+2973,2025-11-29,Kids Special Pack,Other States,1,475,163,Gift Box,Kochi,Retail,5,Shop,Credit
+3005,2025-11-29,Sparklers (10 pcs),North TN,21,970,312,Sparklers,Vellore,Wholesale,23,Online,UPI
+3056,2025-11-29,Bijili Crackers (100),South TN,80,7200,1651,Sound,Virudhunagar,Dealer,25,Shop,UPI
+3297,2025-11-29,Sky Shot 7 Shot,South TN,6,2700,931,Aerial,Thoothukudi,Retail,0,Phone/WhatsApp,Cash
+2211,2025-11-30,Sparklers (10 pcs),Chennai,4,235,91,Sparklers,Avadi,Retail,2,Shop,Cash
+2872,2025-11-30,Flower Pots (5 pcs),Chennai,58,8665,2920,Ground,Kancheepuram,Wholesale,17,Shop,Cash
+3247,2025-11-30,Deluxe Gift Box,South TN,23,70840,17496,Gift Box,Thoothukudi,Gifting,12,Shop,Credit
+2133,2025-12-01,Flower Pots (5 pcs),South TN,4,684,221,Ground,Madurai,Retail,5,Phone/WhatsApp,Cash
+3043,2025-12-02,Lakshmi Vedi (10 pcs),South TN,41,2804,827,Sound,Virudhunagar,Wholesale,24,Shop,UPI
+3266,2025-12-02,Ground Chakkar (10 pcs),Chennai,33,3604,1113,Ground,Tambaram,Wholesale,22,Shop,Cash
+3412,2025-12-02,Fancy Fountain,Other States,5,1680,616,Fancy,Bengaluru,Retail,4,Shop,Cash
+3469,2025-12-02,Flower Pots (5 pcs),South TN,39,5897,1666,Ground,Tirunelveli,Wholesale,16,Shop,UPI
+3478,2025-12-02,Atom Bomb (10 pcs),West TN,1,158,49,Sound,Coimbatore,Retail,1,Online,Cash
+2202,2025-12-03,Family Gift Box,Other States,16,18240,5294,Gift Box,Vijayawada,Wholesale,24,Shop,Cash
+2514,2025-12-03,Atom Bomb (10 pcs),South TN,56,7526,1989,Sound,Madurai,Wholesale,16,Shop,UPI
+2641,2025-12-03,Lakshmi Vedi (10 pcs),North TN,4,342,92,Sound,Trichy,Retail,5,Shop,UPI
+2992,2025-12-03,Atom Bomb (10 pcs),Chennai,35,5096,1663,Sound,Kancheepuram,Gifting,9,Phone/WhatsApp,UPI
+3350,2025-12-03,Rockets (10 pcs),Other States,94,14890,4991,Aerial,Hyderabad,Dealer,28,Phone/WhatsApp,Cash
+2238,2025-12-04,Ground Chakkar (10 pcs),South TN,4,543,188,Ground,Madurai,Retail,3,Phone/WhatsApp,UPI
+2252,2025-12-04,Sky Shot 7 Shot,South TN,6,2700,808,Aerial,Virudhunagar,Retail,0,Shop,Cash
+2421,2025-12-05,Rockets (10 pcs),South TN,4,862,268,Aerial,Thoothukudi,Retail,2,Shop,UPI
+3029,2025-12-05,Sparklers (10 pcs),Other States,31,1581,580,Sparklers,Bengaluru,Wholesale,15,Shop,Cash
+2547,2025-12-06,Atom Bomb (10 pcs),West TN,70,9072,2343,Sound,Coimbatore,Wholesale,19,Shop,UPI
+2612,2025-12-06,Bijili Crackers (100),Other States,20,2112,585,Sound,Bengaluru,Gifting,12,Shop,Card
+2876,2025-12-06,Multi Shot 30 Shot,Chennai,13,11856,2603,Aerial,Kancheepuram,Wholesale,24,Shop,UPI
+2958,2025-12-06,Multi Shot 30 Shot,South TN,4,4752,1282,Aerial,Virudhunagar,Retail,1,Phone/WhatsApp,UPI
+2136,2025-12-07,Rockets (10 pcs),West TN,5,1089,356,Aerial,Erode,Retail,1,Shop,UPI
+2855,2025-12-07,Ground Chakkar (10 pcs),Chennai,5,686,202,Ground,Tambaram,Retail,2,Shop,UPI
+3393,2025-12-07,Flower Pots (5 pcs),Chennai,2,346,100,Ground,Avadi,Retail,4,Online,Cash
+3473,2025-12-07,Fancy Fountain,South TN,6,2079,690,Fancy,Tirunelveli,Retail,1,Phone/WhatsApp,UPI
+2061,2025-12-08,Ground Chakkar (10 pcs),South TN,1,136,44,Ground,Thoothukudi,Retail,3,Shop,Cash
+2472,2025-12-08,Family Gift Box,South TN,3,4455,1068,Gift Box,Madurai,Retail,1,Shop,UPI
+2526,2025-12-08,Sky Shot 7 Shot,South TN,6,2592,725,Aerial,Virudhunagar,Retail,4,Online,UPI
+2591,2025-12-08,Ground Chakkar (10 pcs),Chennai,170,16660,3878,Ground,Tambaram,Dealer,30,Phone/WhatsApp,UPI
+3088,2025-12-08,Family Gift Box,Chennai,22,29370,7302,Gift Box,Avadi,Gifting,11,Online,UPI
+3282,2025-12-08,Kids Special Pack,South TN,21,7980,2853,Gift Box,Ramanathapuram,Wholesale,24,Shop,Cash
+2127,2025-12-10,Atom Bomb (10 pcs),Other States,6,941,305,Sound,Bengaluru,Retail,2,Shop,Cash
+2226,2025-12-10,Sparklers (10 pcs),Chennai,2,116,35,Sparklers,Chennai,Retail,3,Shop,UPI
+2275,2025-12-10,Family Gift Box,South TN,14,18480,4212,Gift Box,Ramanathapuram,Gifting,12,Shop,UPI
+2848,2025-12-10,Kids Special Pack,South TN,6,2880,1043,Gift Box,Ramanathapuram,Retail,4,Shop,Cash
+2850,2025-12-10,Sparklers (10 pcs),Chennai,5,294,99,Sparklers,Kancheepuram,Retail,2,Shop,UPI
+2039,2025-12-11,Rockets (10 pcs),South TN,1,216,71,Aerial,Thoothukudi,Retail,2,Shop,Cash
+2096,2025-12-11,Sky Shot 7 Shot,Other States,41,15682,3979,Aerial,Bengaluru,Wholesale,15,Phone/WhatsApp,UPI
+2156,2025-12-11,Rockets (10 pcs),Chennai,1,216,81,Aerial,Avadi,Retail,2,Shop,Cash
+2581,2025-12-11,Flower Pots (5 pcs),Other States,1,175,59,Ground,Hyderabad,Retail,3,Phone/WhatsApp,Card
+2112,2025-12-12,Lakshmi Vedi (10 pcs),South TN,5,441,136,Sound,Madurai,Retail,2,Phone/WhatsApp,Cash
+2884,2025-12-12,Rockets (10 pcs),West TN,38,6270,1633,Aerial,Coimbatore,Wholesale,25,Shop,Cash
+3213,2025-12-12,Multi Shot 30 Shot,Chennai,20,19680,5590,Aerial,Avadi,Wholesale,18,Online,Cash
+2233,2025-12-13,Sparklers (10 pcs),West TN,1,58,20,Sparklers,Salem,Retail,4,Shop,Cash
+2336,2025-12-13,Ground Chakkar (10 pcs),Chennai,5,693,241,Ground,Chennai,Retail,1,Shop,Cash
+2146,2025-12-14,Ground Chakkar (10 pcs),Chennai,40,4368,1176,Ground,Tambaram,Wholesale,22,Phone/WhatsApp,UPI
+3178,2025-12-15,Family Gift Box,Chennai,5,7200,2349,Gift Box,Chennai,Retail,4,Shop,UPI
+2397,2025-12-16,Flower Pots (5 pcs),North TN,34,5263,1785,Ground,Cuddalore,Gifting,14,Phone/WhatsApp,UPI
+2070,2025-12-17,Sky Shot 7 Shot,Other States,5,2228,693,Aerial,Vijayawada,Retail,1,Shop,UPI
+3378,2025-12-18,Lakshmi Vedi (10 pcs),South TN,5,436,149,Sound,Tirunelveli,Retail,3,Shop,UPI
+2232,2025-12-19,Rockets (10 pcs),North TN,6,1267,432,Aerial,Thanjavur,Retail,4,Shop,Cash
+2273,2025-12-19,Kids Special Pack,Other States,35,15050,5120,Gift Box,Vijayawada,Gifting,14,Phone/WhatsApp,UPI
+2742,2025-12-19,Bijili Crackers (100),South TN,4,456,112,Sound,Virudhunagar,Retail,5,Online,UPI
+2439,2025-12-20,Flower Pots (5 pcs),South TN,34,4835,1276,Ground,Thoothukudi,Wholesale,21,Online,Cash
+2969,2025-12-20,Ground Chakkar (10 pcs),South TN,37,4092,1296,Ground,Tirunelveli,Wholesale,21,Shop,Cash
+3385,2025-12-20,Bijili Crackers (100),West TN,1,114,29,Sound,Coimbatore,Retail,5,Phone/WhatsApp,UPI
+2445,2025-12-22,Flower Pots (5 pcs),Other States,6,1058,343,Ground,Hyderabad,Retail,2,Shop,UPI
+2567,2025-12-22,Sparklers (10 pcs),North TN,2,120,48,Sparklers,Trichy,Retail,0,Phone/WhatsApp,UPI
+3183,2025-12-22,Family Gift Box,West TN,3,4320,1221,Gift Box,Erode,Retail,4,Phone/WhatsApp,Card
+3198,2025-12-23,Rockets (10 pcs),South TN,1,211,76,Aerial,Ramanathapuram,Retail,4,Shop,UPI
+2328,2025-12-24,Flower Pots (5 pcs),Chennai,5,891,250,Ground,Kancheepuram,Retail,1,Shop,UPI
+2429,2025-12-24,Flower Pots (5 pcs),Chennai,5,891,254,Ground,Tambaram,Retail,1,Shop,Card
+2604,2025-12-24,Rockets (10 pcs),West TN,10,1980,612,Aerial,Erode,Gifting,10,Shop,Credit
+2465,2025-12-25,Bijili Crackers (100),South TN,1,119,31,Sound,Virudhunagar,Retail,1,Phone/WhatsApp,Card
+2820,2025-12-25,Kids Special Pack,Chennai,56,22960,6336,Gift Box,Tambaram,Wholesale,18,Phone/WhatsApp,UPI
+3372,2025-12-25,Rockets (10 pcs),West TN,1,218,78,Aerial,Tiruppur,Retail,1,Shop,UPI
+2117,2025-12-26,Atom Bomb (10 pcs),Chennai,2,317,93,Sound,Avadi,Retail,1,Shop,UPI
+3380,2025-12-26,Deluxe Gift Box,South TN,1,3360,741,Gift Box,Madurai,Retail,4,Phone/WhatsApp,Card
+2673,2025-12-27,Atom Bomb (10 pcs),Chennai,3,480,137,Sound,Kancheepuram,Retail,0,Phone/WhatsApp,UPI
+2965,2025-12-27,Fancy Fountain,Chennai,4,1344,387,Fancy,Tambaram,Retail,4,Shop,UPI
+3356,2025-12-28,Family Gift Box,West TN,5,7350,2077,Gift Box,Tiruppur,Retail,2,Phone/WhatsApp,UPI
+2834,2025-12-29,Flower Pots (5 pcs),North TN,5,882,330,Ground,Cuddalore,Retail,2,Phone/WhatsApp,UPI
+2998,2025-12-29,Lakshmi Vedi (10 pcs),West TN,56,4183,1298,Sound,Salem,Wholesale,17,Phone/WhatsApp,Cash
+3081,2025-12-29,Sky Shot 7 Shot,South TN,36,14904,4441,Aerial,Madurai,Gifting,8,Shop,Cash
+3313,2025-12-29,Sparklers (10 pcs),Chennai,197,8629,2638,Sparklers,Chennai,Dealer,27,Phone/WhatsApp,UPI
+3398,2025-12-29,Sparklers (10 pcs),Chennai,33,1703,498,Sparklers,Kancheepuram,Gifting,14,Shop,Cash
+2987,2025-12-30,Rockets (10 pcs),West TN,34,5834,1952,Aerial,Erode,Wholesale,22,Shop,UPI
+2401,2025-12-31,Lakshmi Vedi (10 pcs),Other States,3,256,66,Sound,Bengaluru,Retail,5,Shop,Cash
+2412,2025-12-31,Multi Shot 30 Shot,Other States,14,12600,2939,Aerial,Bengaluru,Wholesale,25,Shop,Cash
+2532,2025-12-31,Sparklers (10 pcs),South TN,69,3188,960,Sparklers,Ramanathapuram,Wholesale,23,Shop,Cash
+2981,2025-12-31,Fancy Fountain,North TN,2,679,199,Fancy,Trichy,Retail,3,Shop,UPI
+3195,2025-12-31,Fancy Fountain,Chennai,2,679,242,Fancy,Kancheepuram,Retail,3,Phone/WhatsApp,Cash

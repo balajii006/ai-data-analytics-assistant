@@ -64,6 +64,11 @@ Rules:
 - Use only columns that exist in the schema.
 - Do not use INSERT, UPDATE, DELETE, DROP, ALTER, CREATE, or REPLACE.
 - Return only SQL.
+- For questions asking for highest, lowest, most, or least, return the category column AND the numeric metric used for comparison.
+- Do not return only the category.
+- If the question asks about sales by region, return Region and SUM(Sales).
+- If the question asks about profit by product, return Product and SUM(Profit).
+- For ranking questions, include the numeric value in the SELECT result.
 """
 
     # Generate SQL

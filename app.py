@@ -48,10 +48,10 @@ Rules:
 - Return only SQL.
 """
 
-    response = client.models.generate_content(
-        model="gemini-3.5-flash",
-        contents=prompt
-    )
+response = client.models.generate_content(
+    model="gemini-2.5-flash",
+    contents=prompt
+)
 
     query = response.text.strip()
     query = query.replace("```sql", "").replace("```", "").strip()
@@ -113,10 +113,10 @@ Give one short business insight based ONLY on this result.
 Do not invent information.
 """
 
-    insight_response = client.models.generate_content(
-        model="gemini-3.5-flash",
-        contents=insight_prompt
-    )
+insight_response = client.models.generate_content(
+    model="gemini-2.5-flash",
+    contents=insight_prompt
+)
 
     insight = insight_response.text
 
